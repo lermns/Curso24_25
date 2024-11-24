@@ -13,5 +13,6 @@
                 <MenuItem x:Name="MenuNuevo" Header="Nuevo..."/>
             </MenuItem>
         </Menu>
+        <Button x:Name="BotonModificar" Content="Modificar" HorizontalAlignment="Left" Margin="624,349,0,0" VerticalAlignment="Top" Click="BotonModificar_Click"/>
     </Grid>
 </Window>

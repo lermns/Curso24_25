@@ -14,5 +14,9 @@ namespace actividad_8.DTO.Logica
         public void aniadirLibros(Libro libro) { 
             listLibros.Add(libro);
         }
+
+        public void modificarLibro(Libro libro, int pos) {
+            listLibros[pos] = libro;
+        }
     }
 }

@@ -10,8 +10,8 @@
         <Label Content="Titulo" HorizontalAlignment="Left" Margin="34,45,0,0" VerticalAlignment="Top" Height="26" Width="40"/>
         <Label Content="Autor" HorizontalAlignment="Left" Margin="34,105,0,0" VerticalAlignment="Top" Height="26" Width="40"/>
         <Label Content="Fecha Entrada" HorizontalAlignment="Left" Margin="34,163,0,0" VerticalAlignment="Top" Height="26" Width="84"/>
-        <TextBox HorizontalAlignment="Left" Text="{Binding Path=titulo}" Margin="136,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Text="{Binding Path=autor}" Margin="136,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Validation.Error="Validation_Error" Text="{Binding Path=titulo, NotifyOnValidationError=True, ValidatesOnDataErrors=True}" Margin="136,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Validation.Error="Validation_Error" Text="{Binding Path=autor, NotifyOnValidationError=True, ValidatesOnDataErrors=True}" Margin="136,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <DatePicker HorizontalAlignment="Left" SelectedDate="{Binding Path=fechaEntrada}" Margin="136,165,0,0" VerticalAlignment="Top"/>
         <Button x:Name="ButtonAceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="136,315,0,0" VerticalAlignment="Top" Click="ButtonAceptar_Click"/>
         <Button x:Name="ButtonCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="283,315,0,0" VerticalAlignment="Top" Click="ButtonCancelar_Click"/>

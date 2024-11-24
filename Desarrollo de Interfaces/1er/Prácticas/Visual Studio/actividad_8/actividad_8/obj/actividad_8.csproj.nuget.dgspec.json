@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\actividad_8.csproj": {}
+    "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\actividad_8.csproj": {}
   },
   "projects": {
-    "D:\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\actividad_8.csproj": {
+    "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\actividad_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\actividad_8.csproj",
+        "projectUniqueName": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\actividad_8.csproj",
         "projectName": "actividad_8",
-        "projectPath": "D:\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\actividad_8.csproj",
+        "projectPath": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\actividad_8.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\obj\\",
+        "outputPath": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Prácticas\\Visual Studio\\actividad_8\\actividad_8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
