@@ -1,0 +1,40 @@
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.exe
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.deps.json
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.runtimeconfig.json
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.dll
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.pdb
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7_MarkupCompile.cache
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7_MarkupCompile.lref
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.g.resources
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.dll
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\refint\actividad_7.dll
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.pdb
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\actividad_7\actividad_7\obj\Debug\net8.0-windows\ref\actividad_7.dll
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.exe
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.deps.json
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.runtimeconfig.json
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.dll
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\bin\Debug\net8.0-windows\actividad_7.pdb
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\App.g.cs
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7_MarkupCompile.cache
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7_MarkupCompile.lref
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.g.resources
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.AssemblyInfoInputs.cache
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.AssemblyInfo.cs
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.csproj.CoreCompileInputs.cache
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.dll
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\refint\actividad_7.dll
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.pdb
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\actividad_7.genruntimeconfig.cache
+D:\Curso24_25\Desarrollo de Interfaces\1er\Prácticas\Visual Studio\actividad_7\actividad_7\obj\Debug\net8.0-windows\ref\actividad_7.dll
