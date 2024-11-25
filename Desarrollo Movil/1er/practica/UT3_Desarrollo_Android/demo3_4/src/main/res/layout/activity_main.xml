@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:text="Para:"
+    android:textSize="16sp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:autofillHints=""
+        android:inputType="textEmailAddress"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="Asunto:"
+        android:textSize="16sp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:autofillHints=""
+        android:inputType="text"/>
+
+    <EditText
+        android:id="@+id/txtMessage"
+        android:layout_width="match_parent"
+        android:layout_height="457dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine" />
+
+    <Button
+        android:id="@+id/botonEnviar"
+        android:layout_width="100dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/purple_200"
+        android:layout_gravity="end"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:text="@string/enviar" />
+
+</LinearLayout>
