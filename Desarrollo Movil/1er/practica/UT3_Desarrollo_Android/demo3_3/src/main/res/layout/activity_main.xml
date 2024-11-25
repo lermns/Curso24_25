@@ -17,6 +17,7 @@
         android:layout_height="46dp"
         android:hint="Introduce el usuario"
         android:textColorHint="#F06292"
+        android:backgroundTint="#FF0000"
         android:inputType="textPersonName"/>
 
     <EditText
@@ -24,6 +25,7 @@
         android:layout_height="46dp"
         android:hint="Introduce el contraseña"
         android:textColorHint="#F06292"
+        android:backgroundTint="#FF0000"
         android:inputType="textPassword"/>
 
     <EditText
@@ -31,6 +33,7 @@
         android:layout_height="46dp"
         android:hint="Repita la contraseña"
         android:textColorHint="#F06292"
+        android:backgroundTint="#FF0000"
         android:inputType="textPassword"/>
 
     <EditText
@@ -38,15 +41,17 @@
         android:layout_height="46dp"
         android:hint="Introduce tu teléfono (9 cifras sin espacios)..."
         android:textColorHint="#F06292"
+        android:backgroundTint="#FF0000"
         android:inputType="phone"/>
 
     <EditText
-        android:id="@+id/editTextNumber"
+        android:id="@+id/etTarjeta"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Introduce nº tarjeta crédito..."
         android:maxLength="19"
+        android:digits="1234567890-"
         android:inputType="number" />
 
     <Button
@@ -55,4 +60,14 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="ACEPTAR"/>
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Comentarios..."
+        android:inputType="textMultiLine" />
 </LinearLayout>

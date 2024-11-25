@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demo3_5</string>
+    <string name="boton_1">Button1</string>
+    <string name="boton_2">Button2</string>
+    <string name="boton_3">Button3</string>
+    <string name="texto_boton2">image boton</string>
+    <string name="bot_n_con_icono_de_una_alarma">boton 1</string>
+</resources>
