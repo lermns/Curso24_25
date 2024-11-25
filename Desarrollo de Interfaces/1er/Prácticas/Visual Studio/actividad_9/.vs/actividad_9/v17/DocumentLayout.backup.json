@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\actividad_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{107726FE-17C2-4772-94EC-9BAB5761FD10}|actividad_9\\actividad_9.csproj|f:\\curso24_25\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\actividad_9\\actividad_9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107726FE-17C2-4772-94EC-9BAB5761FD10}|actividad_9\\actividad_9.csproj|solutionrelative:actividad_9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107726FE-17C2-4772-94EC-9BAB5761FD10}|actividad_9\\actividad_9.csproj|f:\\curso24_25\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\actividad_9\\actividad_9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{107726FE-17C2-4772-94EC-9BAB5761FD10}|actividad_9\\actividad_9.csproj|solutionrelative:actividad_9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\actividad_9\\actividad_9\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "actividad_9\\MainWindow.xaml",
+              "ToolTip": "F:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\actividad_9\\actividad_9\\MainWindow.xaml",
+              "RelativeToolTip": "actividad_9\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T11:49:35.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\actividad_9\\actividad_9\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "actividad_9\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\actividad_9\\actividad_9\\MainWindow.xaml.cs",
+              "RelativeToolTip": "actividad_9\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:49:35.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
