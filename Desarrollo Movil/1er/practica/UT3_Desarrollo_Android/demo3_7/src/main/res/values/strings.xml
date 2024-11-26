@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">demo3_7</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="spinner">Spinner</string>
+    <string name="operando_1">operando 1</string>
+    <string name="operando_2">operando 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="calcular">Calcular</string>
+    <string name="resulatado">Resulatado:</string>
+</resources>
