@@ -45,9 +45,7 @@
 // siguiendo la máxima de "ó lo usas tú ó lo uso yo, pero lo que no podemos
 // hacer es usarlo los dos a la vez, así que mejor vamos a ponernos de acuerdo".
 
-
 package Threads.Clase.JAVA_160_HS_PR_CONSUMIDOR.p0;
-
 
 public class HiloCamarero extends Thread {
 

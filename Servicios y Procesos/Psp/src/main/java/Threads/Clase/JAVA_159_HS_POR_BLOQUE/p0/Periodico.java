@@ -18,7 +18,7 @@ package Threads.Clase.JAVA_159_HS_POR_BLOQUE.p0;
 public class Periodico {
 
     // llave a utilizar puede ser cualquier objeto.    
-    private Object llave; 
+    private Object llave;
     
     // se carga la llave a través del constructor.
     public Periodico(Object llave) {
@@ -51,16 +51,16 @@ public class Periodico {
         // conseguir dicha llave, introduciéndose en un ESTADO DE NO EJECUCIÓN
         // de tipo BLOCKED (NON RUNNING STATES = BLOCKED, WAITING, SLEEPING).
         
-        synchronized(llave) {
+        synchronized(llave){
             // Sólo el hilo que posea la llave podrá ejecutar el contenido de este 
             // bloque, mostrándose por pantalla el mensaje "... DEPORTES".
+            //this.llave="otra llave";
             System.out.println(nombreHilo + " ... ESTA LEYENDO LA SECCION DE DEPORTES");
             // SE LE QUITARÁ LA LLAVE AL HILO AL FINALIZAR EL PRESENTE BLOQUE Y NO ANTES.
             retardar(); 
             System.out.println("\n   >> >> >> EL HILO " + nombreHilo +
                     " >> >> >> SUELTA LA LLAVE DEL BLOQUE DEPORTES \n");
         }
-        
         // LLEGADOS A ESTE PUNTO ...
         
         // ... y una vez completado el bloque sincronizado, EL SCHEDULER LE QUITA

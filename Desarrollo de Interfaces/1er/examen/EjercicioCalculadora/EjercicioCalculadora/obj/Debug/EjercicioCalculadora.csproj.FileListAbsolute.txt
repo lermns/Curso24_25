@@ -1,0 +1,45 @@
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.exe.config
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.exe
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.pdb
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.AssemblyReference.cache
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\MainWindow.g.cs
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\App.g.cs
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora_MarkupCompile.cache
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora_MarkupCompile.lref
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\MainWindow.baml
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.g.resources
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.Properties.Resources.resources
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.GenerateResource.cache
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.CoreCompileInputs.cache
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.exe
+F:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.pdb
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.exe.config
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.exe
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.pdb
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.AssemblyReference.cache
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\MainWindow.g.cs
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\App.g.cs
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora_MarkupCompile.cache
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora_MarkupCompile.lref
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\MainWindow.baml
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.g.resources
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.Properties.Resources.resources
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.GenerateResource.cache
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.CoreCompileInputs.cache
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.exe
+E:\DAM2\Desarrollo de interfaces\Visual Studio (WPF)\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.pdb
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.exe.config
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.exe
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\bin\Debug\EjercicioCalculadora.pdb
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.AssemblyReference.cache
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\MainWindow.g.cs
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\App.g.cs
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora_MarkupCompile.cache
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora_MarkupCompile.lref
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\MainWindow.baml
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.g.resources
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.Properties.Resources.resources
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.GenerateResource.cache
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.csproj.CoreCompileInputs.cache
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.exe
+D:\Curso24_25\Curso24_25\Desarrollo de Interfaces\1er\examen\EjercicioCalculadora\EjercicioCalculadora\obj\Debug\EjercicioCalculadora.pdb

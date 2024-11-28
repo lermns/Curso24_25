@@ -23,8 +23,8 @@ public class PruebaLectura {
         Periodico periodico = new Periodico(llave);
         
         // Entregamos el recurso compartido Periodico a cada uno de los hilos.
-        Hilo h1 = new Hilo(periodico);
-        Hilo h2 = new Hilo(periodico);
+        Thread h1 = new Hilo(periodico);
+        Thread h2 = new Hilo(periodico);
         
         // Bautizar los hilos.
         h1.setName("ANA");

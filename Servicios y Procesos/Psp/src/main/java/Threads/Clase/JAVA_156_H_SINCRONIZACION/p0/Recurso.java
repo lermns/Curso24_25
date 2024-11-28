@@ -14,9 +14,7 @@
 //       misma forma, los hilos no "hablan" entre sí, sino que es el Scheduler
 //       el que se encarga de sincronizarlos entre si.
 
-
 package Threads.Clase.JAVA_156_H_SINCRONIZACION.p0;
-
 
 public class Recurso {
 
@@ -46,6 +44,5 @@ public class Recurso {
             }
         System.out.println("FINALIZACION - DEL METODO2 POR EL HILO ... " + 
                 Thread.currentThread().getName() + "\n\n");
-    }       
-
+    }
 }

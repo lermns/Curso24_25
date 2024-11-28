@@ -11,7 +11,7 @@ package Threads.Clase.JAVA_158_HS_MOVIL_ESTATICO.p0;
 
 
 public class HiloAmigos extends Thread {
-   
+
     @Override
     public void run() {
         Movil.llamarAmigos();

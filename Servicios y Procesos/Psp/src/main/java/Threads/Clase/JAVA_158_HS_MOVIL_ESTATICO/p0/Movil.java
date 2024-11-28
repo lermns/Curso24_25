@@ -13,7 +13,6 @@
 
 package Threads.Clase.JAVA_158_HS_MOVIL_ESTATICO.p0;
 
-
 public class Movil {
 
     // MÉTODO ESTÁTICO Y SÍNCRONO. Llave utilizada Movil.class (sólo hay 1).
@@ -25,6 +24,7 @@ public class Movil {
         } catch (InterruptedException ie) {
             System.out.println(ie);
         }
+        System.out.println("termina telefono urgencias");
     }
 
     // MÉTODO ESTÁTICO Y SÍNCRONO. Llave utilizada Movil.class (sólo hay 1).
@@ -36,6 +36,6 @@ public class Movil {
         } catch (InterruptedException ie) {
             System.out.println(ie);
         }
+        System.out.println("termina telefono amigos");
     }
-
 }

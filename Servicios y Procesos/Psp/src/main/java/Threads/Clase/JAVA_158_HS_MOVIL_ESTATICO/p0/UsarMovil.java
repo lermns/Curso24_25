@@ -12,11 +12,9 @@ package Threads.Clase.JAVA_158_HS_MOVIL_ESTATICO.p0;
 public class UsarMovil {
 
     public static void main(String[] args) {
-        
         Thread h1 = new HiloUrgencias();
-        
-        Thread h2 = new HiloAmigos();
-        
+        Thread h2 = new HiloUrgencias();
+
         // El orden en el que se arrancarán los hilos no se puede asegurar
         // al 100% por el simple hecho de colocar h1 por delante de h2. Lo
         // habitual es que sea así, pero no siempre sucede.
@@ -26,8 +24,8 @@ public class UsarMovil {
         // podemos colocar lógica en el run() de cada hilo, pero eso "ensucia" el
         // código verdadero del hilo.
         
-        h1.start();        
-        h2.start();   
+        h1.start();
+        h2.start();
     }   
 
 }

@@ -10,7 +10,7 @@ package Threads.Clase.JAVA_159_HS_POR_BLOQUE.p0;
 public class Hilo extends Thread {
 
     // el recurso compartido.
-    private Periodico periodico;
+    private final Periodico periodico;
     
     // el constructor para cargar el recurso compartido.
     public Hilo(Periodico periodico) {

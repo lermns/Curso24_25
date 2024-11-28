@@ -24,7 +24,6 @@
 // terminar para que la aplicación (no confundirlo con el método main), pueda
 // terminar.
 
-
 package Threads.Clase.JAVA_160_HS_PR_CONSUMIDOR.p0;
 
 
