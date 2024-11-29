@@ -21,23 +21,28 @@ public class HiloClaseInterna {
                                         + " HEREDANDO DE THREAD");
                             }
                         };
+
+        //  Otra alternativa usando lambda
+
+        Thread hilo2 = new Thread(() -> System.out.println("SOY HILO POR CLASE INTERNA HEREDANDO DE THREAD"));
         
         hilo1.start();
+        hilo2.start();
 
         
         
         /// USANDO RUNNABLE:
         
-        Thread hilo2 = new Thread(  new Runnable(){
+        Thread hilo3 = new Thread(  new Runnable(){
                                             @Override
                                             public void run() {
                                                 System.out.println("SOY HILO POR CLASE INTERNA"
                                                         + " QUE IMPLEMENTA RUNNABLE");
                                             }
                                     }
-                                 );        
+                                 );
 
-        hilo2.start();               
+        hilo3.start();
     }   
     
 }

@@ -6,7 +6,6 @@
 
 package Threads.Clase.JAVA_164_CLASES_INTERNAS.p0;
 
-
 public class Contenedora { // clase TOP-LEVEL (public, "default")
 
     private int x = 10;
@@ -16,6 +15,7 @@ public class Contenedora { // clase TOP-LEVEL (public, "default")
     protected class Interna_B {}
     class Interna_C {}
     private class Interna_D {}
+
 
     
     public void metodo() {
@@ -34,6 +34,7 @@ public class Contenedora { // clase TOP-LEVEL (public, "default")
 // 1. UTILIZACIÓN DESDE EL main DE LA PROPIA CLASE:    
     
     public static void main(String[] args) {
+
 
         // Se necesita instanciar un objeto de la contenedora para poder
         // instanciar un objeto de la contenida (interna).
