@@ -1,0 +1,19 @@
+﻿<Window x:Class="ExamenUD3_Leonardo_Ramos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenUD3_Leonardo_Ramos"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="486" Width="800" ScrollViewer.CanContentScroll="True" ResizeMode="NoResize">
+    <Grid>
+        <Menu Height="23" VerticalAlignment="Top">
+            <MenuItem Header="Cliente" x:Name="MenuItemCliente" Height="21" Width="53" RenderTransformOrigin="0.851,0.678">
+                <MenuItem Header="Nuevo..." x:Name="MenuItemNuevo" Click="MenuItemNuevo_Click"/>
+            </MenuItem>
+        </Menu>
+        <DataGrid x:Name="DataGridListaClientes" ItemsSource="{Binding Path=listaClientes}" AutoGenerateColumns="True" Margin="0,28,0,106" Height="300"/>
+        <Button x:Name="ButtonModificar" Content="Modificar" Height="35" Width="100" Click="ButtonModificar_Click" Margin="625,367,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

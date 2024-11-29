@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\",
+  "WorkspaceRootPath": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\curso24_25\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\dialogocliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\dialogocliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|solutionrelative:examen_leo\\dialogocliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\curso24_25\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|solutionrelative:examen_leo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\curso24_25\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\dialogocliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\dialogocliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|solutionrelative:examen_leo\\dialogocliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\curso24_25\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\dto\\logica\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|solutionrelative:examen_leo\\dto\\logica\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\dto\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|solutionrelative:examen_leo\\dto\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\curso24_25\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\dto\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|solutionrelative:examen_leo\\dto\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\1er\\pr\u00E1cticas\\visual studio\\examen_leo\\examen_leo\\dto\\logica\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718894-2073-4CB0-A48A-9AB307A78315}|Examen_Leo\\Examen_Leo.csproj|solutionrelative:examen_leo\\dto\\logica\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,21 +36,20 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Examen_Leo\\MainWindow.xaml",
-              "ToolTip": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\MainWindow.xaml",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\MainWindow.xaml",
               "RelativeToolTip": "Examen_Leo\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-28T17:28:12.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T17:28:12.753Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DialogoCliente.xaml",
-              "DocumentMoniker": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DialogoCliente.xaml",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DialogoCliente.xaml",
               "RelativeDocumentMoniker": "Examen_Leo\\DialogoCliente.xaml",
-              "ToolTip": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DialogoCliente.xaml",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DialogoCliente.xaml",
               "RelativeToolTip": "Examen_Leo\\DialogoCliente.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-28T17:17:08.774Z",
@@ -60,40 +59,37 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DialogoCliente.xaml.cs",
-              "DocumentMoniker": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DialogoCliente.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DialogoCliente.xaml.cs",
               "RelativeDocumentMoniker": "Examen_Leo\\DialogoCliente.xaml.cs",
-              "ToolTip": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DialogoCliente.xaml.cs",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DialogoCliente.xaml.cs",
               "RelativeToolTip": "Examen_Leo\\DialogoCliente.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:55:41.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DTO\\Cliente.cs",
-              "RelativeDocumentMoniker": "Examen_Leo\\DTO\\Cliente.cs",
-              "ToolTip": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DTO\\Cliente.cs",
-              "RelativeToolTip": "Examen_Leo\\DTO\\Cliente.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:19:50.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T15:55:41.982Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DTO\\Cliente.cs",
+              "RelativeDocumentMoniker": "Examen_Leo\\DTO\\Cliente.cs",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DTO\\Cliente.cs",
+              "RelativeToolTip": "Examen_Leo\\DTO\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:19:50.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Logica.cs",
-              "DocumentMoniker": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DTO\\Logica\\Logica.cs",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DTO\\Logica\\Logica.cs",
               "RelativeDocumentMoniker": "Examen_Leo\\DTO\\Logica\\Logica.cs",
-              "ToolTip": "D:\\Curso24_25\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DTO\\Logica\\Logica.cs",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\1er\\Pr\u00E1cticas\\Visual Studio\\Examen_Leo\\Examen_Leo\\DTO\\Logica\\Logica.cs",
               "RelativeToolTip": "Examen_Leo\\DTO\\Logica\\Logica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:25:36.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T15:25:36.136Z"
             }
           ]
         }
