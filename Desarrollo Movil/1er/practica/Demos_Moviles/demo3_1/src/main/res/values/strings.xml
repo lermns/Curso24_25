@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">demo3_1</string>
+    <string name="ejemplos">EJEMPLOS</string>
+    <string name="_1_cambiar_color">1. Cambiar Color</string>
+    <string name="texto_color_material_indigo_500">Texto Color material Indigo 500</string>
+    <string name="_2_cambiar_tama_o">2. Cambiar Tamaño</string>
+    <string name="tama_o_de_14_sp">Tamaño de 14 sp</string>
+    <string name="tama_o_de_16_sp">Tamaño de 16 sp</string>
+    <string name="tama_o_de_20_sp">Tamaño de 20 sp</string>
+    <string name="tama_o_de_24_sp">Tamaño de 24 sp</string>
+    <string name="_3_cambiar_estilo_de_la_fuente">3. Cambiar estilo de la fuente</string>
+    <string name="estilo_normal">Estilo normal</string>
+    <string name="estilo_en_negrita">Estilo en negrita</string>
+    <string name="estilo_en_cursiva">Estilo en cursiva</string>
+    <string name="estilo_en_cursiva_y_negrita">Estilo en cursiva y negrita</string>
+    <string name="_4_cambiar_tipo_de_fuente">4. Cambiar tipo de fuente</string>
+    <string name="tipo_de_fuente_sans">Tipo de fuente sans</string>
+    <string name="tipo_de_fuente_serif">Tipo de fuente serif</string>
+    <string name="tipo_de_fuente_monospace">Tipo de fuente monospace</string>
+    <string name="_5_convertir_urls_en_links_clickeables">5. Convertir URLs en links clickeables</string>
+    <string name="https_developer_android_com">https://developer.android.com</string>
+    <string name="_6_convertir_a_may_sculas">6. Convertir a Mayúsculas</string>
+    <string name="www_google_com">www.google.com</string>
+    <string name="_7_cambiar_familia_tipogr_fica">7. Cambiar familia tipográfica</string>
+    <string name="sans_serif_condensed_medium">Sans Serif Condensed Medium</string>
+    <string name="serif_monospace">Serif Monospace</string>
+    <string name="casual">Casual</string>
+</resources>

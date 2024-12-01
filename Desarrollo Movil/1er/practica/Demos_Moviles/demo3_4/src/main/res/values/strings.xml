@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demo3_4</string>
+    <string name="enviar">Enviar</string>
+    <string name="demo_3_4" />
+    <string name="esto_es_un_texto_de_prueba">esto es un texto de prueba</string>
+    <string name="asunto">Asunto:</string>
+    <string name="para">Para:</string>
+</resources>

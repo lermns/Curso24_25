@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:text="@string/para"
+    android:textSize="16sp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:inputType="textEmailAddress"
+        tools:ignore="LabelFor"
+        android:autofillHints=""
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="@string/asunto"
+        android:textSize="16sp"
+        />
+
+     <EditText
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:autofillHints=""
+        android:inputType="text"
+        tools:ignore="LabelFor"
+        />
+
+    <EditText
+        android:id="@+id/txtMessage"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        tools:ignore="LabelFor"
+        android:autofillHints=""
+        />
+
+    <Button
+        android:id="@+id/botonEnviar"
+        android:layout_width="100dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/purple_700"
+        android:layout_gravity="end"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:text="@string/enviar"
+        />
+
+</LinearLayout>

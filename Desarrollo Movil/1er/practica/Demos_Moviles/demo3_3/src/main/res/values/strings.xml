@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">demo3_3</string>
+    <string name="registro">registro</string>
+    <string name="aceptar">aceptar</string>
+    <string name="introduce_tu_usuario">Introduce tu usuario...</string>
+    <string name="introduce_tu_contrase_a">Introduce tu contraseña...</string>
+    <string name="repite_tu_contrase_a">Repite tu contraseña...</string>
+    <string name="introduce_tu_tel_fono_9_cifras_sin_espacios">Introduce tu teléfono (9 cifras sin espacios)...</string>
+    <string name="introduce_n_mero_de_tarjeta_de_cr_dito">Introduce número de tarjeta de crédito...</string>
+    <string name="comentarios">Comentarios...</string>
+</resources>

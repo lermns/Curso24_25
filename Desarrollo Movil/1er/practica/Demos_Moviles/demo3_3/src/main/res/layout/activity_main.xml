@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!--
+    establecemos el autoFillHills porque si no te marca la adevertencia
+    al igual si no usamos el inputType en los editText
+    -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/registro"
+        android:textAllCaps="true"
+        android:textSize="24sp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/introduce_tu_usuario"
+        android:textColorHint="@color/purple_700"
+        android:inputType="textPersonName"
+        android:backgroundTint="@color/bgTint"
+        android:paddingTop="20dp"
+        android:autofillHints=""
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/introduce_tu_contrase_a"
+        android:textColorHint="@color/purple_700"
+        android:inputType="textPassword"
+        android:backgroundTint="@color/bgTint"
+        android:paddingTop="20dp"
+        android:autofillHints=""
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/repite_tu_contrase_a"
+        android:textColorHint="@color/purple_700"
+        android:inputType="textPassword"
+        android:backgroundTint="@color/bgTint"
+        android:paddingTop="20dp"
+        android:autofillHints=""
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/introduce_tu_tel_fono_9_cifras_sin_espacios"
+        android:textColorHint="@color/purple_700"
+        android:inputType="number"
+        android:backgroundTint="@color/bgTint"
+        android:paddingTop="20dp"
+        android:autofillHints=""
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/introduce_n_mero_de_tarjeta_de_cr_dito"
+        android:textColorHint="@color/purple_700"
+        android:inputType="number"
+        android:digits="1234567890 "
+        android:maxLength="19"
+        android:ems="10"
+        android:backgroundTint="@color/bgTint"
+        android:paddingTop="20dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:hint="@string/comentarios"
+        android:textColorHint="@color/purple_700"
+        android:inputType="textMultiLine"
+        android:gravity="start|top"
+        android:layout_weight="1"
+        android:ems="10"
+        android:backgroundTint="@color/bgTint"
+        android:paddingTop="20dp"
+        android:autofillHints=""
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/purple"
+        android:text="@string/aceptar"
+        android:textColor="@color/white"
+        android:textAllCaps="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+</LinearLayout>

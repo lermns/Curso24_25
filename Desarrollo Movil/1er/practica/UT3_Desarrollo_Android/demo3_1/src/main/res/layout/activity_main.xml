@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.demo3_1.MainActivity">
+
+    <TextView
+        android:id="@+id/Text_1"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:fontFamily="@font/fatal_fighter"
+        android:textSize="24sp"
+        android:text="@string/ejemplos"
+        android:layout_gravity="end"
+        android:gravity="center"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/Text_2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/_1_cambiar_color"
+        style="@style/ExampleText"
+        app:layout_constraintStart_toStartOf="@+id/Text_1"
+        app:layout_constraintTop_toBottomOf="@+id/Text_1" />
+
+    <TextView
+        android:id="@+id/Text_3"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/indigo"
+        android:text="@string/texto_color_material_indigo_500"
+        app:layout_constraintStart_toStartOf="@+id/Text_2"
+        app:layout_constraintTop_toBottomOf="@+id/Text_2" />
+
+    <TextView
+        android:id="@+id/Text_4"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/_2_cambiar_tama_o"
+        style="@style/ExampleText"
+        app:layout_constraintStart_toStartOf="@+id/Text_3"
+        app:layout_constraintTop_toBottomOf="@+id/Text_3" />
+
+    <TextView
+        android:id="@+id/Text_5"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tama_o_de_14_sp"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="@+id/Text_4"
+        app:layout_constraintTop_toBottomOf="@+id/Text_4" />
+
+    <TextView
+        android:id="@+id/Text_6"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tama_o_de_16_sp"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="@+id/Text_5"
+        app:layout_constraintTop_toBottomOf="@+id/Text_5" />
+
+    <TextView
+        android:id="@+id/Text_7"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tama_o_de_20_sp"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/Text_6"
+        app:layout_constraintTop_toBottomOf="@+id/Text_6" />
+
+    <TextView
+        android:id="@+id/Text_8"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tama_o_de_24_sp"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/Text_7"
+        app:layout_constraintTop_toBottomOf="@+id/Text_7" />
+
+    <TextView
+        android:id="@+id/Text_9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_3_cambiar_estilo_de_la_fuente"
+        style="@style/ExampleText"
+        app:layout_constraintStart_toStartOf="@+id/Text_8"
+        app:layout_constraintTop_toBottomOf="@+id/Text_8" />
+
+    <TextView
+        android:id="@+id/Text_10"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/estilo_normal"
+        android:textStyle="normal"
+        app:layout_constraintStart_toStartOf="@+id/Text_9"
+        app:layout_constraintTop_toBottomOf="@+id/Text_9" />
+
+    <TextView
+        android:id="@+id/Text_11"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/estilo_en_negrita"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/Text_10"
+        app:layout_constraintTop_toBottomOf="@+id/Text_10" />
+
+    <TextView
+        android:id="@+id/Text_12"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/estilo_en_cursiva"
+        android:textStyle="italic"
+        app:layout_constraintStart_toStartOf="@+id/Text_11"
+        app:layout_constraintTop_toBottomOf="@+id/Text_11" />
+
+    <TextView
+        android:id="@+id/Text_13"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/estilo_en_cursiva_y_negrita"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="@+id/Text_12"
+        app:layout_constraintTop_toBottomOf="@+id/Text_12" />
+
+    <TextView
+        android:id="@+id/Text_14"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/_4_cambiar_tipo_de_fuente"
+        style="@style/ExampleText"
+        app:layout_constraintStart_toStartOf="@+id/Text_13"
+        app:layout_constraintTop_toBottomOf="@+id/Text_13" />
+
+    <TextView
+        android:id="@+id/Text_15"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tipo_de_fuente_sans"
+        android:typeface="sans"
+        app:layout_constraintStart_toStartOf="@+id/Text_14"
+        app:layout_constraintTop_toBottomOf="@+id/Text_14" />
+    <TextView
+        android:id="@+id/Text_16"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tipo_de_fuente_serif"
+        android:typeface="serif"
+        app:layout_constraintStart_toStartOf="@+id/Text_15"
+        app:layout_constraintTop_toBottomOf="@+id/Text_15" />
+    <TextView
+        android:id="@+id/Text_17"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tipo_de_fuente_monospace"
+        android:typeface="monospace"
+        app:layout_constraintStart_toStartOf="@+id/Text_16"
+        app:layout_constraintTop_toBottomOf="@+id/Text_16" />
+
+    <TextView
+        android:id="@+id/Text_18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_5_convertir_urls_en_links_clickeables"
+        style="@style/ExampleText"
+        app:layout_constraintStart_toStartOf="@+id/Text_17"
+        app:layout_constraintTop_toBottomOf="@+id/Text_17" />
+
+    <TextView
+        android:id="@+id/Text_19"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:text="@string/https_developer_android_com"
+        app:layout_constraintStart_toStartOf="@+id/Text_18"
+        app:layout_constraintTop_toBottomOf="@+id/Text_18" />
+
+    <TextView
+        android:id="@+id/Text_20"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/_6_convertir_a_may_sculas"
+        style="@style/ExampleText"
+        app:layout_constraintStart_toStartOf="@+id/Text_19"
+        app:layout_constraintTop_toBottomOf="@+id/Text_19" />
+
+    <TextView
+        android:id="@+id/Text_21"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:text="@string/www_google_com"
+        app:layout_constraintStart_toStartOf="@+id/Text_20"
+        app:layout_constraintTop_toBottomOf="@+id/Text_20" />
+
+    <TextView
+        android:id="@+id/Text_22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:text="@string/_7_cambiar_familia_tipogr_fica"
+        style="@style/ExampleText"
+        app:layout_constraintStart_toStartOf="@+id/Text_21"
+        app:layout_constraintTop_toBottomOf="@+id/Text_21" />
+
+    <TextView
+        android:id="@+id/Text_23"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/sans_serif_condensed_medium"
+        android:fontFamily="sans-serif-condensed-medium"
+        app:layout_constraintStart_toStartOf="@+id/Text_22"
+        app:layout_constraintTop_toBottomOf="@+id/Text_22" />
+
+    <TextView
+        android:id="@+id/Text_24"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/serif_monospace"
+        android:fontFamily="serif-monospace"
+        app:layout_constraintStart_toStartOf="@+id/Text_23"
+        app:layout_constraintTop_toBottomOf="@+id/Text_23" />
+
+    <TextView
+        android:id="@+id/Text_25"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/casual"
+        android:fontFamily="casual"
+        app:layout_constraintStart_toStartOf="@+id/Text_24"
+        app:layout_constraintTop_toBottomOf="@+id/Text_24" />
+
+    <TextView
+        android:id="@+id/Text_26"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@+id/Text_25"
+        app:layout_constraintTop_toBottomOf="@+id/Text_25" />
+</androidx.constraintlayout.widget.ConstraintLayout>
