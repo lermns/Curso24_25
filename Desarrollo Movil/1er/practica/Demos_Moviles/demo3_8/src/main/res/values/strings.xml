@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demo3_8</string>
+    <string name="plus">+</string>
+    <string name="rest">-</string>
+    <string name="open">OPEN</string>
+    <string name="close">Close</string>
+    <string name="_0">0</string>
+</resources>

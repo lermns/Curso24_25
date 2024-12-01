@@ -5,6 +5,85 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Spinner">
+    tools:context=".SpinnerActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/spToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="?attr/colorSecondaryContainer"
+        app:titleTextColor="?attr/colorOnSecondaryContainer"
+        app:title="Activity Spinner"/>
+
+
+    <EditText
+        android:id="@+id/editTextSpiner1"
+        android:layout_width="342dp"
+        android:layout_height="43dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:gravity="end"
+        android:hint="@string/operando_1"
+        android:inputType="numberDecimal"
+        app:layout_constraintBottom_toTopOf="@+id/editTextSpiner2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spToolbar" />
+
+    <EditText
+        android:id="@+id/editTextSpiner2"
+        android:layout_width="341dp"
+        android:layout_height="42dp"
+        android:layout_marginBottom="560dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:gravity="end"
+        android:hint="@string/operando_2"
+        android:inputType="numberDecimal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/editTextSpiner1"
+        app:layout_constraintStart_toStartOf="@+id/editTextSpiner1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonSpiners"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="340dp"
+        android:background="@drawable/buton_style"
+        android:backgroundTint="#A24DDF"
+        android:text="@string/calcular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextSpiner2"
+        app:layout_constraintVertical_bias="0.801" />
+
+    <TextView
+        android:id="@+id/textViewSpiner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:text="@string/resulatado"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.183"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSpiners"
+        app:layout_constraintVertical_bias="0.011" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="309dp"
+        android:layout_height="wrap_content"
+        android:entries="@array/operaciones"
+        app:layout_constraintBottom_toTopOf="@+id/buttonSpiners"
+        app:layout_constraintEnd_toEndOf="@+id/editTextSpiner2"
+        app:layout_constraintStart_toStartOf="@+id/editTextSpiner2"
+        app:layout_constraintTop_toBottomOf="@+id/editTextSpiner2" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

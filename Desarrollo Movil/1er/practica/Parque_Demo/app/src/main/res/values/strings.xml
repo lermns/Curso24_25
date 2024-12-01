@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parque_Demo</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="p_gina_web">Página Web</string>
+    <string name="nombre">Nombre</string>
+    <string name="actividades">Actividades</string>
+    <string name="zona_deportiva">Zona deportiva</string>
+    <string name="parque_infantil">Parque Infantil</string>
+    <string name="bar">Bar</string>
+    <string name="gaurdar">Gaurdar</string>
+    <string name="hora_de_cierre">Hora de Cierre</string>
+    <string name="hora_de_apertura">Hora de apertura</string>
+    <string name="imagen">imagen</string>
+
+    <string-array name="hora">
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+    </string-array>
+</resources>

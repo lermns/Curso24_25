@@ -9,4 +9,11 @@
     <string name="restar">Restar</string>
     <string name="calcular">Calcular</string>
     <string name="resulatado">Resulatado:</string>
+    <string name="RadioButn">RadioButton</string>
+
+    <string-array name="operaciones">
+        <item>Seleccione una operación</item>
+        <item>Sumar</item>
+        <item>Restar</item>
+    </string-array>
 </resources>

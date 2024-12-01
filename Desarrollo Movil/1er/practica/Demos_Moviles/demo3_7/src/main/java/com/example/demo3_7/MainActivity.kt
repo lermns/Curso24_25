@@ -6,6 +6,7 @@ import android.view.View
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.AppCompatButton
+import androidx.appcompat.widget.Toolbar
 
 class MainActivity : AppCompatActivity() {
     private lateinit var btnCheckBox: AppCompatButton;
@@ -15,6 +16,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
+        val toolbar = findViewById<Toolbar>(R.id.toolbar)
+        setSupportActionBar(toolbar)
     }
 
     fun manejarCliclBotones(view : View){
@@ -26,13 +29,13 @@ class MainActivity : AppCompatActivity() {
         //utilizando la clase intent verificamos cual es el boton que se ha pulsado
         when(view.id){
             R.id.buttonCheck -> {
-                startActivity(Intent(this, CheckBox::class.java))
+                startActivity(Intent(this, CheckBoxActivity::class.java))
             }
             R.id.buttonRadio -> {
-                startActivity(Intent(this, RadioButton::class.java))
+                startActivity(Intent(this, RadioButtonActivity::class.java))
             }
             R.id.buttonSpinner -> {
-                startActivity(Intent(this, Spinner::class.java))
+                startActivity(Intent(this, SpinnerActivity::class.java))
             }
         }
 
