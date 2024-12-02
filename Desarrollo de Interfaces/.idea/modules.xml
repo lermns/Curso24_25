@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1er/examen/Actividad_6/Actividad_6.iml" filepath="$PROJECT_DIR$/1er/examen/Actividad_6/Actividad_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Desarrollo de Interfaces.iml" filepath="$PROJECT_DIR$/.idea/Desarrollo de Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1er/Prácticas/Actividad 3/DesarrolloMovil/DesarrolloMovil.iml" filepath="$PROJECT_DIR$/1er/Prácticas/Actividad 3/DesarrolloMovil/DesarrolloMovil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1er/Prácticas/Actividad 3/JFrameDDI/JFrameDDI.iml" filepath="$PROJECT_DIR$/1er/Prácticas/Actividad 3/JFrameDDI/JFrameDDI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1er/examen/PracticaDII/PracticaDII.iml" filepath="$PROJECT_DIR$/1er/examen/PracticaDII/PracticaDII.iml" />
+    </modules>
+  </component>
+</project>
