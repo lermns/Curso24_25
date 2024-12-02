@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/fondo_main_activity"
+    >
+
+
+    <EditText
+        android:id="@+id/editTextText1"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:ems="10"
+        android:hint="@string/introduce_nombre_del_equipo_a"
+        android:inputType="text"
+        android:background="@color/white"
+        android:padding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <EditText
+        android:id="@+id/editTextText2"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/introduce_nombre_del_equipo_b"
+        android:inputType="text"
+        android:background="@color/white"
+        android:padding="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText1"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="368dp"
+        android:text="@string/empezar"
+        android:textSize="25sp"
+        android:background="@color/purple"
+        android:textAllCaps="true"
+        android:padding="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

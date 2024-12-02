@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivitySegunda"
+    android:background="@drawable/fondo_marcador_activity"
+    >
+
+    <TextView
+        android:id="@+id/textViewMarcadorA"
+        android:layout_width="205dp"
+        android:layout_height="169dp"
+        android:layout_marginBottom="32dp"
+        android:background="@color/celeste"
+        android:fontFamily="@font/font_puntos"
+        android:gravity="center"
+        android:text="@string/_0"
+        android:textSize="160sp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonCambioCampo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewMarcadorB"
+        android:layout_width="206dp"
+        android:layout_height="174dp"
+        android:layout_marginBottom="52dp"
+        android:background="@color/amarillo"
+        android:fontFamily="@font/font_puntos"
+        android:gravity="center"
+        android:text="@string/_0"
+        android:textSize="160sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.521"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewNombreA"
+        android:layout_width="162dp"
+        android:layout_height="43dp"
+        android:fontFamily="@font/font_nombres"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/textViewMarcadorA"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.39" />
+
+    <TextView
+        android:id="@+id/textViewNombreB"
+        android:layout_width="170dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="32dp"
+        android:fontFamily="@font/font_nombres"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/textViewMarcadorB"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.56"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewContA"
+        android:layout_width="76dp"
+        android:layout_height="77dp"
+        android:fontFamily="@font/font_sets"
+        android:gravity="center"
+        android:text="@string/_0"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/buttonA"
+        app:layout_constraintHorizontal_bias="0.34"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.514" />
+
+    <!---->
+
+    <TextView
+        android:id="@+id/textViewContB"
+        android:layout_width="88dp"
+        android:layout_height="78dp"
+        android:fontFamily="@font/font_sets"
+        android:gravity="center"
+        android:text="@string/_0"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.781"
+        app:layout_constraintStart_toEndOf="@+id/buttonB"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.513" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonCambioCampo"
+        android:layout_width="202dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/verdeRaro"
+        android:drawableStart="@drawable/baseline_compare_arrows_24"
+        android:padding="15dp"
+        android:text="@string/cambio_campo"
+        app:layout_constraintBottom_toTopOf="@+id/buttonReiniciar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonReiniciar"
+        android:layout_width="201dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="200dp"
+        android:background="@color/rojo"
+        android:drawableEnd="@drawable/baseline_change_circle_24"
+        android:paddingEnd="25dp"
+        android:text="@string/reiniciar"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/textViewMarcadorB"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonA"
+        android:layout_width="97dp"
+        android:layout_height="47dp"
+        android:layout_marginBottom="364dp"
+        android:background="@color/celeste"
+        android:drawableStart="@drawable/ic_signo_menos"
+        android:drawablePadding="-25dp"
+        android:paddingStart="25dp"
+        android:text="@string/a"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/buttonB"
+        app:layout_constraintHorizontal_bias="0.903"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonB"
+        android:layout_width="96dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="112dp"
+        android:layout_marginBottom="364dp"
+        android:background="@color/amarillo"
+        android:drawableEnd="@drawable/ic_signo_menos"
+        android:drawablePadding="-25dp"
+        android:paddingEnd="20dp"
+        android:text="@string/b"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

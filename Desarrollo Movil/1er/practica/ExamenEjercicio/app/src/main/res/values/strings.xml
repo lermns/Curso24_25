@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenEjercicio</string>
+    <string name="introduce_nombre_del_equipo_a">Introduce nombre del equipo A</string>
+    <string name="introduce_nombre_del_equipo_b">Introduce nombre del equipo B</string>
+    <string name="empezar">empezar</string>
+    <string name="_0">0</string>
+    <string name="cambio_campo">Cambio Campo</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+</resources>
