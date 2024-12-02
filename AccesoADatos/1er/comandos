@@ -1,0 +1,60 @@
+COMANDOS UTILES:
+
+sudo systemctl status docker = comprobar estado del servicio de docker
+sudo systemctl start docker
+sudo systemctl stop docker
+sudo systemctl restart docker
+
+docker stop "nombre_del_contenedor" = parar un contenedor
+docker start "nombre_del_contenedor" = arrancar el contenedor
+docker rm "nombre_del_contenedor" = borrar el contenedor
+docker ps
+docker ps -a
+docker exec -it "nombre_del_contenedor" bash = accede a la terminal del contenedor
+
+bash-4.2# mysql -u root -p = accede a la base de datos (passwd=admin)
+\q = para salir de la base de datos 
+exit = para salir del contenedor
+
+-----------------------------------------------------------------------------------------------------------
+FORMAS DE CONECTARSE:
+String connectionUrl = "jdbc:mysql://localhost:3306"; = cadena de conexión a la base de datos desde código
+jdbc:mysql://192.168.1.254:3306 = por la direccion ip en caso este en un servidor
+String connectionUrl = "jdbc:mysql://localhost:3306/BDPrueba"; = especificando en nombre de la bd para acceder a la bd concreta
+
+--------------------------------------------------------------------------------------------------------------------
+METODO DE CONEXIÓN:
+Connection conn = DriverManager.getConnection(connectionUrl);
+Connection conn = DriverManager.getConnection(connectionUrl, "root", "admin");
+Connection conn = DriverManager.getConnection(connectionUrl, Properties info);
+
+--------------------------------------------------------------------------------------------------------------------
+DOCKER, PRIVILEGIOS, CARGA Y EJECUCIÓN DE DATOS:
+sudo usermod -aG docker "nombre_usuario" = agrega al usuario al grupo de docker para que este pueda ejecutar los comandos.
+
+docker run --name "nombre_contenedor" -e MYSQL_ROOT_PASSWORD=admin -p 3307:3307 -d mysql:latest = 
+Especificamos el nombre del contenedor
+-p mapea puertos de la maquina con el contenedor
+-d mapea el contendor en 2do plano
+mysql:latest especifica la version que queremos instalar en este caso de mysql
+
+
+--------------------------------------------------------------------------------------------------------------
+CONECTORES SQLITE/MYSQL:
+DriverManager = Establece la conexión con la base de datos (getConnection())
+Connection = Es la conexión que devuelve el DriveManager
+Statement = Se usa para realizar consultas SQL (stmn.executeUpdate("string"))
+PreparedStatement = Hereda de Statement y realiza consultas parametrizadas 
+	String sql = "insert into departamentos values (?, ?, ?)"
+	PreparedStatement pr = conexion.preparedStatement(sql)
+	pr.set(1, Integer.parseInt(dep));
+	pr.set(2, dnombre);
+	pr.set(3, loc);
+	int filas = pr.executeUpdate() -> devuelve un Resulset
+		      .executeQuery()  -> devuelve el numero de filas afectadas
+		      .execute()       -> true/Resulset false/Filas Afectadas
+CallableStatement = Extiende de PreparedStatement y ejecuta procedimientos de la base de datos
+Resulset = Conjunto de resultados de una consulta SQL
+	next() -> Te mueves entre filas
+	getString(), getInt(), getFloat()
+	
