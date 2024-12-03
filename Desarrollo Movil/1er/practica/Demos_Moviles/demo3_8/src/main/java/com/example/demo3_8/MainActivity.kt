@@ -53,48 +53,49 @@ class MainActivity : AppCompatActivity() {
 
 
     }
+
     override fun onSaveInstanceState(estadoAGuardar: Bundle) {
         super.onSaveInstanceState(estadoAGuardar)
-        Log.d(TAG, "onSaveInstanceState. Guardo contador con valor = $cont")
+        //Log.d(TAG, "onSaveInstanceState. Guardo contador con valor = $cont")
         estadoAGuardar.putInt("CONTADOR", cont)
     }
 
     override fun onRestoreInstanceState(estadoARestaurar: Bundle) {
         super.onRestoreInstanceState(estadoARestaurar)
         cont=estadoARestaurar.getInt("CONTADOR")
-        Log.d(TAG, "onRestoreInstanceState. Restauro al contador el valor = $cont")
+        //Log.d(TAG, "onRestoreInstanceState. Restauro al contador el valor = $cont")
         val textViewContador=findViewById<TextView>(R.id.textViewContador)
         textViewContador.text = cont.toString()
     }
+    /*
+        override fun onStart() {
+            super.onStart()
+            Log.d(TAG, "En el método onStart")
+        }
 
-    override fun onStart() {
-        super.onStart()
-        Log.d(TAG, "En el método onStart")
-    }
+        override fun onResume() {
+            super.onResume()
+            Log.d(TAG, "En el método onResume")
+        }
 
-    override fun onResume() {
-        super.onResume()
-        Log.d(TAG, "En el método onResume")
-    }
+        override fun onPause() {
+            super.onPause()
+            Log.d(TAG, "En el método onPause")
+        }
 
-    override fun onPause() {
-        super.onPause()
-        Log.d(TAG, "En el método onPause")
-    }
+        override fun onStop() {
+            super.onStop()
+            Log.d(TAG, "En el método onStop")
+        }
 
-    override fun onStop() {
-        super.onStop()
-        Log.d(TAG, "En el método onStop")
-    }
+        override fun onRestart() {
+            super.onRestart()
+            Log.d(TAG, "En el método onRestart")
+        }
 
-    override fun onRestart() {
-        super.onRestart()
-        Log.d(TAG, "En el método onRestart")
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
-        Log.d(TAG, "En el método onDestroy")
-    }
-
+        override fun onDestroy() {
+            super.onDestroy()
+            Log.d(TAG, "En el método onDestroy")
+        }
+    */
 }

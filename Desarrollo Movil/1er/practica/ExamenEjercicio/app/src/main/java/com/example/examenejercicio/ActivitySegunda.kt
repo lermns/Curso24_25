@@ -83,4 +83,20 @@ class ActivitySegunda : AppCompatActivity() {
             contSetB = contSetChng
         }
     }
+    /*
+    override fun onSaveInstanceState(estadoAGuardar: Bundle) {
+        super.onSaveInstanceState(estadoAGuardar)
+        //Log.d(TAG, "onSaveInstanceState. Guardo contador con valor = $cont")
+        estadoAGuardar.putInt("CONTADOR", cont)
+    }
+
+    override fun onRestoreInstanceState(estadoARestaurar: Bundle) {
+        super.onRestoreInstanceState(estadoARestaurar)
+        cont=estadoARestaurar.getInt("CONTADOR")
+        //Log.d(TAG, "onRestoreInstanceState. Restauro al contador el valor = $cont")
+        val textViewContador=findViewById<TextView>(R.id.textViewContador)
+        textViewContador.text = cont.toString()
+    }
+    */
+
 }

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivitySegunda"
+    android:background="@color/black">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarContador"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/toolbarColor"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:titleTextColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonCambioCampo"
+        android:layout_width="202dp"
+        android:layout_height="48dp"
+        android:background="@color/amarillo"
+        android:drawableStart="@drawable/baseline_compare_arrows_24"
+        android:padding="15dp"
+        android:text="@string/cambio_campo"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/buttonResetear"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.944" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonResetear"
+        android:layout_width="201dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="28dp"
+        android:background="@color/rojo"
+        android:text="@string/reiniciar"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/buttonDeshacer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonDeshacer"
+        android:layout_width="201dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="144dp"
+        android:background="@color/toolbarColor"
+        android:drawableStart="@drawable/baseline_undo_24"
+        android:drawablePadding="-30dp"
+        android:paddingStart="35dp"
+        android:text="@string/deshacer"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewTeamB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="112dp"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toStartOf="@+id/textViewTeamA"
+        app:layout_constraintHorizontal_bias="0.31"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewTeamA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="112dp"
+        android:layout_marginEnd="104dp"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewPuntosA"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginBottom="732dp"
+        android:text="@string/_0"
+        android:fontFamily="@font/digital"
+        android:textSize="60sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTeamB"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textViewPuntosB"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="732dp"
+        android:text="@string/_0"
+        android:fontFamily="@font/digital"
+        android:textSize="60sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTeamA"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonSumar3A"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:background="@color/white"
+        android:text="@string/_3"
+        android:drawableStart="@drawable/ic_ball"
+        android:padding="11dp"
+        app:layout_constraintEnd_toStartOf="@+id/buttonSumar3B"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewPuntosA" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonSumar2A"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/_2"
+        android:background="@color/white"
+        android:drawableStart="@drawable/ic_ball"
+        android:padding="11dp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonSumar1A"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSumar3A"
+        app:layout_constraintVertical_bias="0.142" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonSumar1A"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="452dp"
+        android:text="@string/_1"
+        android:background="@color/white"
+        android:drawableStart="@drawable/ic_ball"
+        android:padding="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/buttonSumar1B"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonSumar3B"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="76dp"
+        android:text="@string/_3"
+        android:background="@color/white"
+        android:drawableEnd="@drawable/ic_ball"
+        android:padding="11dp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonSumar2B"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewPuntosB"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonSumar2B"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:text="@string/_2"
+        android:background="@color/white"
+        android:drawableEnd="@drawable/ic_ball"
+        android:padding="11dp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonSumar1B"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toEndOf="@+id/buttonSumar2A" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonSumar1B"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="76dp"
+        android:layout_marginBottom="452dp"
+        android:text="@string/_1"
+        android:background="@color/white"
+        android:drawableEnd="@drawable/ic_ball"
+        android:padding="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
