@@ -12,7 +12,7 @@ public class Main {
     }
 
     private static Connection conexion() throws SQLException {
-        String url= "jdbc:sqlite:" + File.separator + System.getProperty("user.home") + File.separator + "sqlite" + File.separator + "prueba.db";
+        String url= "jdbc:sqlite:/media/leo/USB_de_Leo/Curso24_25/Curso24_25/AccesoADatos/1er/actAlumn.db";
         Connection con = DriverManager.getConnection(url);
         System.out.println("conectado con exito");
         return con;

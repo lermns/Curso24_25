@@ -1,0 +1,24 @@
+COMANDOS SQLITE BASICOS
+
+sqlite3 = abre el sqlite sin ninguna base de datos, ya dentro tendriamos que ejecutar el siguiente comando.
+.open "nombre de la db".db = Esta seria la manera ya dentro del sqlite3.
+sqlite3 "nombre de la base de datos".db = En caso de no existir este crea la base de datos.
+.schema "nombre_de_la_tabla" = Estructura de la tabla.
+.quit = Salir de la db.
+.tables = Muestra las tablas creadas.
+.mode column = Cambia la forma en la que el select nos muestra la tabla.
+
+---------------------------------------------------------------------------------------------------------------------
+
+COMANDOS SQL BASICOS
+
+create table "nombre"(
+  nia int primary key,
+  nombre varchar not null,
+  precio REAL,
+);
+
+//  en caso que no queramos que la tabla se sobreescriba
+create table if not exists coches(
+  "parametros de la tabla"
+);
