@@ -21,9 +21,14 @@ public class PruebaConmutacionYield {
         
         // PROBAR DISTINTAS EJECUCIONES ... NO HAY NADA SEGURO SOBRE QUIÉN
         // ARRANCARÁ PRIMERO.
-        
         miHilo.start();
-        otroHilo.start();   
+        otroHilo.start();
+
+        /*try {
+            miHilo.join(3000);
+        } catch (InterruptedException e) {
+            System.out.println(e.getMessage());
+        }*/
     }
     
 }
