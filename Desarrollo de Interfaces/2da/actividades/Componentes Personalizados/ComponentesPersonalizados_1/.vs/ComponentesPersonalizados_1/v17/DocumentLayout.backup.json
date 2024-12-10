@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5F401-2F75-4A87-A66E-D669B814AA13}|ComponentesPersonalizados_1.csproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\componentes personalizados\\componentespersonalizados_1\\cajatextoautovalidante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69F5F401-2F75-4A87-A66E-D669B814AA13}|ComponentesPersonalizados_1.csproj|solutionrelative:cajatextoautovalidante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5F401-2F75-4A87-A66E-D669B814AA13}|ComponentesPersonalizados_1.csproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\componentes personalizados\\componentespersonalizados_1\\cajatextoautovalidante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5F401-2F75-4A87-A66E-D669B814AA13}|ComponentesPersonalizados_1.csproj|solutionrelative:cajatextoautovalidante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5F401-2F75-4A87-A66E-D669B814AA13}|ComponentesPersonalizados_1.csproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\componentes personalizados\\componentespersonalizados_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5F401-2F75-4A87-A66E-D669B814AA13}|ComponentesPersonalizados_1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CajaTextoAutovalidante.xaml",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados_1\\CajaTextoAutovalidante.xaml",
+              "RelativeDocumentMoniker": "CajaTextoAutovalidante.xaml",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados_1\\CajaTextoAutovalidante.xaml",
+              "RelativeToolTip": "CajaTextoAutovalidante.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T13:02:49.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CajaTextoAutovalidante.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados_1\\CajaTextoAutovalidante.xaml.cs",
+              "RelativeDocumentMoniker": "CajaTextoAutovalidante.xaml.cs",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados_1\\CajaTextoAutovalidante.xaml.cs",
+              "RelativeToolTip": "CajaTextoAutovalidante.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:02:48.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados_1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados_1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:56:30.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

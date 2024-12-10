@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="ComponentesPersonalizados_1.CajaTextoAutovalidante"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ComponentesPersonalizados_1"
+             mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="200">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="MiTextoAutovalidante" Margin="10" LostFocus="MiTextoAutovalidante_LostFocus"/>
+            <Label Name="MiLabelControlError" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

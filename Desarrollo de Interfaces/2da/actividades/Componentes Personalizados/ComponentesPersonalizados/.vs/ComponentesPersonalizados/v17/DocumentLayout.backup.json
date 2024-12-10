@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C164F8D-D83C-4979-9A72-DCA6131C1DBB}|ComponentesPersonalizados.vbproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\componentes personalizados\\componentespersonalizados\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C164F8D-D83C-4979-9A72-DCA6131C1DBB}|ComponentesPersonalizados.vbproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C164F8D-D83C-4979-9A72-DCA6131C1DBB}|ComponentesPersonalizados.vbproj|d:\\users\\pedro.rambar\\desktop\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\componentes personalizados\\componentespersonalizados\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3C164F8D-D83C-4979-9A72-DCA6131C1DBB}|ComponentesPersonalizados.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T11:50:24.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "MainWindow.xaml.vb",
+              "ToolTip": "D:\\Users\\pedro.rambar\\Desktop\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\Componentes Personalizados\\ComponentesPersonalizados\\MainWindow.xaml.vb",
+              "RelativeToolTip": "MainWindow.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T11:50:24.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
