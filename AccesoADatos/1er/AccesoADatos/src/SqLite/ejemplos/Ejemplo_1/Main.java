@@ -5,11 +5,12 @@ import java.sql.*;
 import java.util.Scanner;
 
 public class Main {
+    private static int contID;
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scStr = new Scanner(System.in);
         Connection con;
         System.out.println("Nombre de la base de datos a la que quieras conectarte");
-        String nameDB = "./src/SqLite/ejemplos/DB/" + sc.nextLine() + ".db";
+        String nameDB = "./src/SqLite/ejemplos/DB/" + scStr.nextLine() + ".db";
 
         if(!new File(nameDB).exists()){
             System.out.println("la base de datos " + nameDB + " no existe");
@@ -18,56 +19,56 @@ public class Main {
 
         String conexionURL="jdbc:sqlite:"+nameDB;
         try {
-            con = AbreConexion(conexionURL);
+            con = abreConexion(conexionURL);
             System.out.println("Nombre de la tabla que quieres crear: ");
-            String tableName = sc.nextLine();
+            String tableName = scStr.nextLine();
             crearTabla(con, tableName);
-            System.out.println("ID del alumno");
-            //insertarAlumno(con);
+/*
+            System.out.println("Dame el nombre del alumno: ");
+            String nombre = scStr.nextLine();
+
+            System.out.println("Dame el ciclo en el que esta matriculado: ");
+            String ciclo = scStr.nextLine();
+            insertarAlumno(con, ++contID, nombre, ciclo, tableName);
+*/
+            mostrarRegistrosAlumnos(consultarTodosLosAlumnos(con, tableName));
+
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
-        /*
-        if (con != null) {
-            mostrarDatos(con);
-            agregarDatos(con);
-            mostrarDatos(con);
-        }*/
     }
-    ///home/leo/Escritorio/Windwos_Git/AccesoADatos/1er
-    private static Connection AbreConexion(String url) throws SQLException {
-        System.out.println("crear conexion");
-        Connection con = DriverManager.getConnection(url);
+
+    private static Connection abreConexion(String url) throws  SQLException{
+        System.out.println("metodo crear conexion");
+        Connection con;
+        try {
+            con = DriverManager.getConnection(url);
+        }catch (SQLException e){
+            throw new SQLException("Problema en el metodo abreConexion");
+        }
         System.out.println("conectado con exito");
         return con;
     }
 
     private static void crearTabla(Connection con, String name)throws SQLException{
-        System.out.println("crear tabla");
-        Statement ps = con.createStatement();
-        ps.execute("create table " + name + "(\n" +
-                       "id int primary key,\n" +
-                       "nombre varchar not null,\n" +
-                       "ciclo varchar not null);"
-        );
-        System.out.println("tabla " + name + " creada correctamente");
-
-    }
-
-    private static void mostrarDatos(Connection con){
-        try{
-            PreparedStatement ps = con.prepareStatement("select * from articulos");
-            ResultSet rs = ps.executeQuery();
-
-            while (rs.next()) {
-                System.out.print(rs.getString("nia") + "\t");
-                System.out.print(rs.getString("descripcion") + "\t");
-                System.out.print(rs.getString("precio") + "\n");
+        System.out.println("metodo crear tabla");
+        try {
+            Statement ps = con.createStatement();
+            ps.execute("create table if not exists " + name + "(\n" +
+                    "id int primary key,\n" +
+                    "nombre varchar not null,\n" +
+                    "ciclo varchar not null);"
+            );
+            if (verificarTablaCreada(con, name)) {
+                System.out.println("tabla " + name + " creada correctamente");
+            } else {
+                System.out.println("No se pudo verificar la creación de la tabla " + name);
             }
-        }catch (SQLException e) {
-            System.out.println(e.getMessage());
-            System.out.println("problema al conectarte a la base de datos.");
+        }catch (SQLException e){
+            throw new SQLException("Problema en el metodo crearTabla\n" + e.getMessage());
         }
+        System.out.println("tabla " + name + " creada correctamente");
+        contID=consultarUltID(con, name);
     }
 
     private static void insertarAlumno(Connection con, int id, String name, String ciclo, String tableName) throws SQLException{
@@ -77,7 +78,63 @@ public class Main {
         preStatment.setString(2, name);
         preStatment.setString(3, ciclo);
         int filas = preStatment.executeUpdate();
-        System.out.println(filas + " afectadas");
+        System.out.println(filas + " fila(s) afectada(s)");
+    }
+
+    private static ResultSet consultarTodosLosAlumnos(Connection con, String tablename)throws SQLException{
+        ResultSet rs;
+        try{
+            System.out.println("Metodo consultar todos los alumnos");
+            PreparedStatement ps = con.prepareStatement("select * from " + tablename + ";");
+            rs = ps.executeQuery();
+        }catch (SQLException e) {
+            throw new SQLException("Problema en el metodo consultarTodosLosAlumnos\n" + e.getMessage());
+        }
+        System.out.println("Consulta realizada con exito");
+        return rs;
+    }
+
+    private static void mostrarRegistrosAlumnos(ResultSet resul) throws SQLException{
+        System.out.println("Metodo Mostrar Registros Alumnos");
+        int cont=0;
+        try {
+            System.out.println("id\tnombre\tciclo");
+            while (resul.next()) {
+                cont++;
+                System.out.println("--------------------------------------------");
+                System.out.print(resul.getString("id") + "\t");
+                System.out.print(resul.getString("nombre") + "\t");
+                System.out.print(resul.getString("ciclo") + "\n");
+            }
+            if (cont==0){
+                System.out.println("La tabla esta vacia");
+            }
+
+        }catch (SQLException e){
+            throw new SQLException("Problema con el metodo mostrarRegistrosAlumnos\n" + e.getMessage());
+        }
+        System.out.println("consulta de datos realizada con exito.");
+    }
+
+    private static int consultarUltID(Connection con, String tablename)throws SQLException{
+        ResultSet rs;
+        int idValue;
+        try{
+            System.out.println("Metodo consultar todos los alumnos");
+            PreparedStatement ps = con.prepareStatement("select max(id) from " + tablename + ";");
+            rs = ps.executeQuery();
+            idValue = rs.getInt("id");
+        }catch (SQLException e){
+            throw new SQLException("Problema con el metodo consultarUltID");
+        }
+        System.out.println("Metodo de idValue terminado");
+        return idValue;
+    }
+    private static boolean verificarTablaCreada(Connection con, String name) throws SQLException {
+        DatabaseMetaData meta = con.getMetaData();
+        try (ResultSet rs = meta.getTables(null, null, name, new String[]{"TABLE"})) {
+            return rs.next(); // Si hay un resultado, la tabla existe
+        }
     }
 }
 /*

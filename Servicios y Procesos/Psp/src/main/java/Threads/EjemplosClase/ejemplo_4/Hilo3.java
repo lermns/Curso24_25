@@ -1,4 +1,4 @@
-package Threads.EjemplosClase.ejemplos_4;
+package Threads.EjemplosClase.ejemplo_4;
 
 public class Hilo3 extends Thread {
 
