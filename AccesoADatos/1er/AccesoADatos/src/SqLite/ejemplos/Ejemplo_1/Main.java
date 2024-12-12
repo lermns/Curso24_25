@@ -5,7 +5,6 @@ import java.sql.*;
 import java.util.Scanner;
 
 public class Main {
-    private static int contID;
     public static void main(String[] args) {
         Scanner scStr = new Scanner(System.in);
         Connection con;
@@ -33,9 +32,16 @@ public class Main {
 
             System.out.println("Dame el ciclo en el que esta matriculado: ");
             String ciclo = scStr.nextLine();
-            insertarAlumno(con, ++contID, nombre, ciclo, tableName);
+            insertarAlumno(con, nombre, ciclo, tableName);
 
             mostrarRegistrosAlumnos(consultarTodosLosAlumnos(con, tableName));
+
+            int idUlt = ultimoIdAlumno(con, tableName);
+            System.out.println("id del ultimo alumno es " + idUlt);
+
+            eliminarAlumnoPorId(con, tableName);
+
+            modificarAlumnoPorId(con, tableName);
 
         } catch (SQLException e) {
             System.out.println(e.getMessage());
@@ -59,7 +65,7 @@ public class Main {
         try {
             Statement ps = con.createStatement();
             ps.execute("create table if not exists " + name + "(\n" +
-                    "id int AUTO_INCREMENT primary key,\n" +
+                    "id integer primary key autoincrement,\n" +
                     "nombre varchar not null,\n" +
                     "ciclo varchar not null);"
             );
@@ -68,14 +74,11 @@ public class Main {
             throw new SQLException("Problema en el metodo crearTabla\n" + e.getMessage());
         }
         System.out.println("2--> tabla " + name + " creada correctamente");
-        if(datosEnTablaCount(con, name)>0){
-            contID=ultimoIdAlumno(con, name);
-        }
     }
 
     private static void insertarAlumno(Connection con, String name, String ciclo, String tableName) throws SQLException{
         System.out.println("3--> Metodo insertar");
-        String sqlSent  = "insert into " + tableName + " values (?,?,?);";
+        String sqlSent  = "insert into " + tableName + " (nombre, ciclo) values (?,?);";
         PreparedStatement preStatment = con.prepareStatement(sqlSent);
         preStatment.setString(1, name);
         preStatment.setString(2, ciclo);
@@ -104,33 +107,33 @@ public class Main {
             System.out.println("id\tnombre\tciclo");
             while (resul.next()) {
                 cont++;
-                System.out.println("--------------------------------------------");
+                System.out.println("---------------------");
                 System.out.print(resul.getString("id") + "\t");
                 System.out.print(resul.getString("nombre") + "\t");
                 System.out.print(resul.getString("ciclo") + "\n");
             }
+            System.out.println();
             if (cont==0){
                 System.out.println("La tabla esta vacia");
             }
-
         }catch (SQLException e){
             throw new SQLException("Problema con el metodo mostrarRegistrosAlumnos\n" + e.getMessage());
         }
-        System.out.println("5--> Consulta de datos realizada con exito.");
+        System.out.println("5--> Metodo mostrarRegistrosAlumnos terminada.");
     }
 
     private static int ultimoIdAlumno(Connection con, String tablename)throws SQLException{
         ResultSet rs;
         int idValue;
         try{
-            System.out.println("6--> Metodo consultar todos los alumnos");
+            System.out.println("6--> Metodo ultimoIdAlumno");
             PreparedStatement ps = con.prepareStatement("select max(id) from " + tablename + ";");
             rs = ps.executeQuery();
             idValue = rs.getInt(1);
         }catch (SQLException e){
-            throw new SQLException("Problema con el metodo consultarUltID");
+            throw new SQLException("Problema con el metodo ultimoIdAlumno");
         }
-        System.out.println("6--> Metodo de idValue terminado");
+        System.out.println("6--> Metodo de ultimoIdAlumno terminado");
         return idValue;
     }
 
@@ -155,15 +158,51 @@ public class Main {
         System.out.println("Dame el id del alumno que quieras borrar: ");
         int id = new Scanner(System.in).nextInt();
         try{
-            System.out.println("7--> Metodo datosEnTablaCount cantidad alumnos");
-            PreparedStatement ps = con.prepareStatement("delete from ? where id=?;");
-            ps.setString(1, tablename);
-            ps.setInt(2, id);
+            PreparedStatement ps = con.prepareStatement("delete from " + tablename + " where id=?;");
+            ps.setInt(1, id);
             idValue = ps.executeUpdate();
+            if (idValue>0){
+                System.out.println("Alumno borrado.");
+            }else
+                System.out.println("Alumno no encontrado.");
         }catch (SQLException e){
-            throw new SQLException("Problema con el metodo datosEnTablaCount");
+            throw new SQLException("Problema con el metodo eliminarAlumnoPorId");
         }
         System.out.println("8 --> Metodo eliminar Alumnos Por ID");
+    }
+
+    private static void modificarAlumnoPorId(Connection con, String tablename) throws SQLException{
+        ResultSet rs;
+        int inValue;
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("9 --> Metodo modificarAlumnoPorId");
+        System.out.println("Dame el id del alumno que quieras modificar: ");
+        int id = new Scanner(System.in).nextInt();
+        try{
+            PreparedStatement ps_two = con.prepareStatement("select * from " + tablename + " where id=?;");
+            ps_two.setInt(1, id);
+            rs = ps_two.executeQuery();
+            inValue = rs.getInt(1);
+
+            if(inValue>0){
+                System.out.println("Dame el nuevo nombre del alumno");
+                String name = sc.nextLine();
+                System.out.println("Dame el nuevo ciclo del alumno");
+                String ciclo = sc.nextLine();
+
+                PreparedStatement ps = con.prepareStatement("update " + tablename + " set nombre=?, ciclo=? where id=?;");
+                ps.setString(1, name);
+                ps.setString(2, ciclo);
+                ps.setInt(3, id);
+                inValue = ps.executeUpdate();
+                System.out.println(inValue + " fila(s) actualizada(s).");
+            }else
+                System.out.println("El usuario con el id " + id + " no existe en la base de datos.");
+        }catch (SQLException e){
+            throw new SQLException("Problema con el metodo modificarAlumnoPorId");
+        }
+        System.out.println("9 --> Metodo modificarAlumnoPorId");
     }
 }
 /*
