@@ -8,6 +8,9 @@
       <SelectionState runConfigName="ut4_demo_menu">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="ut4_demo_3">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
