@@ -2,7 +2,9 @@ package MySQL_Docker.Ejemplos.Actividades.Actividad_2;
 
 import java.io.*;
 import java.sql.*;
+import java.util.ArrayList;
 import java.util.Properties;
+import java.util.Scanner;
 
 public class Main {
 
@@ -22,6 +24,20 @@ public class Main {
 
             //  ver claves de una tabla que le pasamos como parametro, usando DataBaseMetaData.getImportedKeys y getExportedKeys
             verClaves(con, "empleados");
+
+            //  recibe la ruta de un fichero con los nombres de los departamentos para insertarlos en la tabla
+            String fich = "src/MySQL_Docker/Ejemplos/Actividades/Actividad_2/MetodosConexion/departamentos.txt";
+            //insertarDepartamentos(con, "departamentos", fich);
+
+            //  inserta un empleado en la tabla recibiendo sus datos por el metodo
+            //insertarEmple(con, "marvin", 900, 1, "empleados");
+
+            //
+            mostrarRegistros(consultarDepartamentos(con, "departamentos"));
+            mostrarRegistros(consultarEmpleados(con, "departamentos", "empleados"));
+
+            //
+            modificarSalarios(con, "empleados");
 
             //  metodo al que se le pasa la conexion y la cierra
             cierraConexion(con);
@@ -110,8 +126,8 @@ public class Main {
                     "emp_id int auto_increment primary key,\n" +
                     "apellido varchar(15) not null,\n" +
                     "salario float(9,2) not null,\n" +
-                    "dep_id int not null,\n" +
-                    "constraint fk_this_depId_to_dept_depId foreign key (dep_id) references " + tDep + "(dep_id)\n" +
+                    "dep_idTEmp int not null,\n" +
+                    "constraint fk_this_depIdTEmp_to_dept_depId foreign key (dep_idTEmp) references " + tDep + "(dep_id)\n" +
                     ");");
 
             if(pr.executeUpdate()==0)
@@ -128,17 +144,147 @@ public class Main {
 
         try{
             DatabaseMetaData dbmetaData = con.getMetaData();
-            ResultSet rs = dbmetaData.getImportedKeys(null,null,tNname);
-            while(rs.next()){
-                System.out.println("Tabla " + rs.getString("FKTABLE_NAME") +
-                        "(" + rs.getString("FKCOLUMN_NAME") + ")" +
-                        " refenrencia a tabla " + rs.getString("PKTABLE_NAME") +
-                        "(" + rs.getString("PKCOLUMN_NAME") + ")");
+
+            ResultSet rsImp = dbmetaData.getImportedKeys(null,null,tNname);
+            ResultSet rsExp = dbmetaData.getExportedKeys(null,null,tNname);
+            ResultSet rsPK = dbmetaData.getPrimaryKeys(null,null,tNname);
+
+            System.out.print("Clave Primaria: ");
+            while(rsPK.next()){
+                System.out.print(rsPK.getString("COLUMN_NAME") + " ");
+            }
+            System.out.println();
+            while(rsImp.next()){
+                System.out.println("Clave foránea " + rsImp.getString("FKCOLUMN_NAME"));
+                System.out.println("Clave importada de tabla " + rsImp.getString("PKTABLE_NAME") +
+                        "("+ rsImp.getString("PKCOLUMN_NAME") + ")");
+            }
+            while(rsExp.next()){
+                System.out.println("Clave exportada " + rsExp.getString("PKCOLUMN_NAME"));
+                System.out.println("Clave exportada a tabla " + rsExp.getString("FKTABLE_NAME") +
+                        "("+ rsExp.getString("FKCOLUMN_NAME") + ")");
             }
 
             System.out.println("7--> COMPLETADO");
         }catch (SQLException e){
             throw new SQLException("7--> ERROR\n" + e.getMessage());
+        }
+    }
+
+    private static void insertarDepartamentos(Connection con, String tName, String fich)throws SQLException{
+        System.out.println("8--> Metodo insertar Departamentos");
+        ArrayList<String> listaDepts = new ArrayList<>();
+        int rowAfects=0;
+
+        try(BufferedReader bfr = new BufferedReader(new FileReader(fich))){
+            String lineaDep;
+            while((lineaDep=bfr.readLine()) != null){
+                listaDepts.add(lineaDep);
+            }
+
+            PreparedStatement pr = con.prepareStatement("insert into " + tName + " (dep_nombre) values (?);");
+            for (String s : listaDepts){
+                pr.setString(1, s);
+                rowAfects += pr.executeUpdate();
+            }
+
+            System.out.println(rowAfects + " Filas agregadas a la talba " + tName);
+
+            System.out.println("8--> COMPLETADO");
+        }catch (IOException|SQLException e){
+            throw new SQLException("8--> ERROR\n" + e.getMessage());
+        }
+    }
+
+    private static ResultSet consultarDepartamentos(Connection con, String deptName)throws SQLException{
+        System.out.println("9--> Metodo Consultar Departamentos");
+        ResultSet rs;
+        try{
+            PreparedStatement pr = con.prepareStatement("select * from " + deptName + ";");
+            rs = pr.executeQuery();
+            System.out.println("9--> COMPLETADO");
+        }catch (SQLException e){
+            throw new SQLException("9--> ERROR\n" + e.getMessage());
+        }
+        return rs;
+    }
+
+    private static void insertarEmple(Connection con, String apellidos, int salario, int dep_id, String tName)throws SQLException{
+        System.out.println("10--> Metodo insertar Emple");
+        try{
+            PreparedStatement pr = con.prepareStatement("insert into " + tName +
+                    " (apellido,salario,dep_idTEmp) values (?,?,?);");
+            pr.setString(1, apellidos);
+            pr.setInt(2, salario);
+            pr.setInt(3, dep_id);
+            int rowsAfect = pr.executeUpdate();
+
+            if(rowsAfect>0)
+                System.out.println(rowsAfect + " Fila agregada a la tabla " + tName);
+            else
+                System.out.println("No se agrego nada a la tabla " + tName);
+
+            System.out.println("10--> COMPLETADO");
+        }catch (SQLException e){
+            throw new SQLException("10--> ERROR\n" + e.getMessage());
+        }
+    }
+
+    private static ResultSet consultarEmpleados(Connection con, String tDep, String tEmp)throws SQLException{
+        System.out.println("11--> Metodo Consultar Empleados");
+
+        ResultSet rs;
+        try{
+            PreparedStatement pr = con.prepareStatement("select emp_id, apellido, salario, dep_nombre from " +
+                    tEmp + ", " + tDep + " where dep_idTEmp=dep_id;");
+            rs = pr.executeQuery();
+            System.out.println("11--> COMPLETADO");
+        }catch (SQLException e){
+            throw new SQLException("11--> ERROR\n" + e.getMessage());
+        }
+        return rs;
+    }
+
+    private static void mostrarRegistros(ResultSet resul)throws SQLException{
+        System.out.println("12--> Metodo mostrarRegistros");
+        try{
+            ResultSetMetaData rsmd = resul.getMetaData();
+            System.out.println("Cantidad de columnas -> " + rsmd.getColumnCount());
+            for (int i = 1; i <= rsmd.getColumnCount() ; i++) {
+                System.out.print(rsmd.getColumnName(i) + "\t\t");
+            }
+            System.out.println();
+            while(resul.next()){
+                for (int i = 1; i <= rsmd.getColumnCount() ; i++) {
+                    System.out.print(resul.getString(i) + "\t\t\t");
+                }
+                System.out.println();
+            }
+            System.out.println("\n12--> COMPLETADO");
+        }catch (SQLException e){
+            throw new SQLException("12--> ERROR\n" + e.getMessage());
+        }
+    }
+
+    private static void modificarSalarios(Connection con, String tName)throws SQLException{
+        System.out.println("13--> Metodo modificarSalarios");
+        byte porcentaje;
+        do {
+            System.out.println("dame el porcetaje a subir que este entre 3-10");
+            porcentaje = new Scanner(System.in).nextByte();
+        }while (porcentaje < 3 || porcentaje > 10);
+
+        float numMult = 1 + (porcentaje/100.0f);
+
+        try{
+            PreparedStatement pr = con.prepareStatement("update " + tName + " set salario=salario*? where salario<1200");
+            pr.setFloat(1, numMult);
+            int rowsAfect = pr.executeUpdate();
+
+            System.out.println(rowsAfect + " fila(s) actualizada(s) en la tabla " + tName);
+            System.out.println("13--> COMPLETADO");
+        }catch (SQLException e){
+            throw new SQLException("13--> ERROR\n" + e.getMessage());
         }
     }
 }
