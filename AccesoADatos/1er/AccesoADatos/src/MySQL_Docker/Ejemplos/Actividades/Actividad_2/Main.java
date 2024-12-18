@@ -2,9 +2,7 @@ package MySQL_Docker.Ejemplos.Actividades.Actividad_2;
 
 import java.io.*;
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.Properties;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 
@@ -30,17 +28,22 @@ public class Main {
             //insertarDepartamentos(con, "departamentos", fich);
 
             //  inserta un empleado en la tabla recibiendo sus datos por el metodo
-            //insertarEmple(con, "marvin", 900, 1, "empleados");
+            //insertarEmple(con, "juan", 1200, 1, "empleados");
 
-            //
+            //  Muestra los registros de un resulset, viendo primero la cantidad de columnas para recuperar los nombres
             mostrarRegistros(consultarDepartamentos(con, "departamentos"));
             mostrarRegistros(consultarEmpleados(con, "departamentos", "empleados"));
 
-            //
+            //  Modifica los salarios de los empleados que tengan un salario menor a 1200, se les actualiza el salario
+            //  incrementandolo de entre un 3-10%, este se ingresa por consola
             modificarSalarios(con, "empleados");
+
+            //  Eliminar un empleado de la tabla, al que se le pasa un id
+            eliminarEmplePorId(con, "empleados");
 
             //  metodo al que se le pasa la conexion y la cierra
             cierraConexion(con);
+
         } catch (IOException | SQLException e) {
             System.out.println(e.getMessage());
         }
@@ -48,8 +51,13 @@ public class Main {
 
     private static String crearUrl()throws IOException{
         System.out.println("1--> Metodo Crear URL");
+
+        //  creamos la instancia de Properties
         Properties confProp = new Properties();
+
+        //  StringBuilder para anidar de forma más sencilla los properties
         StringBuilder strUrl = new StringBuilder();
+
         try {
             confProp.load(new BufferedReader(new FileReader("src/MySQL_Docker/Ejemplos/Actividades/Actividad_2/MetodosConexion/properties.properties")));
             strUrl.append("jdbc:mysql://localhost:3306/")
@@ -69,6 +77,7 @@ public class Main {
         System.out.println("2--> Metodo abreConexion");
         Connection con;
         try{
+            //  Establece la conexion recibiendo un string como el url
             con = DriverManager.getConnection(url);
             System.out.println("2--> COMPLETADO");
         }catch (SQLException e){
@@ -90,6 +99,7 @@ public class Main {
     private static void verInfoDB(Connection con)throws SQLException{
         System.out.println("4--> Metodo verInfo");
         try{
+            //  Se usa los metodos para coger el MetaData y recuperar el SGBD, etc.
             DatabaseMetaData dameTa = con.getMetaData();
             System.out.println("SGBD = " + dameTa.getDatabaseProductName());
             System.out.println("NombreDriver = " + dameTa.getDriverName());
@@ -105,11 +115,13 @@ public class Main {
     private static void crearTablaDepartamentos(Connection con, String tName)throws SQLException{
         System.out.println("5--> Metodo crearTablaDepartamentos");
         try{
+            //  creamos una tabla de departamentos con el nombre que le pasamos como parametro
             PreparedStatement pr = con.prepareStatement("create table if not exists " + tName + "(\n" +
                     "dep_id int auto_increment primary key,\n" +
                     "dep_nombre varchar(15) not null\n" +
                     ");");
 
+            //  En caso de que la tabla se cree, esta devuelve 0
             if(pr.executeUpdate()==0)
                 System.out.println("Creada tabla " + tName);
 
@@ -145,21 +157,28 @@ public class Main {
         try{
             DatabaseMetaData dbmetaData = con.getMetaData();
 
+            //  Recupera en un Resulset las claves importadas, exportadas y pk del nombre de la tabla que se le pasa
             ResultSet rsImp = dbmetaData.getImportedKeys(null,null,tNname);
             ResultSet rsExp = dbmetaData.getExportedKeys(null,null,tNname);
             ResultSet rsPK = dbmetaData.getPrimaryKeys(null,null,tNname);
 
             System.out.print("Clave Primaria: ");
             while(rsPK.next()){
+                //  Recupera la PK
                 System.out.print(rsPK.getString("COLUMN_NAME") + " ");
             }
+
             System.out.println();
+
             while(rsImp.next()){
+                //  Recupera la columna que hace la fk, la tabla y pk de donde la importa
                 System.out.println("Clave foránea " + rsImp.getString("FKCOLUMN_NAME"));
                 System.out.println("Clave importada de tabla " + rsImp.getString("PKTABLE_NAME") +
                         "("+ rsImp.getString("PKCOLUMN_NAME") + ")");
             }
+
             while(rsExp.next()){
+                //  Recupera la clave que se exporta a otra tabla, a la tabla a la que exporta y su pk
                 System.out.println("Clave exportada " + rsExp.getString("PKCOLUMN_NAME"));
                 System.out.println("Clave exportada a tabla " + rsExp.getString("FKTABLE_NAME") +
                         "("+ rsExp.getString("FKCOLUMN_NAME") + ")");
@@ -178,12 +197,16 @@ public class Main {
 
         try(BufferedReader bfr = new BufferedReader(new FileReader(fich))){
             String lineaDep;
+
+            //  Lee la linea y si es distinto de null la agrega a una lista
             while((lineaDep=bfr.readLine()) != null){
                 listaDepts.add(lineaDep);
             }
 
+            //  Prepara el preparestatement con el insert
             PreparedStatement pr = con.prepareStatement("insert into " + tName + " (dep_nombre) values (?);");
             for (String s : listaDepts){
+                //  establece el parametro a la consulta y la ejecuta
                 pr.setString(1, s);
                 rowAfects += pr.executeUpdate();
             }
@@ -248,12 +271,20 @@ public class Main {
     private static void mostrarRegistros(ResultSet resul)throws SQLException{
         System.out.println("12--> Metodo mostrarRegistros");
         try{
+            //  Recupera el resulsetMetaData
             ResultSetMetaData rsmd = resul.getMetaData();
+
+            //  Recupera la cantidad de columnas de la tabla
             System.out.println("Cantidad de columnas -> " + rsmd.getColumnCount());
+
+            //  Recupera el nombre de la columna pasandole el indice desde 1
             for (int i = 1; i <= rsmd.getColumnCount() ; i++) {
                 System.out.print(rsmd.getColumnName(i) + "\t\t");
             }
+
             System.out.println();
+
+            //  Imprime el contenido del ResulSet haciendo el salto de línea  cuando termina con el largo de columnas
             while(resul.next()){
                 for (int i = 1; i <= rsmd.getColumnCount() ; i++) {
                     System.out.print(resul.getString(i) + "\t\t\t");
@@ -269,11 +300,14 @@ public class Main {
     private static void modificarSalarios(Connection con, String tName)throws SQLException{
         System.out.println("13--> Metodo modificarSalarios");
         byte porcentaje;
+
         do {
+            //  Mientras el valor sea menor a 3 o mayor a 10
             System.out.println("dame el porcetaje a subir que este entre 3-10");
             porcentaje = new Scanner(System.in).nextByte();
         }while (porcentaje < 3 || porcentaje > 10);
 
+        //  lo divide entre 100 y le suma 1 para coger el porcentaje entre 3-10
         float numMult = 1 + (porcentaje/100.0f);
 
         try{
@@ -285,6 +319,24 @@ public class Main {
             System.out.println("13--> COMPLETADO");
         }catch (SQLException e){
             throw new SQLException("13--> ERROR\n" + e.getMessage());
+        }
+    }
+
+    private static void eliminarEmplePorId(Connection con, String tName)throws SQLException{
+        System.out.println("14--> Metodo eliminarEmplePorId");
+        try{
+            System.out.println("Dame el id del empleado que quiere borrar:");
+            int intID = new Scanner(System.in).nextInt();
+
+            PreparedStatement pr = con.prepareStatement("delete from " + tName + " where emp_id=?;");
+            pr.setInt(1, intID);
+
+            intID = pr.executeUpdate();
+
+            System.out.println(intID + " Fila(s) afectadas");
+            System.out.println("14--> COMPLETADO");
+        }catch (SQLException e){
+            throw new SQLException("14--> ERROR\n" + e.getMessage());
         }
     }
 }
