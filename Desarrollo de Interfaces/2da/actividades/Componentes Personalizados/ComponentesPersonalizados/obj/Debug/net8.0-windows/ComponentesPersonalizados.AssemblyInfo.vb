@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ComponentesPersonalizados"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a2ef32e3fd9a70760ffa484416c1dfc2f8a8e1"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7c0c42be737be08b65be175c85da60ef1bac665"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ComponentesPersonalizados"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ComponentesPersonalizados"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

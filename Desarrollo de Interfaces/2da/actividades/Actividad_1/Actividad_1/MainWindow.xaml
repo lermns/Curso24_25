@@ -1,0 +1,29 @@
+﻿<Window x:Class="Actividad_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Actividad_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="Nombre"></Label>
+        <Label Content="DNI" Grid.Row="1"></Label>
+        <Label Content="Codigo postal" Grid.Row="2"></Label>
+        <Label Content="telefono" Grid.Row="3"></Label>
+        <local:CajaDeTextoAutovalidante Grid.Column="1" Height="100"/>
+        <local:CajaDeTextoAutovalidante Grid.Column="1" Grid.Row="1" TipoValidacion="DNI"  Height="100"/>
+        <local:CajaDeTextoAutovalidante Grid.Column="1" Grid.Row="2" TipoValidacion="CP"  Height="100"/>
+        <local:CajaDeTextoAutovalidante Grid.Column="1" Grid.Row="3" TipoValidacion="TFN"  Height="100"/>
+    </Grid>
+</Window>

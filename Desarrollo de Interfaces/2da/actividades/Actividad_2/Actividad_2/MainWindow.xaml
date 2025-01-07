@@ -1,0 +1,32 @@
+﻿<Window x:Class="Actividad_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Actividad_2"
+        Title="Windows" Height="300" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Día:" Grid.Row="0" Grid.Column="0" Margin="5" />
+        <Label Content="Mes:" Grid.Row="1" Grid.Column="0" Margin="5" />
+        <Label Content="Año:" Grid.Row="2" Grid.Column="0" Margin="5" />
+        <Label Content="Día de la semana:" Grid.Row="3" Grid.Column="0" Margin="5" />
+        <Label x:Name="Resultado" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Margin="5,5,10,53" />
+
+        <local:ComboBoxPersonalizado x:Name="ComboDia" TipoDato="DM" Grid.Row="0" Grid.Column="1" Margin="5" />
+        <local:ComboBoxPersonalizado x:Name="ComboMes" TipoDato="M" Grid.Row="1" Grid.Column="1" Margin="5" />
+        <local:ComboBoxPersonalizado x:Name="ComboAnio" TipoDato="A" Grid.Row="2" Grid.Column="1" Margin="5" />
+        <TextBlock x:Name="DiaSemana" Grid.Row="3" Grid.Column="1" Margin="5" />
+
+        <Button Content="Generar" Grid.Row="4" Grid.Column="1" Margin="158,92,5,5" Click="Generar_Click" />
+    </Grid>
+</Window>

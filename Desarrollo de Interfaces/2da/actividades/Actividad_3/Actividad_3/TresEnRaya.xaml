@@ -1,0 +1,34 @@
+﻿<Window x:Class="Actividad_3.TresEnRaya"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Actividad_3"
+        Title="Tres en Raya" Height="400" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Celdas de la cuadrícula del juego -->
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="0" Grid.Column="0" MouseLeftButtonUp="MiCelda_Click" />
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="0" Grid.Column="1" MouseLeftButtonUp="MiCelda_Click" />
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="0" Grid.Column="2" MouseLeftButtonUp="MiCelda_Click" />
+
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="1" Grid.Column="0" MouseLeftButtonUp="MiCelda_Click" />
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="1" Grid.Column="1" MouseLeftButtonUp="MiCelda_Click" />
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="1" Grid.Column="2" MouseLeftButtonUp="MiCelda_Click" />
+
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="2" Grid.Column="0" MouseLeftButtonUp="MiCelda_Click" />
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="2" Grid.Column="1" MouseLeftButtonUp="MiCelda_Click" />
+        <local:MiCelda Juego="TR" Valor="-1" Grid.Row="2" Grid.Column="2" MouseLeftButtonUp="MiCelda_Click" />
+
+    </Grid>
+</Window>
+
+
