@@ -44,7 +44,7 @@ class MainActivity2 : AppCompatActivity() {
             startActivity(intent)
         }
 
-        binding.nombre.setOnClickListener{
+        binding.telf.setOnClickListener{
             val intent = Intent(Intent.ACTION_DIAL, Uri.parse("tel:${binding.telf.text}"))
             startActivity(intent)
         }
