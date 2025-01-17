@@ -1,0 +1,15 @@
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.csproj.AssemblyReference.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\App.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante_MarkupCompile.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante_MarkupCompile.lref
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\bin\Debug\CajaTextoAutovalidante.exe.config
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\bin\Debug\CajaTextoAutovalidante.exe
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\bin\Debug\CajaTextoAutovalidante.pdb
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.baml
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.g.resources
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.Properties.Resources.resources
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.csproj.GenerateResource.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.csproj.CoreCompileInputs.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.exe
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.pdb

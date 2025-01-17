@@ -1,0 +1,33 @@
+﻿<!-- MainWindow.xaml -->
+<Window x:Class="MultiJuego.TR"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:MultiJuego"
+        Title="MainWindow" Width="427" Height="450">
+    <Grid Margin="5, 5, 5, 5">
+        <local:MiCelda Grid.Row="0" Grid.Column="0" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black" Width="150" Height="150" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <!-- Ventana para Tres en Raya (TR) -->
+        <Grid Name="trGrid" Visibility="Visible" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+            </Grid.ColumnDefinitions>
+
+            <local:MiCelda x:Name="trCelda1" Juego="TR" Valor="0" Grid.Row="0" Grid.Column="0" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <local:MiCelda x:Name="trCelda2" Juego="TR" Valor="0" Grid.Row="0" Grid.Column="1" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <local:MiCelda x:Name="trCelda3" Juego="TR" Valor="1" Grid.Row="0" Grid.Column="2" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <local:MiCelda x:Name="trCelda4" Juego="TR" Valor="1" Grid.Row="1" Grid.Column="0" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <local:MiCelda x:Name="trCelda5" Juego="TR" Valor="1" Grid.Row="1" Grid.Column="1" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <local:MiCelda x:Name="trCelda6" Juego="TR" Valor="0" Grid.Row="1" Grid.Column="2" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <local:MiCelda x:Name="trCelda7" Juego="TR" Grid.Row="2" Grid.Column="0" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <local:MiCelda x:Name="trCelda8" Juego="TR" Valor="1" Grid.Row="2" Grid.Column="1" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <local:MiCelda x:Name="trCelda9" Juego="TR" Valor="0" Grid.Row="2" Grid.Column="2" TextBlock.TextAlignment="Center" TextBlock.FontSize="32" BorderThickness="2" BorderBrush="Black"/>
+            <!-- Agregar más celdas según sea necesario -->
+        </Grid>
+    </Grid>
+</Window>

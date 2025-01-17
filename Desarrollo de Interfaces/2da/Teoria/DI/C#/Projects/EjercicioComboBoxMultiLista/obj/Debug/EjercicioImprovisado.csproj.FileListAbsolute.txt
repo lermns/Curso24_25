@@ -1,0 +1,15 @@
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\bin\Debug\EjercicioImprovisado.exe.config
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\bin\Debug\EjercicioImprovisado.exe
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\bin\Debug\EjercicioImprovisado.pdb
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado.csproj.AssemblyReference.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\MainWindow.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\App.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado_MarkupCompile.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado_MarkupCompile.lref
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\MainWindow.baml
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado.g.resources
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado.Properties.Resources.resources
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado.csproj.GenerateResource.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado.csproj.CoreCompileInputs.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado.exe
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioImprovisado\obj\Debug\EjercicioImprovisado.pdb

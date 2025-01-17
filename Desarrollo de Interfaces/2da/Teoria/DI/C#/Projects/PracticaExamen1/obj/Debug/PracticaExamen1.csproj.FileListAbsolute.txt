@@ -1,0 +1,16 @@
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\PracticaExamen1.csproj.AssemblyReference.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\ClienteView.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\DialogView.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\App.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\PracticaExamen1_MarkupCompile.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\PracticaExamen1_MarkupCompile.lref
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\PracticaExamen1.csproj.AssemblyReference.cache
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\ClienteView.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\DialogView.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\App.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\PracticaExamen1_MarkupCompile.cache
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\PracticaExamen1\obj\Debug\PracticaExamen1_MarkupCompile.lref

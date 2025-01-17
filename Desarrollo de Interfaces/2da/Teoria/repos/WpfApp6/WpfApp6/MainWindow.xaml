@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <local:UserControl1 x:Name="FechaControl" TipoDato="DM" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"/>
+        <local:UserControl1 x:Name="MesControl" TipoDato="M" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="150,10,0,0"/>
+        <local:UserControl1 x:Name="AnioControl" TipoDato="A" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="300,10,0,0"/>
+        <Button Content="Generar Mensaje" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,70,0,0" Click="GenerarMensaje_Click"/>
+        <Label x:Name="ResultadoLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,110,0,0"/>
+    </Grid>
+</Window> 

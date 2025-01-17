@@ -1,0 +1,21 @@
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\bin\Debug\netcoreapp3.1\Mi Primera Chamba.exe
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\bin\Debug\netcoreapp3.1\Mi Primera Chamba.deps.json
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\bin\Debug\netcoreapp3.1\Mi Primera Chamba.runtimeconfig.json
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\bin\Debug\netcoreapp3.1\Mi Primera Chamba.runtimeconfig.dev.json
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\bin\Debug\netcoreapp3.1\Mi Primera Chamba.dll
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\bin\Debug\netcoreapp3.1\Mi Primera Chamba.pdb
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.csproj.AssemblyReference.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.AssemblyInfoInputs.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.AssemblyInfo.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.csproj.CoreCompileInputs.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\staticwebassets\Mi Primera Chamba.StaticWebAssets.Manifest.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\staticwebassets\Mi Primera Chamba.StaticWebAssets.xml
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mi Primera Chamba.styles.css
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.RazorTargetAssemblyInfo.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.dll
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.pdb
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi Primera Chamba\Mi Primera Chamba\obj\Debug\netcoreapp3.1\Mi Primera Chamba.genruntimeconfig.cache

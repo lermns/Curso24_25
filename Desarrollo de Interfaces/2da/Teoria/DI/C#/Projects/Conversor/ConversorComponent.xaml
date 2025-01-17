@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Conversor.ConversorComponent"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Width="186.783" Height="102.664">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="txtOrigen" Width="146" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,10" Height="28" FontSize="14"/>
+            <Button Content="Convertir" Click="Convertir" HorizontalAlignment="Left" Margin="40,5,0,0" Height="18" FontSize="10" Width="67"/>
+            <TextBlock x:Name="txtDestino" Width="146" Margin="-40,13,0,0" HorizontalAlignment="Center" IsEnabled="False" Height="28"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

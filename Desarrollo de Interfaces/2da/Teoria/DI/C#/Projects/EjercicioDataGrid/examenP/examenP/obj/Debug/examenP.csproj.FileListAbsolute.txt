@@ -1,0 +1,67 @@
+C:\VictorArchivos\ProjectosVS\examenP\examenP\bin\Debug\examenP.exe.config
+C:\VictorArchivos\ProjectosVS\examenP\examenP\bin\Debug\examenP.exe
+C:\VictorArchivos\ProjectosVS\examenP\examenP\bin\Debug\examenP.pdb
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP.csproj.AssemblyReference.cache
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\DialogoCliente.g.cs
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\MainWindow.g.cs
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\App.g.cs
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP_MarkupCompile.cache
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP_MarkupCompile.lref
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\DialogoCliente.baml
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\MainWindow.baml
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP.g.resources
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP.Properties.Resources.resources
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP.csproj.GenerateResource.cache
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP.csproj.CoreCompileInputs.cache
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP.exe
+C:\VictorArchivos\ProjectosVS\examenP\examenP\obj\Debug\examenP.pdb
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\bin\Debug\examenP.exe.config
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\bin\Debug\examenP.exe
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\bin\Debug\examenP.pdb
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP.csproj.AssemblyReference.cache
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\DialogoCliente.g.cs
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\MainWindow.g.cs
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\App.g.cs
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP_MarkupCompile.cache
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP_MarkupCompile.lref
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\DialogoCliente.baml
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\MainWindow.baml
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP.g.resources
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP.Properties.Resources.resources
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP.csproj.GenerateResource.cache
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP.csproj.CoreCompileInputs.cache
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP.exe
+d:\Users\VíctorSanzMiguens\Downloads\examenP.zip-20231123T083330Z-001\examenP\examenP\obj\Debug\examenP.pdb
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\bin\Debug\examenP.exe.config
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\bin\Debug\examenP.exe
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\bin\Debug\examenP.pdb
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP.csproj.AssemblyReference.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\DialogoCliente.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\App.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP_MarkupCompile.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP_MarkupCompile.lref
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\DialogoCliente.baml
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\MainWindow.baml
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP.g.resources
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP.Properties.Resources.resources
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP.csproj.GenerateResource.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP.csproj.CoreCompileInputs.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP.exe
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\examenVictor\examenP\examenP\obj\Debug\examenP.pdb
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP.csproj.AssemblyReference.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\DialogoCliente.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\App.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP_MarkupCompile.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP_MarkupCompile.lref
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP.exe
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP.pdb
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP.csproj.AssemblyReference.cache
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\DialogoCliente.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\App.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP_MarkupCompile.cache
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP_MarkupCompile.lref
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP.exe
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\EjercicioDataGrid\examenP\examenP\obj\Debug\examenP.pdb

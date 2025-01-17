@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExamenDI_LeonardoRamos/1.0.0": {
+        "runtime": {
+          "ExamenDI_LeonardoRamos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamenDI_LeonardoRamos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

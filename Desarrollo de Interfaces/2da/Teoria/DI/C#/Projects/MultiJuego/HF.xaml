@@ -1,0 +1,104 @@
+﻿<!-- MainWindow.xaml -->
+<Window x:Class="MultiJuego.HF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:MultiJuego"
+        Title="MainWindow" Width="427" Height="450">
+    <Grid Margin="5, 5, 5, 5">
+        <!-- Ventana para Hundir la Flota (HF) -->
+        <Grid Name="hfGrid" Visibility="Visible">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"></ColumnDefinition>
+                <ColumnDefinition Width="50"></ColumnDefinition>
+                <ColumnDefinition Width="50"></ColumnDefinition>
+                <ColumnDefinition Width="50"></ColumnDefinition>
+                <ColumnDefinition Width="50"></ColumnDefinition>
+                <ColumnDefinition Width="50"></ColumnDefinition>
+                <ColumnDefinition Width="50"></ColumnDefinition>
+                <ColumnDefinition Width="50"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <local:MiCelda x:Name="hfCelda1" Juego="HF" Valor="0" Grid.Row="0" Grid.Column="0" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda2" Juego="HF" Valor="0" Grid.Row="0" Grid.Column="1" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda3" Juego="HF" Valor="0" Grid.Row="0" Grid.Column="2" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda4" Juego="HF" Valor="0" Grid.Row="0" Grid.Column="3" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda5" Juego="HF" Valor="0" Grid.Row="0" Grid.Column="4" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda6" Juego="HF" Valor="0" Grid.Row="0" Grid.Column="5" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda7" Juego="HF" Valor="0" Grid.Row="0" Grid.Column="6" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda8" Juego="HF" Valor="0" Grid.Row="0" Grid.Column="7" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda9" Juego="HF" Valor="0" Grid.Row="1" Grid.Column="0" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda10" Juego="HF" Valor="1" Grid.Row="1" Grid.Column="1" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda11" Juego="HF" Valor="0" Grid.Row="1" Grid.Column="2" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda12" Juego="HF" Valor="0" Grid.Row="1" Grid.Column="3" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda13" Juego="HF" Valor="1" Grid.Row="1" Grid.Column="4" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda14" Juego="HF" Valor="0" Grid.Row="1" Grid.Column="5" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda15" Juego="HF" Valor="0" Grid.Row="1" Grid.Column="6" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda16" Juego="HF" Valor="0" Grid.Row="1" Grid.Column="7" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda17" Juego="HF" Valor="0" Grid.Row="2" Grid.Column="0" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda18" Juego="HF" Valor="1" Grid.Row="2" Grid.Column="1" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda19" Juego="HF" Valor="0" Grid.Row="2" Grid.Column="2" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda20" Juego="HF" Valor="0" Grid.Row="2" Grid.Column="3" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda21" Juego="HF" Valor="0" Grid.Row="2" Grid.Column="4" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda22" Juego="HF" Valor="1" Grid.Row="2" Grid.Column="5" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda23" Juego="HF" Valor="0" Grid.Row="2" Grid.Column="6" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda24" Juego="HF" Valor="0" Grid.Row="2" Grid.Column="7" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda25" Juego="HF" Valor="0" Grid.Row="3" Grid.Column="0" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda26" Juego="HF" Valor="0" Grid.Row="3" Grid.Column="1" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda27" Juego="HF" Valor="0" Grid.Row="3" Grid.Column="2" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda28" Juego="HF" Valor="0" Grid.Row="3" Grid.Column="3" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda29" Juego="HF" Valor="0" Grid.Row="3" Grid.Column="4" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda30" Juego="HF" Valor="0" Grid.Row="3" Grid.Column="5" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda31" Juego="HF" Valor="1" Grid.Row="3" Grid.Column="6" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda32" Juego="HF" Valor="0" Grid.Row="3" Grid.Column="7" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda33" Juego="HF" Valor="0" Grid.Row="4" Grid.Column="0" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda34" Juego="HF" Valor="0" Grid.Row="4" Grid.Column="1" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda35" Juego="HF" Valor="1" Grid.Row="4" Grid.Column="2" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda36" Juego="HF" Valor="1" Grid.Row="4" Grid.Column="3" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda37" Juego="HF" Valor="0" Grid.Row="4" Grid.Column="4" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda38" Juego="HF" Valor="0" Grid.Row="4" Grid.Column="5" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda39" Juego="HF" Valor="0" Grid.Row="4" Grid.Column="6" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda40" Juego="HF" Valor="0" Grid.Row="4" Grid.Column="7" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda41" Juego="HF" Valor="0" Grid.Row="5" Grid.Column="0" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda42" Juego="HF" Valor="0" Grid.Row="5" Grid.Column="1" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda43" Juego="HF" Valor="0" Grid.Row="5" Grid.Column="2" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda44" Juego="HF" Valor="0" Grid.Row="5" Grid.Column="3" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda45" Juego="HF" Valor="0" Grid.Row="5" Grid.Column="4" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda46" Juego="HF" Valor="1" Grid.Row="5" Grid.Column="5" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda47" Juego="HF" Valor="0" Grid.Row="5" Grid.Column="6" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda48" Juego="HF" Valor="0" Grid.Row="5" Grid.Column="7" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda49" Juego="HF" Valor="0" Grid.Row="6" Grid.Column="0" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda50" Juego="HF" Valor="0" Grid.Row="6" Grid.Column="1" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda51" Juego="HF" Valor="0" Grid.Row="6" Grid.Column="2" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda52" Juego="HF" Valor="0" Grid.Row="6" Grid.Column="3" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda53" Juego="HF" Valor="0" Grid.Row="6" Grid.Column="4" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda54" Juego="HF" Valor="1" Grid.Row="6" Grid.Column="5" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda55" Juego="HF" Valor="0" Grid.Row="6" Grid.Column="6" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda56" Juego="HF" Valor="0" Grid.Row="6" Grid.Column="7" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda57" Juego="HF" Valor="0" Grid.Row="7" Grid.Column="0" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda58" Juego="HF" Valor="0" Grid.Row="7" Grid.Column="1" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda59" Juego="HF" Valor="0" Grid.Row="7" Grid.Column="2" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda60" Juego="HF" Valor="0" Grid.Row="7" Grid.Column="3" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda61" Juego="HF" Valor="0" Grid.Row="7" Grid.Column="4" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda62" Juego="HF" Valor="1" Grid.Row="7" Grid.Column="5" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda63" Juego="HF" Valor="0" Grid.Row="7" Grid.Column="6" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <local:MiCelda x:Name="hfCelda64" Juego="HF" Valor="0" Grid.Row="7" Grid.Column="7" TextBlock.TextAlignment="Center" TextElement.Foreground="White"/>
+            <!-- Agregar más celdas según sea necesario -->
+        </Grid>
+
+        <!-- Ventana para Tres en Raya (TR) -->
+        <Grid Name="trGrid" Visibility="Collapsed">
+            <local:MiCelda x:Name="trCelda1" Juego="TR" Valor="0" Grid.Row="0" Grid.Column="0"/>
+            <!-- Agregar más celdas según sea necesario -->
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Examen1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticasDocumentos" d:DataContext="{d:DesignInstance Type=local:MainViewModel}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label1" Content="Hello, world" Margin="353,138,346,0" VerticalAlignment="Top" Cursor="None" HorizontalContentAlignment="Stretch"/>
+        <Button x:Name="boton" Content="Traducir" Margin="353,301,364,0" VerticalAlignment="Top" Cursor="Hand" Click="Boton_Click"/>
+        <ComboBox x:Name="comboBoxPersonas" ItemsSource="{Binding Path=listaPersonas}" HorizontalAlignment="Left" Margin="334,250,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label2" Content="Y buenos días, Sr. ..." Margin="281,191,254,0" VerticalAlignment="Top"/>
+        <Button x:Name="botonAñadir" Content="Añadir" HorizontalAlignment="Left" Margin="666,387,0,0" VerticalAlignment="Top" Width="82" Click="botonAñadir_Click"/>
+        <TextBox x:Name="textBoxNombre" HorizontalAlignment="Left" Margin="647,357,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="labelNombre" Content="Tu nombre:" HorizontalAlignment="Left" Margin="643,329,0,0" VerticalAlignment="Top"/>
+        <DataGrid d:ItemsSource="{Binding Path=listaPersonas}" Margin="10,278,500,16"/>
+    </Grid>
+</Window>

@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp7.TresEnRayaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7"
+        mc:Ignorable="d"
+        Title="TresEnRayaWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <local:UserControl1 x:Name="Celda00" Grid.Row="0" Grid.Column="0" Juego="TR"/>
+        <local:UserControl1 x:Name="Celda01" Grid.Row="0" Grid.Column="1" Juego="TR"/>
+        <local:UserControl1 x:Name="Celda02" Grid.Row="0" Grid.Column="2" Juego="TR"/>
+
+        <local:UserControl1 x:Name="Celda10" Grid.Row="1" Grid.Column="0" Juego="TR"/>
+        <local:UserControl1 x:Name="Celda11" Grid.Row="1" Grid.Column="1" Juego="TR"/>
+        <local:UserControl1 x:Name="Celda12" Grid.Row="1" Grid.Column="2" Juego="TR"/>
+
+        <local:UserControl1 x:Name="Celda20" Grid.Row="2" Grid.Column="0" Juego="TR"/>
+        <local:UserControl1 x:Name="Celda21" Grid.Row="2" Grid.Column="1" Juego="TR"/>
+        <local:UserControl1 x:Name="Celda22" Grid.Row="2" Grid.Column="2" Juego="TR"/>
+    </Grid>
+</Window>

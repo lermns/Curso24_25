@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaforo", "Semaforo.csproj", "{682D9844-4D2F-4179-885F-BF114E261385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682D9844-4D2F-4179-885F-BF114E261385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682D9844-4D2F-4179-885F-BF114E261385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682D9844-4D2F-4179-885F-BF114E261385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682D9844-4D2F-4179-885F-BF114E261385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E13B0DC6-416B-42B3-826A-F55B690ECFFB}
+	EndGlobalSection
+EndGlobal

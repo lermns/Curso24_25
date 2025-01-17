@@ -1,0 +1,38 @@
+﻿<Window x:Class="examenP.DialogoCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:examenP"
+        mc:Ignorable="d"
+        Title="DialogoCliente" Height="600" Width="650">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="291"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="79"/>
+            <RowDefinition Height="29"/>
+            <RowDefinition Height="Auto" MinHeight="129"/>
+            <RowDefinition Height="Auto" MinHeight="140"/>
+            <RowDefinition Height="Auto" MinHeight="103"/>
+            <RowDefinition Height="Auto" MinHeight="723"/>
+
+        </Grid.RowDefinitions>
+
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" RenderTransformOrigin="0.296,0.003" Grid.Column="0" Height="26" Width="56"/>
+        <TextBox x:Name="CBnombre" Validation.Error="Validation_Error"  Text="{Binding Path= Nombre, NotifyOnValidationError=True,ValidatesOnDataErrors=True}" HorizontalAlignment="Left" Height="65" Margin="10,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="290" Grid.Row="0" Grid.Column="1"/>
+        <Label Content="Categorías:"  HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.535,0.497" Grid.Row="2" Grid.Column="0" Height="26" Width="69"/>
+        <Label Content="Fecha de nacimiento:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.556,2.394" Grid.Row="3" Grid.Column="0" Height="26" Width="122"/>
+        <Label Content="Valoración:" HorizontalAlignment="Left" Margin="12,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.556,-0.787" Grid.Row="4" Grid.Column="0" Height="26" Width="65"/>
+        <TextBox x:Name="CBcategoria" Text="{Binding Path= Categorias}" HorizontalAlignment="Left" Height="65" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="290" Grid.Row="2" Grid.Column="1"/>
+        <Slider x:Name="SliderValoracion" Value="{Binding Path=Valoracion}" HorizontalAlignment="Left" Height="26" Margin="23,10,0,0" VerticalAlignment="Top" Width="264" Grid.Row="4" Grid.Column="1"/>
+
+        <DatePicker x:Name="DPFecha"  SelectedDate="{Binding Path= FechaNacimiento}" HorizontalAlignment="Left" Height="65" Margin="10,10,0,0" VerticalAlignment="Top" Width="290" Grid.Row="3" Grid.Column="1"/>
+        <Button x:Name="BAceptar" Content="Aceptar" HorizontalAlignment="Center" Click="BAceptar_Click" Height="67" VerticalAlignment="Top" Width="271" Grid.Row="5" Margin="0,10,0,0" />
+        <Button x:Name="BCancelar" Content="Cancelar" HorizontalAlignment="Left" Height="67" Margin="10,10,0,0" VerticalAlignment="Top" Width="271" Click="BCancelar_Click" Grid.Row="5" Grid.Column="1"/>
+
+    </Grid>
+</Window>

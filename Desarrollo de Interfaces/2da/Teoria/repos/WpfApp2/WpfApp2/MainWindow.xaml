@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="ComboBoxPersona" ItemsSource="{Binding Path=listaPersonas}" HorizontalAlignment="Left" Margin="404,173,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBoxPersona_SelectionChanged"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="127,234,0,0" Stroke="Black" VerticalAlignment="Top" Width="455"/>
+        <Label x:Name="labelNombre" Content="Label" HorizontalAlignment="Left" Margin="203,280,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelApellidos" Content="Label" HorizontalAlignment="Left" Margin="436,280,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BotonNuevo" Content="Button" HorizontalAlignment="Left" Margin="513,385,0,0" VerticalAlignment="Top" Width="75" Click="BotonNuevoClick_Click"/>
+
+    </Grid>
+</Window>

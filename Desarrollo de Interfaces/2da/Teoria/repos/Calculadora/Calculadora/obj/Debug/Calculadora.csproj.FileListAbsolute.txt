@@ -1,0 +1,15 @@
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\MainWindow.g.cs
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\App.g.cs
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.cache
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.lref
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\MainWindow.baml
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.g.resources
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Users\IsmaelRezzakMariano\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

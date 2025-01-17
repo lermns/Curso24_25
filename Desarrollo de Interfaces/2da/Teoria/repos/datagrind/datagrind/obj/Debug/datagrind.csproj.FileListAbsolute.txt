@@ -1,0 +1,15 @@
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\bin\Debug\datagrind.exe.config
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\bin\Debug\datagrind.exe
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\bin\Debug\datagrind.pdb
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind.csproj.AssemblyReference.cache
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\MainWindow.g.cs
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\App.g.cs
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind_MarkupCompile.cache
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind_MarkupCompile.lref
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\MainWindow.baml
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind.g.resources
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind.Properties.Resources.resources
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind.csproj.GenerateResource.cache
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind.csproj.CoreCompileInputs.cache
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind.exe
+D:\Users\IsmaelRezzakMariano\source\repos\datagrind\datagrind\obj\Debug\datagrind.pdb

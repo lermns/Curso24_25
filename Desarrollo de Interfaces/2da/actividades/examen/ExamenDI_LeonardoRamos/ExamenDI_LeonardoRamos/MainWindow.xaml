@@ -1,0 +1,19 @@
+﻿<Window x:Class="ExamenDI_LeonardoRamos.ConvertidorDivisas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ConvertidorDivisas"
+        Title="Convertidor de Divisas" Height="400" Width="600">
+
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10">
+            <!-- Instancia del control para Dollar -->
+            <local:ConvertidorDivisas Moneda="Dolar" Margin="10" />
+
+            <!-- Instancia del control para Libra -->
+            <local:ConvertidorDivisas Moneda="Libra" Margin="10" />
+
+            <!-- Instancia del control para Yuan -->
+            <local:ConvertidorDivisas Moneda="Yuan" Margin="10" />
+        </StackPanel>
+    </Grid>
+</Window>

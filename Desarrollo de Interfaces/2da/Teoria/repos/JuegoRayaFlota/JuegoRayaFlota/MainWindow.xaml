@@ -1,0 +1,32 @@
+﻿<Window x:Class="JuegoRayaFlota.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JuegoRayaFlota"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Definir tus celdas (TresEnRayaCell) aquí -->
+            <local:CeldaJuego x:Name="cell00" Grid.Row="0" Grid.Column="0"/>
+            <local:CeldaJuego x:Name="cell01" Grid.Row="0" Grid.Column="1"/>
+            <local:CeldaJuego x:Name="cell02" Grid.Row="0" Grid.Column="2"/>
+            <local:CeldaJuego x:Name="cell10" Grid.Row="1" Grid.Column="0"/>
+            <local:CeldaJuego x:Name="cell11" Grid.Row="1" Grid.Column="1"/>
+            <local:CeldaJuego x:Name="cell12" Grid.Row="1" Grid.Column="2"/>
+            <local:CeldaJuego x:Name="cell20" Grid.Row="2" Grid.Column="0"/>
+            <local:CeldaJuego x:Name="cell21" Grid.Row="2" Grid.Column="1"/>
+            <local:CeldaJuego x:Name="cell22" Grid.Row="2" Grid.Column="2"/>
+        </Grid>
+</Window>

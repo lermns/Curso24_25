@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamenDI_LeonardoRamos\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamenDI_LeonardoRamos\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExamenDI_LeonardoRamos\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\MainWindow.xaml",
+              "RelativeToolTip": "ExamenDI_LeonardoRamos\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T19:04:19.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertidorDivisas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml.cs",
+              "RelativeToolTip": "ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:01:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertidorDivisas.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml",
+              "RelativeDocumentMoniker": "ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml",
+              "RelativeToolTip": "ExamenDI_LeonardoRamos\\ConvertidorDivisas.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T20:00:37.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenDI_LeonardoRamos\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ExamenDI_LeonardoRamos\\ExamenDI_LeonardoRamos\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExamenDI_LeonardoRamos\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:04:16.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

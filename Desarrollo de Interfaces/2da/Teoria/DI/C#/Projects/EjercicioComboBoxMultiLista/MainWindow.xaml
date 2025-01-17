@@ -1,0 +1,17 @@
+﻿<Window x:Class="EjercicioComboBoxMultiLista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EjercicioComboBoxMultiLista"
+        mc:Ignorable="d"
+        Title="MainWindow" Width="700" Height="500">
+    <Grid>
+        <local:ComboBoxMultiLista x:Name="MiComboBoxMultiLista1" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="25,87,291,87" tipoDato="DS"/>
+        <local:ComboBoxMultiLista x:Name="MiComboBoxMultiLista2" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="133,87,183,87" tipoDato="DM"/>
+        <local:ComboBoxMultiLista x:Name="MiComboBoxMultiLista3" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="240,87,76,87" tipoDato="M"/>
+        <local:ComboBoxMultiLista x:Name="MiComboBoxMultiLista4" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="348,87,-32,87" tipoDato="A"/>
+        <Button x:Name="botonAceptar" Content="Aceptar" HorizontalAlignment="Center" Margin="0,353,0,0" VerticalAlignment="Top" Width="76" Click="botonAceptar_Click"/>
+        <Label x:Name="labelSalida" Content="" HorizontalAlignment="Center" VerticalAlignment="Top" HorizontalContentAlignment="Center" Margin="0,298,0,0" Width="368"/>
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\bin\Debug\Juego TR-HF.exe.config
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\bin\Debug\Juego TR-HF.exe
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\bin\Debug\Juego TR-HF.pdb
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego TR-HF.csproj.AssemblyReference.cache
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\MainWindow.g.cs
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\App.g.cs
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego TR-HF_MarkupCompile.cache
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego TR-HF_MarkupCompile.lref
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\MainWindow.baml
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego TR-HF.g.resources
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego_TR_HF.Properties.Resources.resources
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego TR-HF.csproj.GenerateResource.cache
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego TR-HF.csproj.CoreCompileInputs.cache
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego TR-HF.exe
+D:\Users\PedroBorreganBurgos\source\repos\Juego TR-HF\obj\Debug\Juego TR-HF.pdb
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\bin\Debug\Juego TR-HF.exe.config
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\bin\Debug\Juego TR-HF.exe
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\bin\Debug\Juego TR-HF.pdb
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego TR-HF.csproj.AssemblyReference.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\MainWindow.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\App.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego TR-HF_MarkupCompile.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego TR-HF_MarkupCompile.lref
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\MainWindow.baml
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego TR-HF.g.resources
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego_TR_HF.Properties.Resources.resources
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego TR-HF.csproj.GenerateResource.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego TR-HF.csproj.CoreCompileInputs.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego TR-HF.exe
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Juego TR-HF\obj\Debug\Juego TR-HF.pdb

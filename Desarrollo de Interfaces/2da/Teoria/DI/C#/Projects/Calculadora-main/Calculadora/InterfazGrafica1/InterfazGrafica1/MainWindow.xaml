@@ -1,0 +1,101 @@
+﻿<Window x:Class="InterfazGrafica1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterfazGrafica1"
+        mc:Ignorable="d"
+        Title="Calculadora" Height="450" Width="482">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Border BorderThickness="2" BorderBrush="Black" Grid.ColumnSpan="4" Grid.Column="0" Margin="10,10,10,10" >
+            <TextBlock Name="pantalla" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        </Border>
+
+
+        <Grid Grid.Column="0" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+
+            <Button Grid.Row="0" Margin="10" Click="ButtonLimpiar" Content="AC" Background="#FFE4A8A8"/>
+            <Button Grid.Row="1" Margin="10" Click="ButtonNumeros">7</Button>
+            <Button Grid.Row="2" Margin="10" Click="ButtonNumeros">4</Button>
+            <Button Grid.Row="3" Margin="10" Click="ButtonNumeros">1</Button>
+
+        </Grid>
+
+        <Grid Grid.Column="1" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+
+            <Button Grid.Row="1" Margin="10" Click="ButtonNumeros">8</Button>
+            <Button Grid.Row="2" Margin="10" Click="ButtonNumeros">5</Button>
+            <Button Grid.Row="3" Margin="10" Click="ButtonNumeros">2</Button>
+            <Button Grid.Row="4" Margin="10" Click="ButtonNumeros">0</Button>
+
+        </Grid>
+
+        <Grid Grid.Column="2" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+
+            <Button Grid.Row="1" Margin="10" Click="ButtonNumeros">9</Button>
+            <Button Grid.Row="2" Margin="10" Click="ButtonNumeros">6</Button>
+            <Button Grid.Row="3" Margin="10" Click="ButtonNumeros">3</Button>
+            <Button Grid.Row="4" Margin="10" Click="ButtonPunto">.</Button>
+
+        </Grid>
+
+        <Grid Grid.Column="3" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+
+            <Button Grid.Row="0" Margin="10" Click="ButtonOperadores">÷</Button>
+            <Button Grid.Row="1" Margin="10" Click="ButtonOperadores">x</Button>
+            <Button Grid.Row="2" Margin="10" Click="ButtonOperadores" >-</Button>
+            <Button Grid.Row="3" Margin="10" Click="ButtonOperadores">+</Button>
+            <Button x:Name="button" Grid.Row="4" Margin="10" Click="ButtonIgual" Effect="{Binding Background, ElementName=button}" Background="#FF757575" Foreground="White">=</Button>
+        </Grid>
+
+
+
+    </Grid>
+
+</Window>

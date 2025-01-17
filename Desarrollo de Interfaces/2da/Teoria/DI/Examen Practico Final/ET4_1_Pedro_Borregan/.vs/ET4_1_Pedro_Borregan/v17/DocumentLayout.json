@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7620D52-C6DE-4F2A-8043-5DC058A23179}|ET4_1_Pedro_Borregan.csproj|c:\\users\\usuario\\desktop\\git\\curso\\curso24_25\\desarrollo de interfaces\\2da\\teoria\\di\\examen practico final\\et4_1_pedro_borregan\\conversormonedas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7620D52-C6DE-4F2A-8043-5DC058A23179}|ET4_1_Pedro_Borregan.csproj|solutionrelative:conversormonedas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7620D52-C6DE-4F2A-8043-5DC058A23179}|ET4_1_Pedro_Borregan.csproj|c:\\users\\usuario\\desktop\\git\\curso\\curso24_25\\desarrollo de interfaces\\2da\\teoria\\di\\examen practico final\\et4_1_pedro_borregan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7620D52-C6DE-4F2A-8043-5DC058A23179}|ET4_1_Pedro_Borregan.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7620D52-C6DE-4F2A-8043-5DC058A23179}|ET4_1_Pedro_Borregan.csproj|c:\\users\\usuario\\desktop\\git\\curso\\curso24_25\\desarrollo de interfaces\\2da\\teoria\\di\\examen practico final\\et4_1_pedro_borregan\\conversormonedas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7620D52-C6DE-4F2A-8043-5DC058A23179}|ET4_1_Pedro_Borregan.csproj|solutionrelative:conversormonedas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7620D52-C6DE-4F2A-8043-5DC058A23179}|ET4_1_Pedro_Borregan.csproj|c:\\users\\usuario\\desktop\\git\\curso\\curso24_25\\desarrollo de interfaces\\2da\\teoria\\di\\examen practico final\\et4_1_pedro_borregan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7620D52-C6DE-4F2A-8043-5DC058A23179}|ET4_1_Pedro_Borregan.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversorMonedas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\ConversorMonedas.xaml.cs",
+              "RelativeDocumentMoniker": "ConversorMonedas.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\ConversorMonedas.xaml.cs",
+              "RelativeToolTip": "ConversorMonedas.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:46:52.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:45:15.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorMonedas.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\ConversorMonedas.xaml",
+              "RelativeDocumentMoniker": "ConversorMonedas.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\ConversorMonedas.xaml",
+              "RelativeToolTip": "ConversorMonedas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T19:44:59.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\Teoria\\DI\\Examen Practico Final\\ET4_1_Pedro_Borregan\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T19:44:54.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

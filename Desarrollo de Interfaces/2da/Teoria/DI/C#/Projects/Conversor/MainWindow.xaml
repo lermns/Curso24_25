@@ -1,0 +1,14 @@
+﻿<Window x:Class="Conversor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Conversor"
+        mc:Ignorable="d"
+        Title="Conversor" Height="350" Width="538.627">
+    <Grid>
+        <local:ConversorComponent x:Name="conversorComponent1" OrigenPlaceholder="Dólar" Margin="16,108,360,108"/>
+        <local:ConversorComponent x:Name="conversorComponent2" OrigenPlaceholder="Milla" Margin="191,108,186,108"/>
+        <local:ConversorComponent x:Name="conversorComponent3" OrigenPlaceholder="Libra" Margin="366,108,10,108"/>
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\bin\Debug\Bindings.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\bin\Debug\Bindings.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\bin\Debug\Bindings.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\App.g.cs
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\Bindings_MarkupCompile.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\Bindings.g.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\Bindings.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\Bindings.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\Bindings.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\Bindings.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\interfaz\PantallaPrincipal.baml
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\interfaz\PantallaPrincipal.g.cs
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\interfaz\PantallaSecundaria.baml
+c:\users\alumno\documents\visual studio 2012\Projects\Bindings\Bindings\obj\Debug\interfaz\PantallaSecundaria.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\bin\Debug\Bindings.exe.config
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\bin\Debug\Bindings.exe
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\bin\Debug\Bindings.pdb
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\Bindings.csproj.AssemblyReference.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\interfaz\PantallaPrincipal.baml
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\interfaz\PantallaSecundaria.baml
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\interfaz\PantallaPrincipal.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\interfaz\PantallaSecundaria.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\App.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\Bindings_MarkupCompile.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\Bindings.g.resources
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\Bindings.Properties.Resources.resources
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\Bindings.csproj.GenerateResource.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\Bindings.csproj.CoreCompileInputs.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\Bindings.exe
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\EXAMEN_EN_C#\Bindings\Bindings\obj\Debug\Bindings.pdb

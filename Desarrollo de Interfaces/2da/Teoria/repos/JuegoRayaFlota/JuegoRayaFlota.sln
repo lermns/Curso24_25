@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoRayaFlota", "JuegoRayaFlota\JuegoRayaFlota.csproj", "{83084378-F6FA-43CD-B1C8-D8ACA7D47035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83084378-F6FA-43CD-B1C8-D8ACA7D47035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83084378-F6FA-43CD-B1C8-D8ACA7D47035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83084378-F6FA-43CD-B1C8-D8ACA7D47035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83084378-F6FA-43CD-B1C8-D8ACA7D47035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA4934AA-D0F3-47F5-A304-B3F002E7AC79}
+	EndGlobalSection
+EndGlobal

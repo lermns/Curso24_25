@@ -1,0 +1,30 @@
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\bin\Debug\Mi primera interfaz.exe.config
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\bin\Debug\Mi primera interfaz.exe
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\bin\Debug\Mi primera interfaz.pdb
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.csproj.AssemblyReference.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\MainWindow.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\App.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz_MarkupCompile.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz_MarkupCompile.lref
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\MainWindow.baml
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.g.resources
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi_primera_interfaz.Properties.Resources.resources
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.csproj.GenerateResource.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.csproj.CoreCompileInputs.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.exe
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.pdb
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.csproj.AssemblyReference.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\App.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz_MarkupCompile.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz_MarkupCompile.lref
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.exe
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.pdb
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\bin\Debug\Mi primera interfaz.exe.config
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\bin\Debug\Mi primera interfaz.exe
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\bin\Debug\Mi primera interfaz.pdb
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\MainWindow.baml
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.g.resources
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi_primera_interfaz.Properties.Resources.resources
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.csproj.GenerateResource.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Mi primera interfaz\obj\Debug\Mi primera interfaz.csproj.CoreCompileInputs.cache

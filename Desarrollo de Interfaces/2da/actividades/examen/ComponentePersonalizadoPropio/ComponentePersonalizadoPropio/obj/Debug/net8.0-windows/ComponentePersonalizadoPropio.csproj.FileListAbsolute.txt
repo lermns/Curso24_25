@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\git\Curso\Curso24_25\Desarrollo de Interfaces\2da\actividades\examen\ComponentePersonalizadoPropio\ComponentePersonalizadoPropio\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Desktop\git\Curso\Curso24_25\Desarrollo de Interfaces\2da\actividades\examen\ComponentePersonalizadoPropio\ComponentePersonalizadoPropio\obj\Debug\net8.0-windows\RelojFormatos.g.cs
+C:\Users\Usuario\Desktop\git\Curso\Curso24_25\Desarrollo de Interfaces\2da\actividades\examen\ComponentePersonalizadoPropio\ComponentePersonalizadoPropio\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\Desktop\git\Curso\Curso24_25\Desarrollo de Interfaces\2da\actividades\examen\ComponentePersonalizadoPropio\ComponentePersonalizadoPropio\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuario\Desktop\git\Curso\Curso24_25\Desarrollo de Interfaces\2da\actividades\examen\ComponentePersonalizadoPropio\ComponentePersonalizadoPropio\obj\Debug\net8.0-windows\ComponentePersonalizadoPropio_MarkupCompile.cache
+C:\Users\Usuario\Desktop\git\Curso\Curso24_25\Desarrollo de Interfaces\2da\actividades\examen\ComponentePersonalizadoPropio\ComponentePersonalizadoPropio\obj\Debug\net8.0-windows\ComponentePersonalizadoPropio_MarkupCompile.lref

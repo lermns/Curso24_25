@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63912919-10ED-4E78-9D59-6C365B78C07A}|ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio.csproj|c:\\users\\usuario\\desktop\\git\\curso\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\examen\\componentepersonalizadopropio\\componentepersonalizadopropio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63912919-10ED-4E78-9D59-6C365B78C07A}|ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio.csproj|solutionrelative:componentepersonalizadopropio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63912919-10ED-4E78-9D59-6C365B78C07A}|ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio.csproj|c:\\users\\usuario\\desktop\\git\\curso\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\examen\\componentepersonalizadopropio\\componentepersonalizadopropio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63912919-10ED-4E78-9D59-6C365B78C07A}|ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio.csproj|solutionrelative:componentepersonalizadopropio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63912919-10ED-4E78-9D59-6C365B78C07A}|ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio.csproj|c:\\users\\usuario\\desktop\\git\\curso\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\examen\\componentepersonalizadopropio\\componentepersonalizadopropio\\relojformatos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63912919-10ED-4E78-9D59-6C365B78C07A}|ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio.csproj|solutionrelative:componentepersonalizadopropio\\relojformatos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63912919-10ED-4E78-9D59-6C365B78C07A}|ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio.csproj|c:\\users\\usuario\\desktop\\git\\curso\\curso24_25\\desarrollo de interfaces\\2da\\actividades\\examen\\componentepersonalizadopropio\\componentepersonalizadopropio\\relojformatos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63912919-10ED-4E78-9D59-6C365B78C07A}|ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio.csproj|solutionrelative:componentepersonalizadopropio\\relojformatos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelojFormatos.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio\\RelojFormatos.xaml",
+              "RelativeDocumentMoniker": "ComponentePersonalizadoPropio\\RelojFormatos.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio\\RelojFormatos.xaml",
+              "RelativeToolTip": "ComponentePersonalizadoPropio\\RelojFormatos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T01:10:06.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ComponentePersonalizadoPropio\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio\\MainWindow.xaml*",
+              "RelativeToolTip": "ComponentePersonalizadoPropio\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T00:13:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ComponentePersonalizadoPropio\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ComponentePersonalizadoPropio\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:13:15.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelojFormatos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio\\RelojFormatos.xaml.cs",
+              "RelativeDocumentMoniker": "ComponentePersonalizadoPropio\\RelojFormatos.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\git\\Curso\\Curso24_25\\Desarrollo de Interfaces\\2da\\actividades\\examen\\ComponentePersonalizadoPropio\\ComponentePersonalizadoPropio\\RelojFormatos.xaml.cs",
+              "RelativeToolTip": "ComponentePersonalizadoPropio\\RelojFormatos.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:14:19.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

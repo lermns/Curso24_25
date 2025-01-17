@@ -1,0 +1,28 @@
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.csproj.AssemblyReference.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\MainWindow.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\App.g.cs
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante_MarkupCompile.cache
+D:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante_MarkupCompile.lref
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\CajaTextoAutovalidante.csproj.AssemblyReference.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\CajaTextoAutovalidante.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\CajaTextoAutovalidante_MarkupCompile.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\CajaTextoAutovalidante_MarkupCompile.lref
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\CajaTextoAutovalidante.csproj.AssemblyReference.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\CajaTextoAutovalidante.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\CajaTextoAutovalidante_MarkupCompile.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\CajaTextoAutovalidante_MarkupCompile.lref
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante - copia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.csproj.AssemblyReference.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante_MarkupCompile.cache
+C:\Users\pedbo\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante_MarkupCompile.lref
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.csproj.AssemblyReference.cache
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\MainWindow.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante_MarkupCompile.cache
+C:\Users\pedbo\Documents\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\CajaTextoAutovalidante\obj\Debug\CajaTextoAutovalidante_MarkupCompile.lref

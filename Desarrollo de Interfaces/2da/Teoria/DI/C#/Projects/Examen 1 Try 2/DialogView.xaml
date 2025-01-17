@@ -1,0 +1,22 @@
+﻿<!-- Examen1\DialogView.xaml -->
+<Window x:Class="Examen1.DialogView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DialogView" Height="300" Width="400">
+    <Grid>
+        <StackPanel>
+            <Label Content="Nombre"/>
+            <TextBox Text="{Binding ClienteModificado.Nombre, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Categorias"/>
+            <TextBox Text="{Binding ClienteModificado.Categorias, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Fecha de nacimiento"/>
+            <DatePicker SelectedDate="{Binding ClienteModificado.FechaNacimiento, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Valoración"/>
+            <Slider Minimum="0" Maximum="10" Value="{Binding ClienteModificado.Valoracion, UpdateSourceTrigger=PropertyChanged}"/>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Aceptar" Command="{Binding AceptarCommand}"/>
+                <Button Content="Cancelar" Command="{Binding CancelarCommand}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

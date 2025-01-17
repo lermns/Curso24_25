@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Selecciona un juego:" />
+            <ComboBox x:Name="JuegosComboBox">
+                <ComboBoxItem Content="Hundir la Flota (HF)" />
+                <ComboBoxItem Content="Tres en Raya (TR)" />
+            </ComboBox>
+            <Button Content="Iniciar Juego" Click="Button_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

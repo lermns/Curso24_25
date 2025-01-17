@@ -1,0 +1,15 @@
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\bin\Debug\PracticaExamen1.exe.config
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\bin\Debug\PracticaExamen1.exe
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\bin\Debug\PracticaExamen1.pdb
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1.csproj.AssemblyReference.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\MainWindow.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\App.g.cs
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1_MarkupCompile.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1_MarkupCompile.lref
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\MainWindow.baml
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1.g.resources
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1.Properties.Resources.resources
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1.csproj.GenerateResource.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1.csproj.CoreCompileInputs.cache
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1.exe
+d:\Users\PedroBorreganBurgos\OneDrive\Documentos (PC Clase)\Segundo\Desarrollo de Interfaces\C#\Projects\Examen1\obj\Debug\PracticaExamen1.pdb

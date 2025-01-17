@@ -1,0 +1,20 @@
+﻿<!-- MiBotonPersonalizado.xaml -->
+
+<UserControl x:Class="ET4_3_Pedro_Borregan.MiBotonPersonalizado"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="412" Width="292">
+    <Grid Margin="0,0,-56,-54">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="118*"/>
+            <RowDefinition Height="115*"/>
+        </Grid.RowDefinitions>
+        <Grid Margin="4,20,0,20" HorizontalAlignment="Left" VerticalAlignment="Center" Height="426" Width="298" Grid.RowSpan="2">
+            <Button x:Name="MiBoton" Content="Click Me" TextElement.FontSize="15" Background="{Binding BotonColor, RelativeSource={RelativeSource AncestorType=UserControl}}" Click="MiBoton_Click" Margin="0,0,84,354"/>
+            <Label x:Name="NuestraEtiqueta1" HorizontalAlignment="Left" Margin="7,85,0,0" VerticalAlignment="Top" Height="29" Content="Este boton queda expropiado." FontSize="14"/>
+            <Label x:Name="NuestraEtiqueta2" HorizontalAlignment="Left" Margin="25,108,0,0" VerticalAlignment="Top" Height="28" Content="Ahora es nuestro boton." FontSize="14"/>
+            <Image x:Name="OurPj" VerticalAlignment="Top" Source="bugs bunny comunista tenemos.PNG" Height="123" Margin="-1,150,88,0"/>
+            <Label x:Name="NuestraEtiqueta3" HorizontalAlignment="Left" Margin="14,293,0,0" VerticalAlignment="Top" Height="29" Content="Gracias por su cooperacion." FontSize="14"/>
+        </Grid>
+    </Grid>
+</UserControl>
