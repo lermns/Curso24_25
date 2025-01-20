@@ -9,12 +9,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UT4_2">
         <activity
-            android:name=".ut4_demo_4_dialogos"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity2"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

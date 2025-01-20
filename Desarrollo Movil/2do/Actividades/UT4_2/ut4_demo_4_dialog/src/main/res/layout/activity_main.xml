@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:text="@string/mostrar_toast"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnMostrarSnackbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="124dp"
+        android:backgroundTint="#4CAF50"
+        android:text="@string/mostrar_snackbar"
+        app:layout_constraintBottom_toTopOf="@+id/btnAccion"
+        app:layout_constraintEnd_toEndOf="@+id/btnToast"
+        app:layout_constraintStart_toStartOf="@+id/btnToast" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnAccion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="260dp"
+        android:backgroundTint="#F44336"
+        android:text="@string/mostrar_snackbar_con_acci_n"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/btnMostrarSnackbar"
+        app:layout_constraintStart_toStartOf="@+id/btnMostrarSnackbar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

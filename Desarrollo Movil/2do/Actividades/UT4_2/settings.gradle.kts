@@ -23,3 +23,4 @@ rootProject.name = "UT4_2"
 include(":app")
 include(":ut4_demo_menu")
 include(":ut4_demo_3")
+include(":ut4_demo_4_dialog")

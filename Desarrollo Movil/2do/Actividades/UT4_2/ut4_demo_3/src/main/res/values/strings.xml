@@ -5,4 +5,5 @@
     <string name="correo">Correo</string>
     <string name="cancelar">CANCELAR</string>
     <string name="aceptar">ACEPTAR</string>
+    <string name="mostrar_toast">MOSTRAR TOAST</string>
 </resources>
