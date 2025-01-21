@@ -1,3 +1,4 @@
 *.gradle
 .gradle/
 build/
+/AccesoADatos/2do/Practicas/HibernateAD/target/
