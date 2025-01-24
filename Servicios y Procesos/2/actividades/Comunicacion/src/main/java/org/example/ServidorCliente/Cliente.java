@@ -58,26 +58,23 @@ public class Cliente {
     }
 
     public void ejecutarConexion(String ip, int puerto) {
-        Thread hilo = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                try {
-                    levantarConexion(ip, puerto);
-                    abrirFlujos();
-                    recibirDatos();
-                } finally {
-                    cerrarConexion();
-                }
+        Thread hilo = new Thread(() -> {
+            try {
+                levantarConexion(ip, puerto);
+                abrirFlujos();
+                recibirDatos();
+            } finally {
+                cerrarConexion();
             }
         });
         hilo.start();
     }
 
     public void recibirDatos() {
-        String st = "";
+        String st;
         try {
             do {
-                st = (String) bufferDeEntrada.readUTF();
+                st = bufferDeEntrada.readUTF();
                 mostrarTexto("\n[Servidor] => " + st);
                 System.out.print("\n[Usted] => ");
             } while (!st.equals(COMANDO_TERMINACION));
@@ -85,11 +82,11 @@ public class Cliente {
     }
 
     public void escribirDatos() {
-        String entrada = "";
+        String entrada;
         while (true) {
             System.out.print("[Usted] => ");
             entrada = teclado.nextLine();
-            if(entrada.length() > 0)
+            if(!entrada.isEmpty())
                 enviar(entrada);
         }
     }
