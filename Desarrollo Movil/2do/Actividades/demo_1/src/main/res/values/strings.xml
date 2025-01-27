@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UT_5_1</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="tama_o_letra">Tamaño letra</string>
+    <string name="guardar_cambios">Guardar Cambios</string>
+    <string name="modo_oscuro">Modo Oscuro</string>
+</resources>
