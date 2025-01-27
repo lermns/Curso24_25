@@ -1,9 +1,7 @@
 package app;
 
-import org.hibernate.HibernateException;
-import org.hibernate.Session;
+import org.hibernate.*;
 import org.hibernate.cfg.Configuration;
-import org.hibernate.SessionFactory;
 
 public class HibernateUtil {
 
@@ -31,14 +29,16 @@ public class HibernateUtil {
                 sessionFactory.close();
             }
         }catch(HibernateException he){
-            System.err.println("Error al cerrar sessionFactory " + he.getMessage());
+            System.err.println("Error al cerrar sessionFactory, posible valor nulo " 
+                    + he.getMessage());
         }
     }
     
     public static void cerrarSession(Session session){
         try{
-            if(session != null && !session.isOpen()){
+            if(session != null && session.isOpen()){
                 session.close();
+                System.out.println("************** Sesion Cerrada **************");
             }
         }catch(HibernateException he){
             System.err.println("Error al cerrar session " + he.getMessage());

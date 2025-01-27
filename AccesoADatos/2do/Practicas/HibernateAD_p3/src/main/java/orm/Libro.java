@@ -64,6 +64,11 @@ public class Libro  implements java.io.Serializable {
     public void setAutor(String autor) {
         this.autor = autor;
     }
+
+    @Override
+    public String toString() {
+        return "Libro{" + "isbn=" + isbn + ", titulo=" + titulo + ", autor=" + autor + '}';
+    }
 }
 
 
