@@ -12,7 +12,7 @@ class MainActivity2 : AppCompatActivity() {
         binding = ActivityMain2Binding.inflate(layoutInflater)
 
         //  Leemos las preferencias
-        var prefs = getSharedPreferences("MisPrefs", Context.MODE_PRIVATE)
+        val prefs = getSharedPreferences("MisPrefs", Context.MODE_PRIVATE)
 
         binding.switch1.isChecked = prefs.getBoolean("oscuro", false)
         binding.editTextText.setText(prefs.getFloat("tam_letra", 12F).toString())

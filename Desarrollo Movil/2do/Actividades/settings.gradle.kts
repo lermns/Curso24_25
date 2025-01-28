@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "UT_5_1"
 include(":demo_1")
+include(":demo_2")
