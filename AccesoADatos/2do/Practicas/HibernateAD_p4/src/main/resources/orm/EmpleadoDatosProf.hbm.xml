@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 28-ene-2025 9:49:12 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="orm.EmpleadoDatosProf" table="empleado_datos_prof" catalog="ut3demo2" optimistic-lock="version">
+        <id name="dni" type="string">
+            <column name="dni" length="9" />
+            <generator class="foreign">
+                <param name="property">empleado</param>
+            </generator>
+        </id>
+        <one-to-one name="empleado" class="orm.Empleado" constrained="true"></one-to-one>
+        <property name="categoria" type="string">
+            <column name="categoria" length="2" not-null="true" />
+        </property>
+        <property name="sueldoBrutoAnual" type="big_decimal">
+            <column name="sueldo_bruto_anual" precision="8" />
+        </property>
+    </class>
+</hibernate-mapping>
