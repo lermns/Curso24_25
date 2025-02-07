@@ -17,6 +17,11 @@ public abstract class Alimento implements NutricionCalorias, NutricionPrecios, C
 
     @Override
     public int compareTo(Alimento o) {
-        return this.getClass().getSuperclass().getSimpleName().compareTo(o.getClass().getSuperclass().getSimpleName());
+        int valor = this.getClass().getSuperclass().getSimpleName().compareTo(o.getClass().getSuperclass().getSimpleName());
+
+        if (valor==0){
+            valor = this.getClass().getSimpleName().compareTo(o.getClass().getSimpleName());
+        }
+        return valor;
     }
 }
