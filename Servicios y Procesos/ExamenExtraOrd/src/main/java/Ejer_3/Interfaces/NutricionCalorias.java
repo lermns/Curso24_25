@@ -7,5 +7,5 @@ public interface NutricionCalorias {
     double EMPERADOR = 300;
     double SUSHI = 100;
 
-    int digerir();
+    double digerir();
 }

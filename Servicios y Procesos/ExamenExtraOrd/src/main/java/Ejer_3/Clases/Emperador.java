@@ -1,16 +1,21 @@
 package Ejer_3.Clases;
 
 import Ejer_3.Interfaces.NutricionCalorias;
+import Ejer_3.Interfaces.NutricionPrecios;
 
 public class Emperador extends Pescado {
     public Emperador() {
         this.calorias = NutricionCalorias.EMPERADOR;
-        this.precio = NutricionCalorias.EMPERADOR;
+        this.precio = NutricionPrecios.EMPERADOR;
     }
 
     @Override
-    public int digerir() {
-        return 0;
+    public double digerir() {
+        return calorias;
     }
 
+    @Override
+    public String toString() {
+        return "Emperador";
+    }
 }

@@ -12,7 +12,7 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
-        ArrayList<String> listaAlunmos = Arrays.;
+        ArrayList<String> listaAlunmos= new ArrayList<>();
         listaAlunmos.add("Pepe 7");
         listaAlunmos.add("Sofia 10");
         listaAlunmos.add("Alan 5");

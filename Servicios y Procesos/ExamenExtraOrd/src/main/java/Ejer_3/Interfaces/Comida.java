@@ -7,5 +7,5 @@ import Ejer_3.Clases.Tenedor;
 import java.util.ArrayList;
 
 public interface Comida {
-    int[] comer(ArrayList<Alimento> listaAlimentos, Cuchillo cuchillo, Tenedor tenedor);
+    double[] comer(ArrayList<Alimento> listaAlimentos, Cuchillo cuchillo, Tenedor tenedor) throws Exception;
 }

@@ -10,8 +10,12 @@ public class Cerdo extends Carne{
     }
 
     @Override
-    public int digerir() {
-        return 0;
+    public double digerir() {
+        return calorias;
     }
 
+    @Override
+    public String toString() {
+        return "Cerdo";
+    }
 }
