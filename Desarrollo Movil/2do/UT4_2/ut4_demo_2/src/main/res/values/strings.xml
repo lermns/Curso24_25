@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UT4_demo_menu</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="action_activity2">Abrir Activity 2</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_nuevo">Nuevo</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_buscar"
+        android:title="@string/action_buscar"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_nuevo"
+        android:title="@string/action_nuevo"
+        android:icon="@drawable/ic_new"
+        app:showAsAction="ifRoom|withText"
+        />
+    <item
+        android:id="@+id/action_activity2"
+        android:title="@string/action_activity2"
+        app:showAsAction="never"
+        />
+</menu>

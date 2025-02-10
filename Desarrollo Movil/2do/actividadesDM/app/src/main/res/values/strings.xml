@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiniCalculadora</string>
+    <string name="checkbox">checkbox</string>
+    <string name="radiobutton">radiobutton</string>
+    <string name="spinner">spinner</string>
+    <string name="sumar">sumar</string>
+    <string name="restar">restar</string>
+    <string name="calcular">calcular</string>
+    <string name="resulatado">resultado</string>
+    <string name="operando_2">operando 2</string>
+    <string name="operando_1">operando 1</string>
+</resources>
