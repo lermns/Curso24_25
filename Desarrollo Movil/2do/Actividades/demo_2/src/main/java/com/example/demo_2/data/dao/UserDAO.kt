@@ -4,7 +4,7 @@ import com.example.demo_2.model.User
 
 interface UserDAO {
     fun insertarUser(user: User)
-    fun leerUsero(id: Int): User
+    //fun leerUsero(id: Int): User
     fun leerUsers(): List<User>
     fun actualizarUser(user: User)
     fun borrarUser(id: Int)

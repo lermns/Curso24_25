@@ -81,7 +81,7 @@
         app:layout_constraintVertical_bias="0.286">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonInsertar"
+            android:id="@+id/button1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/ins"
@@ -91,7 +91,7 @@
             tools:layout_editor_absoluteY="565dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonAct"
+            android:id="@+id/button2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/act"
@@ -101,7 +101,7 @@
             tools:layout_editor_absoluteY="565dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonConsultar"
+            android:id="@+id/button3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/cons"
@@ -111,7 +111,7 @@
             tools:layout_editor_absoluteY="565dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonDelete"
+            android:id="@+id/button4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/del"
@@ -121,11 +121,10 @@
             tools:layout_editor_absoluteY="565dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonLimpiar"
+            android:id="@+id/button5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:drawableStart="@drawable/baseline_restore_from_trash_24"
-            tools:layout_editor_absoluteX="86dp"
+            android:drawableStart="@drawable/baseline_restore_from_trash_24"            tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
     </LinearLayout>
 
@@ -151,5 +150,6 @@
                 tools:layout_editor_absoluteY="489dp" />
         </LinearLayout>
     </ScrollView>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
