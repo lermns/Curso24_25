@@ -44,16 +44,16 @@
         app:layout_constraintVertical_bias="0.055">
 
         <EditText
-            android:id="@+id/editTextText1"
+            android:id="@+id/editTextTextID"
             android:layout_width="250dp"
-            android:layout_height="30dp"
+            android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="text"
             tools:layout_editor_absoluteX="53dp"
             tools:layout_editor_absoluteY="489dp" />
 
         <EditText
-            android:id="@+id/editTextText2"
+            android:id="@+id/editTextTextName"
             android:layout_width="250dp"
             android:layout_height="60dp"
             android:ems="10"
@@ -62,7 +62,7 @@
             tools:layout_editor_absoluteY="489dp" />
 
         <EditText
-            android:id="@+id/editTextText3"
+            android:id="@+id/editTextTextEmail"
             android:layout_width="250dp"
             android:layout_height="55dp"
             android:ems="10"
@@ -72,20 +72,22 @@
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/linearLayout"
         android:layout_width="393dp"
         android:layout_height="58dp"
+        android:layout_marginTop="245dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.286">
+        app:layout_constraintVertical_bias="0.032">
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/buttonInsertar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/ins"
             android:backgroundTint="#7653CA"
+            android:text="@string/ins"
             android:textColor="@color/white"
             tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
@@ -94,8 +96,8 @@
             android:id="@+id/buttonAct"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/act"
             android:backgroundTint="#7653CA"
+            android:text="@string/act"
             android:textColor="@color/white"
             tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
@@ -104,8 +106,8 @@
             android:id="@+id/buttonConsultar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/cons"
             android:backgroundTint="#7653CA"
+            android:text="@string/cons"
             android:textColor="@color/white"
             tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
@@ -114,8 +116,8 @@
             android:id="@+id/buttonDelete"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/del"
             android:backgroundTint="#D32F2F"
+            android:text="@string/del"
             android:textColor="@color/white"
             tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
@@ -132,11 +134,16 @@
     <ScrollView
         android:layout_width="368dp"
         android:layout_height="348dp"
-        android:layout_marginBottom="240dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="355dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="188dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
-        app:layout_constraintStart_toStartOf="parent">
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.693">
 
         <LinearLayout
             android:layout_width="wrap_content"

@@ -22,18 +22,19 @@ public class Main {
             t = s.beginTransaction();
             
             //  Creacion Sede y Departamento
-            Sede sede = new Sede("Sevilla");
-            s.save(sede);
-            Departamento dep = new Departamento(sede, "I+D");
-            s.save(dep);
+//            Sede sede = new Sede("Sevilla");
+//            s.save(sede);
+//            Departamento dep = new Departamento(sede, "I+D");
+//            s.save(dep);
+//            
+//            Empleado e1 = new Empleado("111111111", dep, "Pepe");
+//            Empleado e2 = new Empleado("222222222", dep, "Ana");
+//            Empleado e3 = new Empleado("333333333", dep, "Fiona");
+//            
+//            s.save(e1);
+//            s.save(e2);
+//            s.save(e3);
             
-            Empleado e1 = new Empleado("25", dep, "Pepe2");
-            Empleado e2 = new Empleado("26", dep, "Ana2");
-            Empleado e3 = new Empleado("27", dep, "Fiona2");
-            
-            s.save(e1);
-            s.save(e2);
-            s.save(e3);
             
             /* Datos Prueba
             Sede sede = new Sede("Sevilla");
@@ -49,23 +50,26 @@ public class Main {
             s.save(e2);
             s.save(e3);
             */
+            String hqlCons = "FROM Empleado e, Departamento d WHERE e.departamento.idDepto=d.idDepto";
+            List<Object[]> empleados = s.createQuery(hqlCons, Object[].class).getResultList(); 
+            empleados.forEach(a -> System.out.println(a[0]+"-"+a[1]));
             
-            Departamento depto = s.get(Departamento.class, 11);
-            
-            System.out.println("************** DATOS DE EMPLEADOS **************");
-            List<Empleado> empleados = s.createQuery("FROM Empleado WHERE departamento.id = :id", Empleado.class).setParameter("id", depto.getIdDepto()).getResultList(); 
-            System.out.println("empleados totales: " + empleados.size()); 
-            empleados.forEach(emp -> System.out.println(emp.getNomEmp()));
-
-            String hql = "FROM Departamento";
-            Query q = s.createQuery(hql);
-
-            System.out.println("************** LEEMOS TODOS LOS DEPARTAMENTOS **************");
-            System.out.println("*************************** DATOS **************************");
-
-            List <Departamento> listResultados = q.list();
-
-            listResultados.forEach(System.out::println);
+//            Departamento depto = s.get(Departamento.class, 1);
+//            s.refresh(depto);
+//            System.out.println("************** DATOS DE EMPLEADOS **************");
+//            List<Empleado> empleados = s.createQuery("FROM Empleado WHERE departamento.idDepto = :id", Empleado.class).setParameter("id", depto.getIdDepto()).getResultList(); 
+//            System.out.println("empleados totales: " + empleados.size()); 
+//            empleados.forEach(emp -> System.out.println(emp.getNomEmp()));
+//
+//            String hql = "FROM Departamento";
+//            Query q = s.createQuery(hql);
+//
+//            System.out.println("************** LEEMOS TODOS LOS DEPARTAMENTOS **************");
+//            System.out.println("*************************** DATOS **************************");
+//
+//            List <Departamento> listResultados = q.list();
+//
+//            listResultados.forEach(System.out::println);
 
             
             //  Primera forma aprendida en clase, el problema es que en la misma ejecucion no te coge el departamento

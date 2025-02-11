@@ -13,8 +13,8 @@ class UserDAOImpl(private val view: View, private val dbHelper: SQLiteOpenHelper
     override fun insertarUser(user: User) {
         val db = dbHelper.writableDatabase
         //  opción A execSQL
-        db.execSQL("insert into user (name, email) values('${user.name}', '${user.email}')")
-        db.execSQL("insert into ${UserSQLiteHelper.TABLE_NAME} (${UserSQLiteHelper.COLUMN_NAME}, ${UserSQLiteHelper.COLUMN_EMAIL}) values('${user.name}', '${user.email}')")
+//        db.execSQL("insert into user (name, email) values('${user.name}', '${user.email}')")
+//        db.execSQL("insert into ${UserSQLiteHelper.TABLE_NAME} (${UserSQLiteHelper.COLUMN_NAME}, ${UserSQLiteHelper.COLUMN_EMAIL}) values('${user.name}', '${user.email}')")
 
         //  opción B Metodo insert
         val newUser = ContentValues().apply {
