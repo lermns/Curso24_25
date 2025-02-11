@@ -81,6 +81,11 @@ public class Sede  implements java.io.Serializable {
         this.proyectoSedes = proyectoSedes;
     }
 
+    @Override
+    public String toString() {
+        return nomSede;
+    }
+
 
 
 

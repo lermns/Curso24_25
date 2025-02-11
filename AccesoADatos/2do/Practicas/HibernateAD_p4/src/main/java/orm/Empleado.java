@@ -74,13 +74,18 @@ public class Empleado  implements java.io.Serializable {
         this.nomEmp = nomEmp;
     }
 
-@OneToOne(fetch=FetchType.LAZY, mappedBy="empleado")
+@OneToOne(fetch=FetchType.EAGER, mappedBy="empleado")
     public EmpleadoDatosProf getEmpleadoDatosProf() {
         return this.empleadoDatosProf;
     }
     
     public void setEmpleadoDatosProf(EmpleadoDatosProf empleadoDatosProf) {
         this.empleadoDatosProf = empleadoDatosProf;
+    }
+
+    @Override
+    public String toString() {
+        return "Empleado{" + "dni=" + dni + ", departamento=" + departamento + ", nomEmp=" + nomEmp + ", empleadoDatosProf=" + empleadoDatosProf + '}';
     }
 
 
