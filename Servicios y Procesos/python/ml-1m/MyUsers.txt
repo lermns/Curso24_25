@@ -1,0 +1,3707 @@
+title;0
+American Beauty (1999);3428
+Star Wars: Episode IV - A New Hope (1977);2991
+Star Wars: Episode V - The Empire Strikes Back (1980);2990
+Star Wars: Episode VI - Return of the Jedi (1983);2883
+Jurassic Park (1993);2672
+Saving Private Ryan (1998);2653
+Terminator 2: Judgment Day (1991);2649
+Matrix, The (1999);2590
+Back to the Future (1985);2583
+Silence of the Lambs, The (1991);2578
+Men in Black (1997);2538
+Raiders of the Lost Ark (1981);2514
+Fargo (1996);2513
+Sixth Sense, The (1999);2459
+Braveheart (1995);2443
+Shakespeare in Love (1998);2369
+Princess Bride, The (1987);2318
+Schindler's List (1993);2304
+L.A. Confidential (1997);2288
+Groundhog Day (1993);2278
+E.T. the Extra-Terrestrial (1982);2269
+Star Wars: Episode I - The Phantom Menace (1999);2250
+Being John Malkovich (1999);2241
+Shawshank Redemption, The (1994);2227
+Godfather, The (1972);2223
+Forrest Gump (1994);2194
+Ghostbusters (1984);2181
+Pulp Fiction (1994);2171
+Terminator, The (1984);2098
+Toy Story (1995);2077
+Alien (1979);2024
+Total Recall (1990);1996
+Fugitive, The (1993);1995
+Gladiator (2000);1924
+Aliens (1986);1820
+Blade Runner (1982);1800
+Who Framed Roger Rabbit? (1988);1799
+Stand by Me (1986);1785
+Usual Suspects, The (1995);1783
+Babe (1995);1751
+Airplane! (1980);1731
+Independence Day (ID4) (1996);1730
+Galaxy Quest (1999);1728
+One Flew Over the Cuckoo's Nest (1975);1725
+Wizard of Oz, The (1939);1718
+2001: A Space Odyssey (1968);1716
+Abyss, The (1989);1715
+Bug's Life, A (1998);1703
+Jaws (1975);1697
+Godfather: Part II, The (1974);1692
+Casablanca (1942);1669
+Die Hard (1988);1666
+GoodFellas (1990);1657
+Hunt for Red October, The (1990);1652
+Speed (1994);1650
+Indiana Jones and the Last Crusade (1989);1628
+Lethal Weapon (1987);1627
+Monty Python and the Holy Grail (1974);1599
+Toy Story 2 (1999);1585
+When Harry Met Sally... (1989);1568
+Good Will Hunting (1997);1548
+Titanic (1997);1546
+Breakfast Club, The (1985);1539
+Mission: Impossible (1996);1527
+Election (1999);1522
+X-Men (2000);1511
+Twelve Monkeys (1995);1511
+Beetlejuice (1988);1495
+Big (1988);1491
+Edward Scissorhands (1990);1473
+Ferris Bueller's Day Off (1986);1473
+Close Encounters of the Third Kind (1977);1451
+Dances with Wolves (1990);1451
+Fight Club (1999);1451
+Star Trek: The Wrath of Khan (1982);1448
+Raising Arizona (1987);1434
+Austin Powers: The Spy Who Shagged Me (1999);1434
+Batman (1989);1431
+As Good As It Gets (1997);1424
+Face/Off (1997);1421
+Butch Cassidy and the Sundance Kid (1969);1419
+Thelma & Louise (1991);1417
+Clerks (1994);1412
+True Lies (1994);1400
+American Pie (1999);1389
+Amadeus (1984);1382
+Contact (1997);1382
+Fifth Element, The (1997);1377
+High Fidelity (2000);1373
+There's Something About Mary (1998);1371
+Arachnophobia (1990);1367
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963);1367
+Clueless (1995);1362
+Get Shorty (1995);1356
+Jerry Maguire (1996);1353
+Christmas Story, A (1983);1352
+Aladdin (1992);1351
+Romancing the Stone (1984);1345
+Blues Brothers, The (1980);1341
+Rock, The (1996);1340
+Annie Hall (1977);1334
+Talented Mr. Ripley, The (1999);1331
+Rain Man (1988);1330
+Chicken Run (2000);1329
+Fish Called Wanda, A (1988);1326
+North by Northwest (1959);1315
+Erin Brockovich (2000);1315
+Willy Wonka and the Chocolate Factory (1971);1313
+Mission: Impossible 2 (2000);1313
+Star Trek: First Contact (1996);1310
+Predator (1987);1297
+South Park: Bigger, Longer and Uncut (1999);1269
+Psycho (1960);1263
+Graduate, The (1967);1261
+Reservoir Dogs (1992);1259
+Lost World: Jurassic Park, The (1997);1255
+Full Metal Jacket (1987);1254
+Apollo 13 (1995);1251
+Taxi Driver (1976);1240
+Patriot, The (2000);1240
+Blair Witch Project, The (1999);1237
+Four Weddings and a Funeral (1994);1233
+Rocky Horror Picture Show, The (1975);1233
+Robocop (1987);1229
+Crying Game, The (1992);1229
+Clockwork Orange, A (1971);1229
+Superman (1978);1222
+Green Mile, The (1999);1222
+Rushmore (1998);1220
+Animal House (1978);1207
+Austin Powers: International Man of Mystery (1997);1205
+Full Monty, The (1997);1199
+Young Frankenstein (1974);1193
+Chinatown (1974);1185
+Mask, The (1994);1179
+Sling Blade (1996);1177
+Apocalypse Now (1979);1176
+Splash (1984);1163
+Starship Troopers (1997);1163
+Planet of the Apes (1968);1162
+Back to the Future Part II (1989);1158
+Pleasantville (1998);1158
+Gone with the Wind (1939);1156
+Life Is Beautiful (La Vita è bella) (1997);1152
+Back to the Future Part III (1990);1148
+Platoon (1986);1143
+Seven (Se7en) (1995);1137
+Grosse Pointe Blank (1997);1136
+Die Hard 2 (1990);1135
+Rocky (1976);1129
+Boogie Nights (1997);1128
+Untouchables, The (1987);1127
+Indiana Jones and the Temple of Doom (1984);1127
+Star Trek IV: The Voyage Home (1986);1126
+Ghost (1990);1124
+Lion King, The (1994);1121
+Wayne's World (1992);1120
+Blazing Saddles (1974);1119
+This Is Spinal Tap (1984);1118
+Stargate (1994);1116
+Citizen Kane (1941);1116
+Magnolia (1999);1113
+Glory (1989);1112
+Twister (1996);1110
+Armageddon (1998);1110
+M*A*S*H (1970);1099
+League of Their Own, A (1992);1099
+Big Lebowski, The (1998);1097
+Bull Durham (1988);1095
+Sneakers (1992);1091
+Thomas Crown Affair, The (1999);1089
+Shining, The (1980);1087
+My Cousin Vinny (1992);1086
+Good Morning, Vietnam (1987);1082
+Gattaca (1997);1077
+Air Force One (1997);1076
+Mars Attacks! (1996);1074
+Run Lola Run (Lola rennt) (1998);1072
+Fly, The (1986);1071
+Sleepy Hollow (1999);1066
+Mad Max (1979);1066
+Few Good Men, A (1992);1061
+Beauty and the Beast (1991);1060
+Clear and Present Danger (1994);1059
+African Queen, The (1951);1057
+Patriot Games (1992);1052
+Rear Window (1954);1050
+Sting, The (1973);1049
+Witness (1985);1046
+Pretty Woman (1990);1046
+Honey, I Shrunk the Kids (1989);1045
+Maltese Falcon, The (1941);1043
+Little Mermaid, The (1989);1035
+Mad Max 2 (a.k.a. The Road Warrior) (1981);1034
+American President, The (1995);1033
+Batman Returns (1992);1031
+Three Kings (1999);1021
+Perfect Storm, The (2000);1013
+Lethal Weapon 2 (1989);1011
+Mary Poppins (1964);1011
+Top Gun (1986);1010
+Time Bandits (1981);1010
+Mummy, The (1999);1007
+Cocoon (1985);1006
+Truman Show, The (1998);1005
+Boat, The (Das Boot) (1981);1001
+Star Trek VI: The Undiscovered Country (1991);1001
+Unforgiven (1992);997
+X-Files: Fight the Future, The (1998);996
+Nightmare Before Christmas, The (1993);996
+Almost Famous (2000);994
+Star Trek: Generations (1994);990
+American Graffiti (1973);990
+Dogma (1999);989
+English Patient, The (1996);989
+Enemy of the State (1998);988
+Sleepless in Seattle (1993);986
+Mask of Zorro, The (1998);983
+Moonstruck (1987);982
+Leaving Las Vegas (1995);980
+Player, The (1992);978
+Last of the Mohicans, The (1992);975
+In the Line of Fire (1993);972
+Tron (1982);970
+Caddyshack (1980);967
+Chasing Amy (1997);966
+Con Air (1997);954
+Nutty Professor, The (1996);948
+Dave (1993);948
+Eyes Wide Shut (1999);945
+Army of Darkness (1993);945
+Fisher King, The (1991);945
+Fantasia (1940);943
+Heat (1995);940
+Elizabeth (1998);938
+Bridge on the River Kwai, The (1957);938
+Little Shop of Horrors (1986);936
+Bowfinger (1999);935
+Cool Hand Luke (1967);930
+Dead Man Walking (1995);928
+To Kill a Mockingbird (1962);928
+Star Trek III: The Search for Spock (1984);927
+Ed Wood (1994);927
+Monty Python's Life of Brian (1979);926
+Alien³ (1992);925
+Professional, The (a.k.a. Leon: The Professional) (1994);923
+Say Anything... (1989);914
+From Dusk Till Dawn (1996);914
+Brazil (1985);913
+Crocodile Dundee (1986);912
+Wedding Singer, The (1998);909
+Out of Sight (1998);908
+U-571 (2000);908
+Wag the Dog (1997);907
+Vertigo (1958);905
+Wild Wild West (1999);902
+Spaceballs (1987);899
+Goldfinger (1964);897
+Deep Impact (1998);895
+GoldenEye (1995);888
+Fast Times at Ridgemont High (1982);886
+Scream (1996);886
+Exorcist, The (1973);885
+Grifters, The (1990);885
+Insider, The (1999);884
+Escape from New York (1981);884
+Misery (1990);884
+Wrong Trousers, The (1993);882
+Game, The (1997);882
+Sound of Music, The (1965);882
+Man on the Moon (1999);874
+Dark City (1998);874
+Office Space (1999);872
+Backdraft (1991);869
+Starman (1984);865
+Lady and the Tramp (1955);864
+Tomorrow Never Dies (1997);862
+Meet the Parents (2000);862
+World Is Not Enough, The (1999);862
+Pee-wee's Big Adventure (1985);861
+French Connection, The (1971);861
+Dead Poets Society (1989);855
+Mystery Men (1999);853
+Risky Business (1983);852
+Boys Don't Cry (1999);850
+Superman II (1980);846
+Desperately Seeking Susan (1985);840
+Trading Places (1983);839
+Diner (1982);839
+Mrs. Doubtfire (1993);838
+Big Chill, The (1983);838
+You've Got Mail (1998);838
+Sense and Sensibility (1995);835
+Some Like It Hot (1959);832
+Lawrence of Arabia (1962);831
+Devil's Advocate, The (1997);826
+L.A. Story (1991);825
+Die Hard: With a Vengeance (1995);825
+Firm, The (1993);824
+Good, The Bad and The Ugly, The (1966);822
+Frequency (2000);821
+My Best Friend's Wedding (1997);820
+What About Bob? (1991);817
+Grease (1978);817
+Parenthood (1989);811
+Conspiracy Theory (1997);811
+Grumpy Old Men (1993);809
+Blade (1998);809
+Star Trek: Insurrection (1998);807
+Ronin (1998);806
+Thin Red Line, The (1998);803
+Heathers (1989);803
+Willow (1988);802
+Lethal Weapon 3 (1992);802
+Fatal Attraction (1987);802
+Maverick (1994);802
+Negotiator, The (1998);799
+Roger & Me (1989);798
+Poltergeist (1982);795
+Mission to Mars (2000);793
+Star Trek: The Motion Picture (1979);792
+Big Daddy (1999);791
+Shanghai Noon (2000);791
+Dune (1984);789
+Broadcast News (1987);789
+Swingers (1996);786
+Double Jeopardy (1999);786
+Do the Right Thing (1989);781
+Notting Hill (1999);780
+Alien: Resurrection (1997);779
+Entrapment (1999);777
+Batman Forever (1995);777
+Gremlins (1984);776
+Godfather: Part III, The (1990);774
+Dangerous Liaisons (1988);773
+Payback (1999);773
+Like Water for Chocolate (Como agua para chocolate) (1992);772
+From Russia with Love (1963);771
+Field of Dreams (1989);768
+Ace Ventura: Pet Detective (1994);766
+Midnight Run (1988);765
+Dog Day Afternoon (1975);765
+Kingpin (1996);765
+Manchurian Candidate, The (1962);765
+Snow White and the Seven Dwarfs (1937);763
+West Side Story (1961);761
+Crimson Tide (1995);760
+JFK (1991);756
+King Kong (1933);756
+Romy and Michele's High School Reunion (1997);755
+Basic Instinct (1992);751
+Repo Man (1984);751
+Singin' in the Rain (1952);751
+Trainspotting (1996);751
+Right Stuff, The (1983);750
+13th Warrior, The (1999);750
+Simple Plan, A (1998);745
+Sleeper (1973);744
+Muppet Movie, The (1979);744
+Excalibur (1981);742
+Highlander (1986);741
+Thing, The (1982);741
+Stripes (1981);740
+Interview with the Vampire (1994);738
+Rocketeer, The (1991);736
+Crow, The (1994);734
+Nikita (La Femme Nikita) (1990);733
+Outbreak (1995);733
+Birds, The (1963);733
+Killing Fields, The (1984);732
+Running Man, The (1987);730
+Deliverance (1972);729
+It's a Wonderful Life (1946);729
+Jackie Brown (1997);724
+Go (1999);723
+Mad Max Beyond Thunderdome (1985);722
+Hook (1991);722
+Searching for Bobby Fischer (1993);720
+Donnie Brasco (1997);719
+Sixteen Candles (1984);719
+Manhattan (1979);718
+Hoop Dreams (1994);716
+Goonies, The (1985);716
+Night of the Living Dead (1968);715
+Addams Family, The (1991);714
+Rosemary's Baby (1968);712
+Cider House Rules, The (1999);711
+Dark Crystal, The (1982);710
+Dirty Dozen, The (1967);707
+Legends of the Fall (1994);705
+Quiz Show (1994);705
+Ben-Hur (1959);704
+Waking Ned Devine (1998);703
+F/X (1986);701
+Jumanji (1995);701
+Natural Born Killers (1994);700
+Deer Hunter, The (1978);700
+10 Things I Hate About You (1999);700
+NeverEnding Story, The (1984);699
+Harold and Maude (1971);697
+Great Escape, The (1963);696
+Gods Must Be Crazy, The (1980);695
+What's Eating Gilbert Grape (1993);693
+Pretty in Pink (1986);693
+Naked Gun: From the Files of Police Squad!, The (1988);692
+General's Daughter, The (1999);691
+Network (1976);688
+Dirty Dancing (1987);687
+Cape Fear (1991);687
+Cliffhanger (1993);686
+Bonnie and Clyde (1967);686
+Birdcage, The (1996);682
+Casino (1995);682
+So I Married an Axe Murderer (1993);682
+Happy Gilmore (1996);682
+Awakenings (1990);680
+Doors, The (1991);680
+Truth About Cats & Dogs, The (1996);679
+Raging Bull (1980);677
+Strictly Ballroom (1992);676
+Breakfast at Tiffany's (1961);676
+Home Alone (1990);675
+Iron Giant, The (1999);674
+While You Were Sleeping (1995);673
+Jewel of the Nile, The (1985);673
+Arsenic and Old Lace (1944);672
+Bram Stoker's Dracula (1992);672
+Gandhi (1982);671
+Lethal Weapon 4 (1998);669
+Jacob's Ladder (1990);667
+Lost in Space (1998);667
+Much Ado About Nothing (1993);667
+White Men Can't Jump (1992);667
+Sister Act (1992);666
+Liar Liar (1997);666
+Bulworth (1998);664
+Jungle Book, The (1967);664
+Midnight Cowboy (1969);663
+Dumb & Dumber (1994);660
+Producers, The (1968);658
+Cell, The (2000);658
+True Romance (1993);658
+Close Shave, A (1995);657
+Best in Show (2000);657
+Blue Velvet (1986);654
+Moonraker (1979);652
+Driving Miss Daisy (1989);652
+Waterworld (1995);651
+Runaway Bride (1999);650
+Dr. No (1962);646
+Antz (1998);645
+Patton (1970);645
+Dazed and Confused (1993);643
+Predator 2 (1990);643
+Santa Clause, The (1994);641
+Bone Collector, The (1999);640
+Demolition Man (1993);640
+American History X (1998);640
+Broken Arrow (1996);638
+Last Emperor, The (1987);636
+Westworld (1973);636
+My Fair Lady (1964);636
+Arlington Road (1999);634
+Chariots of Fire (1981);634
+American Psycho (2000);630
+Lone Star (1996);630
+Invasion of the Body Snatchers (1956);628
+Midnight in the Garden of Good and Evil (1997);628
+Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954);628
+Blood Simple (1984);628
+Mr. Mom (1983);628
+Rush Hour (1998);627
+Out of Africa (1985);626
+Wild Things (1998);626
+Bodyguard, The (1992);626
+Logan's Run (1976);626
+Lock, Stock & Two Smoking Barrels (1998);625
+Never Been Kissed (1999);624
+Powder (1995);624
+Dick Tracy (1990);624
+River Runs Through It, A (1992);623
+Poseidon Adventure, The (1972);622
+Heavy Metal (1981);618
+Analyze This (1999);616
+12 Angry Men (1957);616
+Tin Cup (1996);615
+Cinema Paradiso (1988);615
+Lawnmower Man, The (1992);615
+Scary Movie (2000);613
+Star Trek V: The Final Frontier (1989);613
+Pi (1998);613
+Civil Action, A (1998);612
+Dragonheart (1996);612
+Adventures of Buckaroo Bonzai Across the 8th Dimension, The (1984);611
+Piano, The (1993);608
+Opposite of Sex, The (1998);608
+Batman & Robin (1997);606
+Strange Days (1995);605
+Whole Nine Yards, The (2000);602
+Hudsucker Proxy, The (1994);599
+Fletch (1985);599
+Deep Blue Sea (1999);598
+Peter Pan (1953);594
+Duck Soup (1933);594
+Fried Green Tomatoes (1991);593
+Little Big Man (1970);591
+Being There (1979);591
+Boiler Room (2000);590
+Hoosiers (1986);590
+Bambi (1942);589
+October Sky (1999);588
+Gone in 60 Seconds (2000);584
+Big Trouble in Little China (1986);584
+Dead Again (1991);583
+Red Violin, The (Le Violon rouge) (1998);583
+Philadelphia Story, The (1940);582
+Prince of Egypt, The (1998);579
+Gods and Monsters (1998);578
+Cinderella (1950);577
+Scream 3 (2000);577
+20,000 Leagues Under the Sea (1954);575
+Hot Shots! Part Deux (1993);573
+Jerk, The (1979);573
+Bound (1996);572
+Conan the Barbarian (1982);572
+Glengarry Glen Ross (1992);571
+Rumble in the Bronx (1995);570
+Net, The (1995);569
+Three Amigos! (1986);569
+Dumbo (1941);568
+Carrie (1976);567
+War of the Worlds, The (1953);565
+Ghostbusters II (1989);565
+Congo (1995);565
+101 Dalmatians (1961);565
+Doctor Zhivago (1965);564
+Judge Dredd (1995);564
+End of Days (1999);564
+Ransom (1996);564
+Saint, The (1997);563
+Space Jam (1996);563
+Young Guns (1988);562
+Sex, Lies, and Videotape (1989);562
+Philadelphia (1993);561
+Room with a View, A (1986);560
+Me, Myself and Irene (2000);560
+Nurse Betty (2000);559
+Day the Earth Stood Still, The (1951);559
+Cruel Intentions (1999);559
+Commitments, The (1991);558
+Airplane II: The Sequel (1982);558
+Bringing Out the Dead (1999);557
+G.I. Jane (1997);557
+Scent of a Woman (1992);555
+Labyrinth (1986);554
+Rob Roy (1995);554
+Tombstone (1993);553
+Double Indemnity (1944);551
+Species (1995);550
+Vacation (1983);549
+American Werewolf in London, An (1981);549
+Evil Dead II (Dead By Dawn) (1987);548
+Shine (1996);548
+Natural, The (1984);548
+Prizzi's Honor (1985);545
+To Die For (1995);544
+Ladyhawke (1985);542
+Honeymoon in Vegas (1992);542
+Pitch Black (2000);542
+Sphere (1998);541
+Adventures in Babysitting (1987);541
+Mr. Holland's Opus (1995);541
+Big Sleep, The (1946);541
+Desperado (1995);540
+Flight of the Navigator (1986);536
+Titan A.E. (2000);535
+Arthur (1981);534
+Teenage Mutant Ninja Turtles (1990);534
+Coneheads (1993);533
+Pushing Tin (1999);533
+Terms of Endearment (1983);530
+Three Musketeers, The (1993);529
+That Thing You Do! (1996);528
+Doctor Dolittle (1998);527
+James and the Giant Peach (1996);525
+Alice in Wonderland (1951);525
+Falling Down (1993);524
+Babe: Pig in the City (1998);523
+Fistful of Dollars, A (1964);522
+Grapes of Wrath, The (1940);521
+Stuart Little (1999);520
+Breaking Away (1979);520
+On the Waterfront (1954);519
+Muriel's Wedding (1994);518
+Hard Day's Night, A (1964);518
+Scrooged (1988);516
+Christmas Vacation (1989);515
+Client, The (1994);515
+Working Girl (1988);514
+Touch of Evil (1958);514
+Faculty, The (1998);513
+Buffy the Vampire Slayer (1992);512
+Escape from L.A. (1996);511
+Sleeping Beauty (1959);511
+Superman III (1983);511
+Weird Science (1985);510
+Hurricane, The (1999);509
+Ice Storm, The (1997);507
+Ordinary People (1980);507
+Halloween (1978);506
+Peggy Sue Got Married (1986);506
+28 Days (2000);505
+Body Heat (1981);504
+Alien Nation (1988);504
+Guns of Navarone, The (1961);502
+Postino, Il (The Postman) (1994);501
+Emma (1996);501
+Last Action Hero (1993);500
+Private Parts (1997);499
+Godzilla (1998);499
+Event Horizon (1997);498
+Pinocchio (1940);498
+Dead Calm (1989);497
+Charlotte's Web (1973);497
+Wonder Boys (2000);496
+Serpico (1973);495
+Snake Eyes (1998);495
+Karate Kid, The (1984);493
+Robocop 2 (1990);493
+Spanish Prisoner, The (1997);493
+Cop Land (1997);492
+Crumb (1994);491
+Mulan (1998);490
+Keeping the Faith (2000);489
+Spy Who Loved Me, The (1977);487
+Stir of Echoes (1999);487
+Primal Fear (1996);485
+Easy Rider (1969);485
+Streetcar Named Desire, A (1951);483
+Mariachi, El (1992);483
+Any Given Sunday (1999);483
+Strangers on a Train (1951);482
+Benny & Joon (1993);481
+Howards End (1992);480
+Third Man, The (1949);480
+Fly, The (1958);480
+Purple Rose of Cairo, The (1985);479
+William Shakespeare's Romeo and Juliet (1996);479
+Grumpier Old Men (1995);478
+Welcome to the Dollhouse (1995);478
+Space Cowboys (2000);478
+Karate Kid, Part II, The (1986);477
+Forever Young (1992);477
+Heavenly Creatures (1994);477
+Rudy (1993);476
+Haunting, The (1999);476
+Red Dawn (1984);475
+Malcolm X (1992);475
+Beavis and Butt-head Do America (1996);475
+I Know What You Did Last Summer (1997);475
+Ruthless People (1986);475
+Spawn (1997);475
+Secrets & Lies (1996);474
+Patch Adams (1998);474
+Limey, The (1999);474
+Joy Luck Club, The (1993);474
+Grand Day Out, A (1992);473
+Better Off Dead... (1985);472
+Six Days Seven Nights (1998);471
+Apostle, The (1997);471
+Popeye (1980);471
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950);470
+2010 (1984);470
+Hercules (1997);469
+Adventures of Priscilla, Queen of the Desert, The (1994);469
+Mosquito Coast, The (1986);466
+Sliding Doors (1998);464
+Escape from the Planet of the Apes (1971);463
+What Lies Beneath (2000);463
+Addams Family Values (1993);463
+Waiting for Guffman (1996);462
+Key Largo (1948);461
+Under Siege (1992);461
+Man with the Golden Gun, The (1974);461
+Crimes and Misdemeanors (1989);460
+Eraser (1996);460
+Final Destination (2000);459
+Golden Child, The (1986);459
+Sabrina (1995);458
+Johnny Mnemonic (1995);458
+Elephant Man, The (1980);457
+Mystery Science Theater 3000: The Movie (1996);456
+People vs. Larry Flynt, The (1996);456
+Bullets Over Broadway (1994);455
+Scream 2 (1997);455
+Return to Me (2000);454
+My Left Foot (1989);453
+Treasure of the Sierra Madre, The (1948);453
+Conversation, The (1974);453
+Fantasia 2000 (1999);453
+Akira (1988);452
+Kramer Vs. Kramer (1979);452
+Mallrats (1995);451
+And Now for Something Completely Different (1971);451
+Ghost and the Darkness, The (1996);451
+Nightmare on Elm Street, A (1984);451
+Color Purple, The (1985);450
+Big Night (1996);450
+Remains of the Day, The (1993);450
+Hustler, The (1961);450
+U.S. Marshalls (1998);448
+Angel Heart (1987);448
+Mickey Blue Eyes (1999);448
+Creepshow (1982);447
+Pacific Heights (1990);447
+Defending Your Life (1991);446
+Rocky II (1979);445
+Hairspray (1988);445
+Notorious (1946);445
+Clue (1985);443
+Cabaret (1972);443
+To Catch a Thief (1955);443
+Tarzan (1999);442
+Real Genius (1985);442
+Courage Under Fire (1996);441
+Toys (1992);440
+Wallace & Gromit: The Best of Aardman Animation (1996);438
+Lord of the Rings, The (1978);438
+Single White Female (1992);438
+Remember the Titans (2000);437
+Timecop (1994);436
+Footloose (1984);435
+Long Kiss Goodnight, The (1996);434
+Victor/Victoria (1982);434
+Howard the Duck (1986);434
+Brothers McMullen, The (1995);433
+Wayne's World 2 (1993);433
+Naked Gun 2 1/2: The Smell of Fear, The (1991);431
+Girl, Interrupted (1999);431
+Mighty Aphrodite (1995);431
+Dick (1999);430
+Straight Story, The (1999);429
+Singles (1992);429
+Reality Bites (1994);428
+In & Out (1997);428
+Phenomenon (1996);427
+Spartacus (1960);426
+Henry V (1989);426
+Roman Holiday (1953);425
+For Your Eyes Only (1981);425
+Beach, The (2000);423
+Soylent Green (1973);422
+Live and Let Die (1973);422
+Shaft (2000);421
+Mister Roberts (1955);421
+Lake Placid (1999);421
+Rules of Engagement (2000);420
+Days of Thunder (1990);420
+Waterboy, The (1998);420
+Road Trip (2000);419
+Stigmata (1999);419
+Quick and the Dead, The (1995);418
+Brady Bunch Movie, The (1995);418
+Money Pit, The (1986);418
+Apartment, The (1960);417
+Arrival, The (1996);417
+Ever After: A Cinderella Story (1998);416
+Drugstore Cowboy (1989);416
+Craft, The (1996);416
+Executive Decision (1996);416
+Midsummer Night's Dream, A (1999);415
+Bob Roberts (1992);415
+Crocodile Dundee II (1988);414
+Flatliners (1990);413
+Police Academy (1984);413
+Bringing Up Baby (1938);413
+Naked Gun 33 1/3: The Final Insult (1994);412
+eXistenZ (1999);410
+Tommy Boy (1995);410
+She's All That (1999);410
+Omen, The (1976);409
+Steel Magnolias (1989);408
+Private Benjamin (1980);407
+Frankenstein (1931);406
+On Golden Pond (1981);405
+Hollow Man (2000);405
+Thunderball (1965);404
+American Tail, An (1986);404
+City of Lost Children, The (1995);403
+Far and Away (1992);403
+High Noon (1952);403
+All About Eve (1950);403
+Rebel Without a Cause (1955);402
+Rambo: First Blood Part II (1985);401
+Rocky III (1982);401
+Perfect Murder, A (1998);401
+Marathon Man (1976);400
+Anaconda (1997);399
+Yellow Submarine (1968);399
+Snow Falling on Cedars (1999);398
+His Girl Friday (1940);397
+First Blood (1982);397
+Summer of Sam (1999);395
+Kiss the Girls (1997);395
+Peacemaker, The (1997);395
+Stalag 17 (1953);394
+All About My Mother (Todo Sobre Mi Madre) (1999);394
+City Slickers II: The Legend of Curly's Gold (1994);392
+Cool Runnings (1993);392
+Michael (1996);392
+Year of Living Dangerously (1982);391
+Man in the Iron Mask, The (1998);391
+Thirteenth Floor, The (1999);391
+Hunchback of Notre Dame, The (1996);390
+Ideal Husband, An (1999);390
+Serial Mom (1994);389
+Ace Ventura: When Nature Calls (1995);389
+Odd Couple, The (1968);389
+Fallen (1998);388
+Metropolis (1926);388
+Contender, The (2000);388
+Hope Floats (1998);387
+Bridges of Madison County, The (1995);387
+Pink Floyd - The Wall (1982);387
+Barbarella (1968);386
+Don Juan DeMarco (1995);386
+Siege, The (1998);386
+Rebecca (1940);386
+Cable Guy, The (1996);385
+Return of the Pink Panther, The (1974);385
+Licence to Kill (1989);385
+European Vacation (1985);385
+Mr. Smith Goes to Washington (1939);383
+Madness of King George, The (1994);383
+Drop Dead Gorgeous (1999);383
+Bicentennial Man (1999);383
+Rising Sun (1993);382
+Pocahontas (1995);382
+Hamlet (1996);382
+Honey, I Blew Up the Kid (1992);381
+Sweet Hereafter, The (1997);381
+Absolute Power (1997);380
+Absent Minded Professor, The (1961);380
+Bird on a Wire (1990);380
+Miracle on 34th Street (1947);380
+Young Sherlock Holmes (1985);379
+Devil in a Blue Dress (1995);379
+Verdict, The (1982);379
+Dial M for Murder (1954);379
+Copycat (1995);378
+Adventures of Robin Hood, The (1938);378
+Rocky IV (1985);375
+Kelly's Heroes (1970);375
+Universal Soldier (1992);375
+Sleepers (1996);374
+Robin Hood: Men in Tights (1993);374
+It Happened One Night (1934);374
+Jumpin' Jack Flash (1986);374
+Forbidden Planet (1956);373
+Inspector Gadget (1999);373
+Weekend at Bernie's (1989);373
+King and I, The (1956);372
+Smoke Signals (1998);372
+Bananas (1971);372
+Gremlins 2: The New Batch (1990);372
+History of the World: Part I (1981);371
+Jaws 2 (1978);370
+Secret of NIMH, The (1982);369
+Young Guns II (1990);369
+Small Time Crooks (2000);369
+Carlito's Way (1993);369
+Delicatessen (1991);368
+I.Q. (1994);367
+Dead Men Don't Wear Plaid (1982);367
+Speed 2: Cruise Control (1997);367
+Alive (1993);366
+City of Angels (1998);366
+Outlaw Josey Wales, The (1976);365
+Sabrina (1954);365
+Married to the Mob (1988);365
+Soapdish (1991);365
+Beneath the Planet of the Apes (1970);365
+101 Dalmatians (1996);364
+Small Soldiers (1998);364
+From Here to Eternity (1953);364
+Dead Zone, The (1983);363
+Cyrano de Bergerac (1990);363
+First Knight (1995);362
+Seven Years in Tibet (1997);362
+Flashdance (1983);362
+Bad Boys (1995);362
+Cape Fear (1962);361
+Mighty Ducks, The (1992);361
+Bachelor Party (1984);360
+Blast from the Past (1999);360
+Breaker Morant (1980);360
+Five Easy Pieces (1970);359
+Tank Girl (1995);358
+Fabulous Baker Boys, The (1989);358
+Miller's Crossing (1990);358
+Great Muppet Caper, The (1981);358
+Conquest of the Planet of the Apes (1972);358
+Ran (1985);357
+Indian in the Cupboard, The (1995);357
+Romeo and Juliet (1968);356
+Harvey (1950);356
+Little Shop of Horrors, The (1960);356
+Amityville Horror, The (1979);355
+Billy Madison (1995);355
+Legend (1985);355
+What Dreams May Come (1998);355
+No Way Out (1987);355
+Breakdown (1997);354
+For Love of the Game (1999);354
+Last Picture Show, The (1971);354
+Back to School (1986);354
+Buffalo 66 (1998);354
+Women on the Verge of a Nervous Breakdown (1988);353
+On Her Majesty's Secret Service (1969);353
+Lord of the Flies (1963);353
+Primary Colors (1998);353
+St. Elmo's Fire (1985);352
+Longest Day, The (1962);352
+Beverly Hills Cop III (1994);352
+Amistad (1997);351
+Local Hero (1983);351
+River Wild, The (1994);350
+Guess Who's Coming to Dinner (1967);350
+Super Mario Bros. (1993);350
+Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995);350
+Shall We Dance? (Shall We Dansu?) (1996);350
+Dolores Claiborne (1994);349
+Mimic (1997);348
+Fantastic Voyage (1966);348
+In the Heat of the Night (1967);348
+Pelican Brief, The (1993);346
+Grand Canyon (1991);346
+Ref, The (1994);346
+Eat Drink Man Woman (1994);346
+Blue Lagoon, The (1980);346
+Rounders (1998);345
+Heaven Can Wait (1978);345
+Dinosaur (2000);345
+Princess Mononoke, The (Mononoke Hime) (1997);345
+Sophie's Choice (1982);344
+Time to Kill, A (1996);344
+Robin Hood: Prince of Thieves (1991);344
+Meet Joe Black (1998);344
+Robin Hood (1973);343
+Color of Money, The (1986);343
+American in Paris, An (1951);343
+Battlefield Earth (2000);342
+Muppets Take Manhattan, The (1984);341
+Messenger: The Story of Joan of Arc, The (1999);341
+House on Haunted Hill, The (1999);341
+Home Alone 2: Lost in New York (1992);341
+Hand That Rocks the Cradle, The (1992);340
+Porky's (1981);339
+Death Becomes Her (1992);339
+Frighteners, The (1996);338
+Blob, The (1958);338
+Dreamscape (1984);338
+Secret Garden, The (1993);338
+Jackal, The (1997);337
+Manhattan Murder Mystery (1993);335
+Three Colors: Red (1994);334
+Anna and the King (1999);333
+Superman IV: The Quest for Peace (1987);332
+Children of a Lesser God (1986);331
+Romeo Must Die (2000);331
+My Life as a Dog (Mitt liv som hund) (1985);330
+Phantasm (1979);330
+Little Voice (1998);330
+Circle of Friends (1995);329
+Of Mice and Men (1992);328
+Virgin Suicides, The (1999);328
+Astronaut's Wife, The (1999);328
+Hard-Boiled (Lashou shentan) (1992);327
+Stand and Deliver (1987);327
+French Kiss (1995);326
+About Last Night... (1986);326
+Rosencrantz and Guildenstern Are Dead (1990);325
+Papillon (1973);325
+Nashville (1975);325
+For a Few Dollars More (1965);325
+View to a Kill, A (1985);325
+Island of Dr. Moreau, The (1996);324
+Name of the Rose, The (1986);324
+Pete's Dragon (1977);323
+Goodbye Girl, The (1977);322
+Dante's Peak (1997);321
+Rainmaker, The (1997);321
+Hackers (1995);321
+Prince of Tides, The (1991);321
+True Grit (1969);320
+Happiness (1998);320
+Bedknobs and Broomsticks (1971);319
+Replacement Killers, The (1998);319
+Friday (1995);319
+Three Days of the Condor (1975);319
+Flirting With Disaster (1996);318
+High Plains Drifter (1972);317
+Friday the 13th (1980);317
+All That Jazz (1979);317
+Drop Dead Fred (1991);317
+Pump Up the Volume (1990);317
+Pecker (1998);316
+Meatballs (1979);315
+Six Degrees of Separation (1993);315
+Ghost in the Shell (Kokaku kidotai) (1995);314
+Ghost Dog: The Way of the Samurai (1999);314
+Battle for the Planet of the Apes (1973);312
+Man with Two Brains, The (1983);312
+In the Name of the Father (1993);312
+Pale Rider (1985);312
+Mortal Kombat (1995);311
+Man Who Would Be King, The (1975);310
+King Kong (1976);309
+Perfect World, A (1993);308
+Deuce Bigalow: Male Gigolo (1999);308
+M (1931);308
+In the Company of Men (1997);307
+Air America (1990);306
+Some Folks Call It a Sling Blade (1993);306
+Charade (1963);306
+Fright Night (1985);306
+Can't Hardly Wait (1998);306
+Tequila Sunrise (1988);306
+Pet Sematary (1989);305
+Shane (1953);305
+Watership Down (1978);305
+Modern Times (1936);305
+Kentucky Fried Movie, The (1977);305
+Sid and Nancy (1986);304
+Atlantic City (1980);304
+Requiem for a Dream (2000);304
+Anastasia (1997);304
+Big Kahuna, The (2000);304
+Freejack (1992);304
+Father of the Bride (1950);304
+Topsy-Turvy (1999);304
+'burbs, The (1989);303
+Grease 2 (1982);303
+My Favorite Year (1982);302
+Flubber (1997);302
+Skulls, The (2000);302
+EDtv (1999);302
+Klute (1971);302
+Old Yeller (1957);301
+Godzilla (Gojira) (1954);301
+Rambo III (1988);301
+Short Cuts (1993);301
+Zero Effect (1998);301
+Secret of Roan Inish, The (1994);300
+Heartbreak Ridge (1986);300
+Stepford Wives, The (1975);300
+My Dog Skip (1999);300
+Barb Wire (1996);300
+Seventh Seal, The (Sjunde inseglet, Det) (1957);299
+Menace II Society (1993);298
+Fear and Loathing in Las Vegas (1998);298
+Harry and the Hendersons (1987);298
+Striptease (1996);298
+Ninth Gate, The (2000);298
+Who's Afraid of Virginia Woolf? (1966);297
+Jackie Chan's First Strike (1996);297
+Father of the Bride Part II (1995);296
+Midnight Express (1978);295
+Tin Men (1987);295
+American Gigolo (1980);295
+I Still Know What You Did Last Summer (1998);295
+Black Hole, The (1979);295
+American Movie (1999);295
+First Wives Club, The (1996);295
+Age of Innocence, The (1993);295
+Kalifornia (1993);294
+Night Shift (1982);294
+Flamingo Kid, The (1984);294
+Sword in the Stone, The (1963);293
+Encino Man (1992);293
+Laura (1944);292
+Thin Man, The (1934);292
+Escape to Witch Mountain (1975);291
+Help! (1965);291
+Sommersby (1993);291
+Soldier (1998);290
+George of the Jungle (1997);289
+Paper Chase, The (1973);289
+Reindeer Games (2000);289
+Devil's Own, The (1997);288
+Avengers, The (1998);288
+Sweet and Lowdown (1999);288
+Mystery, Alaska (1999);287
+Fox and the Hound, The (1981);287
+Shadowlands (1993);286
+Karate Kid III, The (1989);286
+2 Days in the Valley (1996);286
+Little Women (1994);285
+Radio Days (1987);285
+Free Willy (1993);285
+Everything You Always Wanted to Know About Sex (1972);285
+Somewhere in Time (1980);285
+Hidden, The (1987);284
+Deconstructing Harry (1997);284
+Fly II, The (1989);284
+Evita (1996);282
+Night of the Comet (1984);281
+Murder at 1600 (1997);281
+South Pacific (1958);280
+Them! (1954);280
+Thomas Crown Affair, The (1968);280
+Story of Us, The (1999);280
+Cat Ballou (1965);280
+Hud (1963);279
+Hellraiser (1987);279
+Nineteen Eighty-Four (1984);278
+Aristocats, The (1970);278
+Where the Heart Is (2000);277
+Raise the Red Lantern (1991);277
+When We Were Kings (1996);277
+Mumford (1999);277
+Agnes of God (1985);276
+Swiss Family Robinson (1960);276
+Taking of Pelham One Two Three, The (1974);276
+Return to Oz (1985);276
+Holiday Inn (1942);275
+Mulholland Falls (1996);275
+Gold Rush, The (1925);275
+Nightmare on Elm Street Part 2: Freddy's Revenge, A (1985);274
+Auntie Mame (1958);274
+Creature Comforts (1990);274
+Everyone Says I Love You (1996);274
+Rocky V (1990);274
+Swamp Thing (1982);273
+Supercop (1992);273
+Shallow Grave (1994);273
+Shampoo (1975);273
+Christine (1983);273
+8MM (1999);272
+Wolf (1994);272
+White Christmas (1954);271
+Empire Records (1995);271
+Iron Eagle (1986);271
+Cat on a Hot Tin Roof (1958);271
+City Lights (1931);271
+Wyatt Earp (1994);270
+Around the World in 80 Days (1956);269
+Murphy's Romance (1985);269
+Thin Blue Line, The (1988);269
+Body Snatchers (1993);269
+Hamlet (1990);269
+All Quiet on the Western Front (1930);268
+Parent Trap, The (1998);268
+It Could Happen to You (1994);268
+Inherit the Wind (1960);268
+Nightmare on Elm Street 3: Dream Warriors, A (1987);268
+Eye of the Beholder (1999);267
+Slums of Beverly Hills, The (1998);267
+Firestarter (1984);267
+Breaking the Waves (1996);267
+Flintstones, The (1994);267
+Unbearable Lightness of Being, The (1988);266
+Towering Inferno, The (1974);266
+Bamba, La (1987);266
+Instinct (1999);266
+Fools Rush In (1997);266
+Ulee's Gold (1997);266
+Varsity Blues (1999);266
+Where Eagles Dare (1969);265
+Mrs. Brown (Her Majesty, Mrs. Brown) (1997);265
+American Werewolf in Paris, An (1997);265
+Smilla's Sense of Snow (1997);265
+Psycho (1998);264
+Tender Mercies (1983);264
+Mercury Rising (1998);264
+Kids in the Hall: Brain Candy (1996);264
+Loaded Weapon 1 (1993);264
+Wild Bunch, The (1969);264
+Medicine Man (1992);263
+Great Expectations (1998);263
+Bronx Tale, A (1993);263
+Muppet Christmas Carol, The (1992);262
+Candyman (1992);262
+Immortal Beloved (1994);261
+Guys and Dolls (1955);260
+Cocoon: The Return (1988);259
+Cradle Will Rock, The (1999);259
+Running Scared (1986);259
+Casper (1995);259
+54 (1998);259
+Misérables, Les (1998);259
+Parent Trap, The (1961);258
+Red Rock West (1992);258
+7th Voyage of Sinbad, The (1958);258
+Diva (1981);257
+Forget Paris (1995);257
+Corrina, Corrina (1994);257
+Outsiders, The (1983);256
+Muppet Treasure Island (1996);256
+Last Man Standing (1996);256
+Last Temptation of Christ, The (1988);254
+Farewell My Concubine (1993);254
+Disclosure (1994);254
+Bottle Rocket (1996);253
+39 Steps, The (1935);253
+Falcon and the Snowman, The (1984);253
+Take the Money and Run (1969);252
+Bicycle Thief, The (Ladri di biciclette) (1948);252
+Bachelor, The (1999);252
+Man Who Knew Too Little, The (1997);252
+Top Hat (1935);251
+Wes Craven's New Nightmare (1994);251
+Presidio, The (1988);251
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991);251
+U Turn (1997);250
+Random Hearts (1999);250
+Plan 9 from Outer Space (1958);249
+Rescuers, The (1977);249
+Nutty Professor II: The Klumps (2000);248
+Re-Animator (1985);248
+Renaissance Man (1994);248
+Angels in the Outfield (1994);247
+Texas Chainsaw Massacre, The (1974);247
+Detroit Rock City (1999);246
+Blowup (1966);246
+Brother from Another Planet, The (1984);246
+F/X 2 (1992);245
+Searchers, The (1956);245
+Airheads (1994);245
+Tampopo (1986);245
+Cujo (1983);245
+Gung Ho (1986);244
+Jagged Edge (1985);244
+Mary Shelley's Frankenstein (1994);244
+Killer, The (Die xue shuang xiong) (1989);244
+Three Colors: Blue (1993);243
+Richard III (1995);242
+Love Bug, The (1969);242
+Wings of Desire (Der Himmel über Berlin) (1987);242
+Needful Things (1993);242
+Nightmare on Elm Street 4: The Dream Master, A (1988);242
+Hang 'em High (1967);241
+Badlands (1973);241
+Once Upon a Time in America (1984);241
+Replacements, The (2000);241
+Addicted to Love (1997);240
+Funny Farm (1988);240
+Rescuers Down Under, The (1990);239
+Stop Making Sense (1984);239
+Multiplicity (1996);239
+Child's Play (1988);239
+Jungle Book, The (1994);239
+My Blue Heaven (1990);239
+Brassed Off (1996);238
+Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922);238
+Dracula (1931);238
+Doctor Dolittle (1967);238
+My Bodyguard (1980);238
+Fletch Lives (1989);238
+Nine 1/2 Weeks (1986);237
+Relic, The (1997);237
+Chain Reaction (1996);237
+My Own Private Idaho (1991);236
+Practical Magic (1998);236
+Best Years of Our Lives, The (1946);236
+White Squall (1996);236
+Croupier (1998);235
+Exotica (1994);235
+Cookie's Fortune (1999);235
+Forces of Nature (1999);235
+Bring It On (2000);234
+Homeward Bound: The Incredible Journey (1993);234
+Battleship Potemkin, The (Bronenosets Potyomkin) (1925);234
+Children of the Corn (1984);233
+Cube (1997);233
+She's the One (1996);233
+Nobody's Fool (1994);233
+Shadow of a Doubt (1943);233
+Invisible Man, The (1933);232
+Beverly Hills Ninja (1997);232
+Batman: Mask of the Phantasm (1993);232
+Apple Dumpling Gang, The (1975);232
+Muppets From Space (1999);232
+Fly Away Home (1996);232
+Clan of the Cave Bear, The (1986);231
+Howling, The (1980);231
+Transformers: The Movie, The (1986);231
+Mouse Hunt (1997);231
+Blues Brothers 2000 (1998);230
+Paths of Glory (1957);230
+Some Kind of Wonderful (1987);230
+Buena Vista Social Club (1999);230
+Mission, The (1986);229
+Nick of Time (1995);229
+Fearless (1993);228
+Milk Money (1994);228
+8 1/2 (1963);228
+With Honors (1994);228
+Deep Rising (1998);227
+Edge, The (1997);227
+Bell, Book and Candle (1958);227
+One Fine Day (1996);226
+Urban Legend (1998);226
+Quiet Man, The (1952);226
+Angela's Ashes (1999);225
+Mutiny on the Bounty (1935);225
+Brighton Beach Memoirs (1986);225
+Police Academy 2: Their First Assignment (1985);225
+Trekkies (1997);224
+Misérables, Les (1995);224
+Omega Man, The (1971);224
+Santa Claus: The Movie (1985);223
+Creature From the Black Lagoon, The (1954);223
+What Ever Happened to Baby Jane? (1962);223
+Birdy (1984);223
+Nutty Professor, The (1963);222
+Shaft (1971);222
+Jingle All the Way (1996);222
+Jeremiah Johnson (1972);222
+Bloodsport (1988);222
+Blown Away (1994);221
+Song of the South (1946);221
+Winnie the Pooh and the Blustery Day (1968);221
+Dead Presidents (1995);221
+Lolita (1997);221
+Virtuosity (1995);221
+Manon of the Spring (Manon des sources) (1986);220
+Palmetto (1998);220
+Way We Were, The (1973);220
+Run Silent, Run Deep (1958);220
+Kids (1995);220
+Death Wish (1974);220
+Man for All Seasons, A (1966);219
+Citizen Ruth (1996);219
+Love and Death (1975);219
+Village of the Damned (1960);219
+Titanic (1953);219
+Heart and Souls (1993);219
+Walk in the Clouds, A (1995);219
+Henry: Portrait of a Serial Killer (1990);219
+Junior (1994);218
+Wings of the Dove, The (1997);218
+Matilda (1996);218
+Indecent Proposal (1993);217
+Very Bad Things (1998);217
+Showgirls (1995);217
+Cold Comfort Farm (1995);217
+Vegas Vacation (1997);216
+Great Dictator, The (1940);216
+Hellraiser: Bloodline (1996);216
+Hard Target (1993);216
+Bride of Frankenstein (1935);216
+Jean de Florette (1986);216
+All Dogs Go to Heaven (1989);215
+Central Station (Central do Brasil) (1998);215
+Reds (1981);215
+Nell (1994);215
+Yojimbo (1961);215
+Jungle Fever (1991);215
+East of Eden (1955);215
+Freddy's Dead: The Final Nightmare (1991);215
+Mod Squad, The (1999);214
+Something Wicked This Way Comes (1983);213
+Superstar (1999);213
+Smoke (1995);213
+Places in the Heart (1984);213
+Oliver! (1968);213
+Operation Dumbo Drop (1995);213
+Lifeboat (1944);213
+Suicide Kings (1997);213
+Paper, The (1994);212
+Murder in the First (1995);212
+Man Without a Face, The (1993);212
+Never Cry Wolf (1983);212
+Up in Smoke (1978);212
+Tommy (1975);211
+When a Man Loves a Woman (1994);211
+Nine Months (1995);211
+Object of My Affection, The (1998);211
+Magnum Force (1973);210
+Blind Date (1987);210
+Horse Whisperer, The (1998);210
+She's Gotta Have It (1986);210
+Jaws 3-D (1983);210
+Swimming with Sharks (1995);209
+Aladdin and the King of Thieves (1996);209
+Madonna: Truth or Dare (1991);209
+Tao of Steve, The (2000);208
+Barcelona (1994);208
+McCabe & Mrs. Miller (1971);208
+Sirens (1994);207
+Idle Hands (1999);207
+Abbott and Costello Meet Frankenstein (1948);206
+Shop Around the Corner, The (1940);206
+Hard Rain (1998);206
+Attack of the Killer Tomatoes! (1980);206
+Adventures of Rocky and Bullwinkle, The (2000);206
+General, The (1927);206
+Spellbound (1945);206
+Son in Law (1993);206
+Jack Frost (1998);205
+Marty (1955);205
+Living in Oblivion (1995);205
+Daylight (1996);204
+Boys from Brazil, The (1978);204
+Highlander III: The Sorcerer (1994);203
+To Wong Foo, Thanks for Everything! Julie Newmar (1995);203
+To Sir with Love (1967);203
+Shadow, The (1994);203
+Under Siege 2: Dark Territory (1995);203
+Simon Birch (1998);202
+Sister Act 2: Back in the Habit (1993);202
+Robocop 3 (1993);202
+Three Colors: White (1994);202
+Coyote Ugly (2000);201
+American Tail: Fievel Goes West, An (1991);201
+Lolita (1962);201
+Blame It on Rio (1984);201
+My Life in Pink (Ma vie en rose) (1997);201
+Runaway Train (1985);201
+Bean (1997);200
+Nightmare on Elm Street 5: The Dream Child, A (1989);200
+End of the Affair, The (1999);200
+Black Cauldron, The (1985);200
+Dancer in the Dark (2000);200
+Cutting Edge, The (1992);200
+Buddy Holly Story, The (1978);199
+Teaching Mrs. Tingle (1999);199
+Friday the 13th Part 3: 3D (1982);199
+Out-of-Towners, The (1999);199
+Lady Vanishes, The (1938);199
+Eraserhead (1977);199
+Force 10 from Navarone (1978);199
+...And Justice for All (1979);199
+Anatomy of a Murder (1959);199
+Halloween: H20 (1998);199
+Metropolitan (1990);198
+Tom Jones (1963);198
+Half Baked (1998);198
+Cook the Thief His Wife & Her Lover, The (1989);198
+Species II (1998);198
+Affliction (1997);198
+Cat from Outer Space, The (1978);198
+Steamboat Willie (1940);197
+Next Stop, Wonderland (1998);196
+Police Academy 3: Back in Training (1986);196
+Coming Home (1978);195
+Boys on the Side (1995);195
+Halloween II (1981);195
+Butcher's Wife, The (1991);195
+Great Santini, The (1979);195
+What's Love Got to Do with It? (1993);195
+Night on Earth (1991);194
+Boomerang (1992);194
+Christmas Carol, A (1938);194
+House of Yes, The (1997);194
+Angels and Insects (1995);194
+Tora! Tora! Tora! (1970);194
+D2: The Mighty Ducks (1994);193
+Soul Man (1986);193
+Barefoot in the Park (1967);193
+In the Mouth of Madness (1995);193
+Me Myself I (2000);192
+Black Sheep (1996);192
+Missing in Action (1984);191
+Rope (1948);191
+Thunderbolt and Lightfoot (1974);190
+Prophecy, The (1995);190
+Nighthawks (1981);190
+Spice World (1997);190
+Drowning Mona (2000);190
+Meet Me in St. Louis (1944);189
+Dead Ringers (1988);189
+Big Hit, The (1998);189
+Affair to Remember, An (1957);189
+Fast, Cheap & Out of Control (1997);189
+Kolya (1996);189
+My Science Project (1985);189
+Very Brady Sequel, A (1996);189
+Virus (1999);189
+Red Sonja (1985);189
+Mirror Has Two Faces, The (1996);188
+My Man Godfrey (1936);188
+Teenage Mutant Ninja Turtles III (1993);188
+Mystery Train (1989);188
+Gigi (1958);187
+Gaslight (1944);187
+400 Blows, The (Les Quatre cents coups) (1959);187
+Cabin Boy (1994);187
+Apt Pupil (1998);187
+Canadian Bacon (1994);187
+Saving Grace (2000);186
+Return from Witch Mountain (1978);186
+Hero (1992);186
+Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight) (1996);186
+Malice (1993);185
+Action Jackson (1988);185
+Swing Kids (1993);185
+Outrageous Fortune (1987);185
+Happy, Texas (1999);185
+But I'm a Cheerleader (1999);184
+Haunting, The (1963);183
+Halloween: The Curse of Michael Myers (1995);183
+Hocus Pocus (1993);183
+BASEketball (1998);183
+Richie Rich (1994);183
+Lifeforce (1985);183
+Beautiful Girls (1996);182
+Koyaanisqatsi (1983);182
+Poltergeist II: The Other Side (1986);182
+Supergirl (1984);182
+Toxic Avenger, The (1985);182
+Center Stage (2000);182
+Volcano (1997);181
+Basketball Diaries, The (1995);181
+200 Cigarettes (1999);181
+What Planet Are You From? (2000);180
+Big Momma's House (2000);180
+Mighty Joe Young (1998);180
+Voyage to the Bottom of the Sea (1961);180
+Freaky Friday (1977);180
+King of New York (1990);180
+Way of the Gun, The (2000);179
+Hamlet (2000);179
+Man Who Knew Too Much, The (1956);179
+Robert A. Heinlein's The Puppet Masters (1994);179
+Stop! Or My Mom Will Shoot (1992);179
+Living Out Loud (1998);179
+Persuasion (1995);179
+Eve's Bayou (1997);179
+Airport (1970);179
+Another Stakeout (1993);179
+No Escape (1994);178
+Screamers (1995);178
+Crush, The (1993);178
+Threesome (1994);178
+Matewan (1987);177
+NeverEnding Story II: The Next Chapter, The (1990);177
+Mr. Saturday Night (1992);177
+Born Yesterday (1950);177
+Borrowers, The (1997);177
+Bronco Billy (1980);176
+East is East (1999);176
+Killing Zoe (1994);176
+Kundun (1997);176
+Hanging Up (2000);176
+Boy Who Could Fly, The (1986);176
+Bear, The (1988);175
+Seventh Sign, The (1988);175
+Shall We Dance? (1937);175
+Wing Commander (1999);175
+Spanking the Monkey (1994);175
+Quest for Fire (1981);174
+Cat People (1982);174
+Thinner (1996);174
+Police Academy 4: Citizens on Patrol (1987);174
+Funny Face (1957);174
+Who's Harry Crumb? (1989);173
+Once Upon a Time in the West (1969);173
+Vampires (1998);173
+Mr. Nice Guy (1997);172
+Last Detail, The (1973);172
+Little Princess, A (1995);172
+Ravenous (1999);171
+Ghost and Mrs. Muir, The (1947);171
+Bad Lieutenant (1992);171
+Friday the 13th Part 2 (1981);171
+House Party (1990);171
+Jack (1996);171
+And the Band Played On (1993);171
+Brokedown Palace (1999);171
+Michael Collins (1996);170
+Miracle on 34th Street (1994);170
+Fog, The (1980);170
+Message in a Bottle (1999);170
+Waiting to Exhale (1995);170
+Freeway (1996);169
+Deep End of the Ocean, The (1999);169
+Barry Lyndon (1975);169
+Sliver (1993);169
+Friday the 13th: The Final Chapter (1984);169
+On the Town (1949);169
+Belle de jour (1967);168
+Once Were Warriors (1994);168
+Paulie (1998);168
+Road to El Dorado, The (2000);168
+Next Friday (1999);168
+Fierce Creatures (1997);168
+Mother (1996);168
+Goofy Movie, A (1995);168
+Mona Lisa (1986);167
+North Dallas Forty (1979);167
+Hellbound: Hellraiser II (1988);167
+Everest (1998);167
+Suspicion (1941);167
+Picnic at Hanging Rock (1975);167
+House (1986);166
+How to Make an American Quilt (1995);166
+Restoration (1995);166
+Carnal Knowledge (1971);166
+Adventures of Milo and Otis, The (1986);166
+Things to Do in Denver when You're Dead (1995);166
+Boxing Helena (1993);166
+Seven Days in May (1964);165
+Damien: Omen II (1978);165
+Kid, The (2000);165
+Grand Illusion (Grande illusion, La) (1937);165
+Operation Condor (Feiying gaiwak) (1990);164
+Baby Geniuses (1999);164
+Great Race, The (1965);164
+Soldier's Story, A (1984);164
+Something to Talk About (1995);164
+Psycho II (1983);164
+Clockwatchers (1997);164
+Outside Providence (1999);163
+Return of Jafar, The (1993);163
+Mommie Dearest (1981);163
+Titus (1999);163
+Other Sister, The (1999);163
+Twin Peaks: Fire Walk with Me (1992);163
+Picture Perfect (1997);162
+Ghosts of Mississippi (1996);162
+Mummy, The (1932);162
+Selena (1997);162
+Cat's Eye (1985);162
+Babes in Toyland (1961);162
+Monkey Shines (1988);161
+Anywhere But Here (1999);161
+To Be or Not to Be (1942);161
+Disturbing Behavior (1998);161
+Piranha (1978);161
+One Crazy Summer (1986);161
+Village of the Damned (1995);161
+Sullivan's Travels (1942);161
+Supernova (2000);161
+Indochine (1992);160
+Dracula: Dead and Loving It (1995);160
+Hilary and Jackie (1998);160
+Problem Child (1990);160
+He Got Game (1998);160
+Next Best Thing, The (2000);160
+Money Train (1995);160
+Before Sunrise (1995);160
+Hunger, The (1983);160
+Paradise Lost: The Child Murders at Robin Hood Hills (1996);159
+Pink Flamingos (1972);158
+Darby O'Gill and the Little People (1959);158
+Only You (1994);158
+Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982);158
+Muse, The (1999);157
+Puppet Master (1989);157
+She-Devil (1989);157
+Thirty-Two Short Films About Glenn Gould (1993);157
+Four Rooms (1995);157
+Shaggy Dog, The (1959);156
+Beverly Hillbillies, The (1993);156
+Pawnbroker, The (1965);156
+McHale's Navy (1997);156
+Benji (1974);156
+Corruptor, The (1999);156
+Spitfire Grill, The (1996);156
+Liberty Heights (1999);155
+Butcher Boy, The (1998);155
+Postman Always Rings Twice, The (1981);155
+Lucas (1986);155
+Next Karate Kid, The (1994);155
+Candidate, The (1972);154
+Home Alone 3 (1997);154
+Man Bites Dog (C'est arrivé près de chez vous) (1992);154
+Journey of Natty Gann, The (1985);154
+Dead Man (1995);153
+Nixon (1995);153
+Specialist, The (1994);153
+Alligator (1980);153
+Program, The (1993);152
+Twelfth Night (1996);152
+Cowboy Way, The (1994);152
+In the Army Now (1994);151
+Tales from the Crypt Presents: Bordello of Blood (1996);151
+Asphalt Jungle, The (1950);151
+Love and Death on Long Island (1997);151
+Golden Voyage of Sinbad, The (1974);151
+Police Academy 5: Assignment: Miami Beach (1988);150
+Tales from the Hood (1995);149
+Police Academy 6: City Under Siege (1989);149
+Road to Wellville, The (1994);149
+Endless Summer, The (1966);149
+They Shoot Horses, Don't They? (1969);149
+Jesus' Son (1999);148
+Jules and Jim (Jules et Jim) (1961);148
+Beautician and the Beast, The (1997);148
+Iron Eagle II (1988);148
+One False Move (1991);148
+Near Dark (1987);148
+Rapture, The (1991);148
+Exit to Eden (1994);147
+Enchanted April (1991);147
+Bride of Chucky (1998);147
+Passion Fish (1992);147
+Trouble with Harry, The (1955);147
+Bank Dick, The (1940);147
+Maximum Overdrive (1986);147
+Original Kings of Comedy, The (2000);147
+Home Fries (1998);146
+Winslow Boy, The (1998);146
+Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997);146
+Looking for Richard (1996);146
+Stepmom (1998);146
+Down by Law (1986);146
+Cutthroat Island (1995);146
+Fan, The (1996);145
+Angus (1995);145
+Lady Eve, The (1941);145
+Lost Highway (1997);145
+Condorman (1981);145
+8 Heads in a Duffel Bag (1997);145
+Mansfield Park (1999);145
+Night to Remember, A (1958);144
+Mighty Joe Young (1949);144
+Oliver & Company (1988);144
+Night at the Roxbury, A (1998);144
+Booty Call (1997);144
+Coma (1978);144
+Kid in King Arthur's Court, A (1995);144
+Art of War, The (2000);144
+Tales From the Crypt Presents: Demon Knight (1995);144
+Return to Paradise (1998);144
+Love Letter, The (1999);144
+Getaway, The (1994);143
+Bio-Dome (1996);143
+Godzilla 2000 (Gojira ni-sen mireniamu) (1999);143
+Raisin in the Sun, A (1961);143
+Solaris (Solyaris) (1972);143
+Priest (1994);143
+Emerald Forest, The (1985);142
+Major League: Back to the Minors (1998);142
+D3: The Mighty Ducks (1996);142
+Higher Learning (1995);141
+Waking the Dead (1999);141
+Volunteers (1985);141
+Someone to Watch Over Me (1987);141
+Substitute, The (1996);141
+Porky's II: The Next Day (1983);141
+Dreamlife of Angels, The (La Vie rêvée des anges) (1998);141
+Color of Night (1994);141
+Dangerous Minds (1995);141
+Kagemusha (1980);141
+Rugrats Movie, The (1998);141
+Crash (1996);141
+Celluloid Closet, The (1995);141
+52 Pick-Up (1986);140
+Trip to Bountiful, The (1985);140
+Major Payne (1994);140
+Sgt. Bilko (1996);140
+Speechless (1994);140
+How Stella Got Her Groove Back (1998);140
+SLC Punk! (1998);139
+Poison Ivy (1992);139
+Up Close and Personal (1996);139
+Lord of Illusions (1995);139
+Taming of the Shrew, The (1967);139
+20 Dates (1998);139
+Eyes of Laura Mars (1978);139
+Pillow Book, The (1995);138
+Houseguest (1994);138
+Loser (2000);138
+Easy Money (1983);138
+Postman, The (1997);137
+Allan Quartermain and the Lost City of Gold (1987);137
+Terminal Velocity (1994);137
+Walkabout (1971);136
+Pollyanna (1960);136
+Until the End of the World (Bis ans Ende der Welt) (1991);136
+Children of the Damned (1963);136
+Mildred Pierce (1945);136
+King Kong vs. Godzilla (Kingukongu tai Gojira) (1962);136
+Pokémon: The First Movie (1998);136
+Last Days of Disco, The (1998);135
+Frances (1982);135
+Highlander: Endgame (2000);135
+Pagemaster, The (1994);135
+Crow: City of Angels, The (1996);135
+Dirty Work (1998);135
+Herbie Rides Again (1974);135
+Runaway (1984);135
+True Crime (1995);135
+Thing From Another World, The (1951);135
+Wolf Man, The (1941);134
+Place in the Sun, A (1951);134
+Beyond the Mat (2000);134
+Mighty, The (1998);134
+Mortal Kombat: Annihilation (1997);134
+Judgment Night (1993);133
+Music of the Heart (1999);133
+High Art (1998);133
+Saturn 3 (1979);133
+Drunken Master (Zui quan) (1979);133
+Against All Odds (1984);133
+Child's Play 2 (1990);133
+Down Periscope (1996);133
+Ninotchka (1939);132
+Tie Me Up! Tie Me Down! (1990);132
+War Room, The (1993);132
+Old Man and the Sea, The (1958);131
+True Crime (1999);131
+Meteor (1979);131
+Great Mouse Detective, The (1986);131
+Joe's Apartment (1996);131
+Inventing the Abbotts (1997);131
+Dead Man on Campus (1998);130
+Killing, The (1956);130
+Distinguished Gentleman, The (1992);130
+U2: Rattle and Hum (1988);130
+Giant (1956);130
+Armed and Dangerous (1986);130
+Tigger Movie, The (2000);129
+Striking Distance (1993);129
+Double Life of Veronique, The (La Double Vie de Véronique) (1991);129
+Breathless (1983);129
+Drop Zone (1994);129
+Mafia! (1998);129
+Halloween 4: The Return of Michael Myers (1988);129
+Class (1983);129
+City Hall (1996);128
+Man Who Knew Too Much, The (1934);128
+Computer Wore Tennis Shoes, The (1970);128
+Gods Must Be Crazy II, The (1989);128
+Wishmaster (1997);128
+Dying Young (1991);128
+Fear (1996);128
+Flintstones in Viva Rock Vegas, The (2000);128
+Fanny and Alexander (1982);128
+Blue Streak (1999);128
+Bad Seed, The (1956);127
+Ready to Wear (Pret-A-Porter) (1994);127
+Girlfight (2000);127
+Basquiat (1996);127
+I Love Trouble (1994);127
+Marked for Death (1990);127
+Exorcist III, The (1990);127
+Time Code (2000);127
+Halloween 5: The Revenge of Michael Myers (1989);127
+Three Caballeros, The (1945);126
+Playing by Heart (1998);126
+Rosewood (1997);126
+Velvet Goldmine (1998);126
+Assassins (1995);126
+Aces: Iron Eagle III (1992);125
+Clay Pigeons (1998);125
+Surviving the Game (1994);124
+Daytrippers, The (1996);124
+Mr. Death: The Rise and Fall of Fred A. Leuchter Jr. (1999);124
+Stranger Than Paradise (1984);124
+My Favorite Martian (1999);123
+That Darn Cat! (1965);123
+Phantom, The (1996);123
+Burnt By the Sun (Utomlyonnye solntsem) (1994);123
+Wrongfully Accused (1998);123
+Gypsy (1962);122
+Down to You (2000);122
+Snow Day (2000);122
+Tea with Mussolini (1999);122
+Porky's Revenge (1985);122
+Lost Weekend, The (1945);122
+Blue Hawaii (1961);121
+Paris, Texas (1984);121
+Harriet the Spy (1996);121
+Extreme Measures (1996);121
+Mrs. Winterbourne (1996);121
+Godzilla (Gojira) (1984);121
+My Fellow Americans (1996);121
+Last Supper, The (1995);121
+Stardust Memories (1980);121
+Dudley Do-Right (1999);121
+Chuck & Buck (2000);121
+Communion (1989);120
+Bed of Roses (1996);120
+Backbeat (1993);120
+Kazaam (1996);120
+Love and Basketball (2000);119
+Orgazmo (1997);119
+Drive Me Crazy (1999);119
+All the King's Men (1949);119
+Earthquake (1974);119
+Jawbreaker (1999);119
+Newton Boys, The (1998);119
+Crooklyn (1994);119
+Marnie (1964);118
+Jakob the Liar (1999);118
+Bonfire of the Vanities (1990);118
+Peter's Friends (1992);118
+Days of Heaven (1978);118
+Ruby in Paradise (1993);117
+Autumn in New York (2000);117
+Romeo Is Bleeding (1993);117
+Celebration, The (Festen) (1998);117
+Gulliver's Travels (1939);117
+Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964);117
+Pet Sematary II (1992);116
+Jennifer 8 (1992);116
+Life Less Ordinary, A (1997);116
+April Fool's Day (1986);116
+Texas Chainsaw Massacre 2, The (1986);116
+Clockers (1995);116
+Madeline (1998);116
+Simply Irresistible (1999);115
+Chungking Express (1994);115
+Orlando (1993);114
+Just Cause (1995);114
+Vanya on 42nd Street (1994);114
+Juror, The (1996);114
+Friday the 13th Part V: A New Beginning (1985);114
+Mad City (1997);113
+Henry Fool (1997);113
+Sleepwalkers (1992);113
+Free Willy 2: The Adventure Home (1995);113
+Hamlet (1948);113
+Gate, The (1987);113
+Exorcist II: The Heretic (1977);113
+Shaggy D.A., The (1976);113
+Baby... Secret of the Lost Legend (1985);113
+Pumpkinhead (1988);112
+Preacher's Wife, The (1996);112
+Friday the 13th Part VI: Jason Lives (1986);112
+One True Thing (1998);112
+Air Bud (1997);112
+Phantom of the Opera, The (1943);112
+Stuart Saves His Family (1995);112
+American Pop (1981);112
+Poltergeist III (1988);112
+Desperate Measures (1998);111
+Nights of Cabiria (Le Notti di Cabiria) (1957);111
+Best Man, The (1999);111
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996);111
+Murder, My Sweet (1944);110
+Flawless (1999);110
+Navigator: A Mediaeval Odyssey, The (1988);110
+Nothing in Common (1986);110
+Red Corner (1997);109
+Your Friends and Neighbors (1998);109
+MatchMaker, The (1997);109
+Kull the Conqueror (1997);109
+Apple Dumpling Gang Rides Again, The (1979);109
+Crucible, The (1996);108
+Death and the Maiden (1994);108
+To Gillian on Her 37th Birthday (1996);108
+Krippendorf's Tribe (1998);108
+Melvin and Howard (1980);108
+Splendor in the Grass (1961);108
+Gilda (1946);107
+How Green Was My Valley (1941);107
+Pit and the Pendulum (1961);107
+Pork Chop Hill (1959);107
+Spy Hard (1996);107
+Little Rascals, The (1994);107
+Carnival of Souls (1962);107
+Solo (1996);106
+Sinbad and the Eye of the Tiger (1977);106
+Duets (2000);106
+Out of the Past (1947);106
+Flesh and Bone (1993);106
+Street Fighter (1994);105
+Blue Sky (1994);105
+Party Girl (1995);105
+Paris Is Burning (1990);105
+Heaven & Earth (1993);105
+Gay Divorcee, The (1934);105
+Fled (1996);105
+Rage: Carrie 2, The (1999);105
+Mark of Zorro, The (1940);105
+Halloween III: Season of the Witch (1983);105
+Captain Horatio Hornblower (1951);105
+Herbie Goes Bananas (1980);104
+Creepshow 2 (1987);104
+Return of the Fly (1959);104
+Bulletproof (1996);104
+Beloved (1998);104
+Palm Beach Story, The (1942);104
+Marvin's Room (1996);104
+Missing in Action 2: The Beginning (1985);104
+Homegrown (1998);104
+Stealing Beauty (1996);103
+House II: The Second Story (1987);103
+Love! Valour! Compassion! (1997);103
+East-West (Est-ouest) (1999);103
+Foxfire (1996);103
+Anchors Aweigh (1945);103
+Three to Tango (1999);103
+Life (1999);102
+Dracula (1958);102
+Suddenly, Last Summer (1959);102
+Dark Half, The (1993);102
+Sudden Death (1995);102
+Kiss of Death (1995);102
+Low Down Dirty Shame, A (1994);102
+Believers, The (1987);102
+Big One, The (1997);102
+After Life (1998);102
+Walk on the Moon, A (1999);102
+Flying Tigers (1942);101
+Fighting Seabees, The (1944);101
+Cemetery Man (Dellamorte Dellamore) (1994);101
+Maurice (1987);101
+Glimmer Man, The (1996);101
+Herbie Goes to Monte Carlo (1977);101
+Two Girls and a Guy (1997);101
+Othello (1995);100
+Little Big League (1994);100
+Safe (1995);100
+Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970);100
+Dangerous Beauty (1998);100
+Fatal Instinct (1993);100
+Metro (1997);100
+I Shot Andy Warhol (1996);100
+Get Carter (2000);100
+Children of Paradise (Les enfants du paradis) (1945);100
+Tales from the Darkside: The Movie (1990);100
+Pokémon the Movie 2000 (2000);100
+Blue Angel, The (Blaue Engel, Der) (1930);100
+NeverEnding Story III, The (1994);99
+Problem Child 2 (1991);99
+Friday the 13th Part VIII: Jason Takes Manhattan (1989);99
+Hurlyburly (1998);99
+Balto (1995);99
+Brief Encounter (1946);99
+Home for the Holidays (1995);99
+For Whom the Bell Tolls (1943);98
+Assault on Precinct 13 (1976);98
+Fitzcarraldo (1982);98
+Psycho III (1986);98
+Fantastic Planet, The (La Planète sauvage) (1973);98
+Trees Lounge (1996);98
+Wrong Man, The (1956);98
+Shakes the Clown (1991);97
+American Flyers (1985);97
+Made in America (1993);97
+Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975);97
+Lawnmower Man 2: Beyond Cyberspace (1996);97
+Child's Play 3 (1992);97
+Davy Crockett, King of the Wild Frontier (1955);97
+Boys Life (1995);97
+Lost Horizon (1937);97
+Bamboozled (2000);96
+Fair Game (1995);96
+Who's That Girl? (1987);96
+Celebrity (1998);96
+Max Dugan Returns (1983);96
+Ruling Class, The (1972);96
+Blank Check (1994);96
+House on Haunted Hill (1958);96
+On the Beach (1959);95
+Gingerbread Man, The (1998);95
+Pope of Greenwich Village, The (1984);95
+Frenzy (1972);95
+Twin Falls Idaho (1999);95
+That Darn Cat! (1997);94
+Tin Drum, The (Blechtrommel, Die) (1979);94
+Naked (1993);94
+Dear God (1996);94
+Things Change (1988);94
+Black Beauty (1994);94
+It Came from Outer Space (1953);94
+Microcosmos (Microcosmos: Le peuple de l'herbe) (1996);94
+Watcher, The (2000);94
+Albino Alligator (1996);94
+Tough Guys (1986);93
+Mummy, The (1959);93
+My Man Godfrey (1957);93
+Foreign Correspondent (1940);93
+Fresh (1994);93
+Candyman: Farewell to the Flesh (1995);93
+Irma la Douce (1963);93
+Jeffrey (1995);93
+Kicking and Screaming (1995);93
+Mighty Morphin Power Rangers: The Movie (1995);93
+Newsies (1992);93
+Set It Off (1996);93
+Urban Legends: Final Cut (2000);92
+Puppet Master III: Toulon's Revenge (1991);92
+Dersu Uzala (1974);92
+Hollywood Knights, The (1980);92
+Boondock Saints, The (1999);92
+Black and White (1999);92
+Hands on a Hard Body (1996);92
+Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997);91
+Mediterraneo (1991);91
+Incredible Journey, The (1963);91
+Friday the 13th Part VII: The New Blood (1988);91
+Prom Night (1980);91
+Man and a Woman, A (Un Homme et une Femme) (1966);91
+Great White Hype, The (1996);91
+Universal Soldier: The Return (1999);91
+Men With Guns (1997);91
+Star Is Born, A (1937);91
+Gentleman's Agreement (1947);91
+Jade (1995);91
+Playing God (1997);90
+Air Up There, The (1994);90
+Beautiful Thing (1996);90
+Evening Star, The (1996);90
+I Saw What You Did (1965);90
+Holy Man (1998);90
+Man with the Golden Arm, The (1955);90
+Trust (1990);90
+Antonia's Line (Antonia) (1995);89
+Vampire in Brooklyn (1995);89
+Saboteur (1942);89
+Moll Flanders (1996);89
+Bad Girls (1994);89
+Caligula (1980);89
+Here on Earth (2000);89
+Phantasm II (1988);89
+My Life (1993);88
+Switchback (1997);88
+Limbo (1999);88
+42 Up (1998);88
+Excess Baggage (1997);88
+Mary Reilly (1996);88
+Burglar (1987);88
+Fathers' Day (1997);88
+Rocket Man (1997);88
+Sunshine (1999);87
+Big Blue, The (Le Grand Bleu) (1988);87
+Beyond Rangoon (1995);87
+Geronimo: An American Legend (1993);87
+Wood, The (1999);87
+Hellraiser III: Hell on Earth (1992);87
+Morning After, The (1986);87
+FairyTale: A True Story (1997);87
+Sesame Street Presents Follow That Bird (1985);87
+Go Fish (1994);86
+Queen Margot (La Reine Margot) (1994);86
+Betrayed (1988);86
+Unstrung Heroes (1995);85
+Wilde (1997);85
+Soul Food (1997);85
+Incredibly True Adventure of Two Girls in Love, The (1995);85
+Death Wish II (1982);85
+Peeping Tom (1960);85
+Feeling Minnesota (1996);85
+Lords of Flatbush, The (1974);85
+Long Walk Home, The (1990);85
+Trick (1999);85
+Airport 1975 (1974);84
+Twelve Chairs, The (1970);84
+War, The (1994);84
+She's So Lovely (1997);84
+Women, The (1939);84
+Grand Hotel (1932);84
+How to Be a Player (1997);84
+White Sands (1992);83
+Romper Stomper (1992);83
+Interiors (1978);83
+Nothing But Trouble (1991);83
+Minus Man, The (1999);83
+Family Plot (1976);83
+We're No Angels (1989);83
+Felicia's Journey (1999);82
+Welcome To Sarajevo (1997);82
+Long Goodbye, The (1973);82
+Mrs. Miniver (1942);82
+Raven, The (1963);82
+Jane Eyre (1996);82
+Puppet Master II (1990);82
+Frankenstein Meets the Wolf Man (1943);82
+Gossip (2000);82
+SubUrbia (1997);82
+Meet John Doe (1941);82
+Eyes of Tammy Faye, The (2000);82
+Afterglow (1997);82
+Unzipped (1995);82
+Get on the Bus (1996);81
+Amos & Andrew (1993);81
+Picnic (1955);81
+Dinner Game, The (Le Dîner de cons) (1998);81
+Even Cowgirls Get the Blues (1993);81
+March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland) (1934);81
+Kama Sutra: A Tale of Love (1996);81
+Jury Duty (1995);81
+Mephisto (1981);81
+Braddock: Missing in Action III (1988);81
+Fire Down Below (1997);81
+Ipcress File, The (1965);81
+Farinelli: il castrato (1994);80
+Mixed Nuts (1994);80
+Two if by Sea (1996);79
+Airport '77 (1977);79
+Graveyard Shift (1990);79
+Pallbearer, The (1996);79
+Young Poisoner's Handbook, The (1995);79
+Crimes of the Heart (1986);79
+Love Affair (1994);79
+Mo' Better Blues (1990);79
+Dance with Me (1998);79
+Young Doctors in Love (1982);79
+Chamber, The (1996);78
+High School High (1996);78
+Girl 6 (1996);78
+Odessa File, The (1974);78
+Boys and Girls (2000);77
+Razor's Edge, The (1984);77
+Firestorm (1998);77
+Carnosaur (1993);77
+Woman in the Dunes (Suna no onna) (1964);77
+You Can't Take It With You (1938);77
+Yards, The (1999);77
+Sugarland Express, The (1974);77
+Little Princess, The (1939);77
+Prick Up Your Ears (1987);77
+First Kid (1996);77
+Nightwatch (1997);77
+Seven Beauties (Pasqualino Settebellezze) (1976);77
+Family Thing, A (1996);77
+Phantoms (1998);77
+Son of Flubber (1963);76
+Permanent Midnight (1998);76
+Night Falls on Manhattan (1997);76
+Billy's Hollywood Screen Kiss (1997);76
+Dunston Checks In (1996);76
+All Dogs Go to Heaven 2 (1996);75
+Scarlet Letter, The (1995);75
+Hoodlum (1997);75
+Blue Chips (1994);75
+King of the Hill (1993);74
+Impostors, The (1998);74
+Indian Summer (a.k.a. Alive & Kicking) (1996);74
+At First Sight (1999);74
+Mortal Thoughts (1991);74
+Heavy (1995);74
+Shanghai Triad (Yao a yao yao dao waipo qiao) (1995);74
+School Daze (1988);74
+Heartburn (1986);74
+Face in the Crowd, A (1957);74
+Coogan's Bluff (1968);74
+Crimson Pirate, The (1952);73
+Ponette (1996);73
+Ride with the Devil (1999);73
+Meatballs Part II (1984);73
+Haunted Honeymoon (1986);72
+Withnail and I (1987);72
+Duel in the Sun (1946);72
+Operation Condor 2 (Longxiong hudi) (1990);72
+Death Wish 3 (1985);72
+Pal Joey (1957);72
+Kurt & Courtney (1998);72
+Good Earth, The (1937);72
+Omega Code, The (1999);72
+8 Seconds (1994);72
+Dancer, Texas Pop. 81 (1998);72
+Fear of a Black Hat (1993);71
+Bride of the Monster (1956);71
+Where the Buffalo Roam (1980);71
+Under the Rainbow (1981);71
+Diabolique (1996);71
+Fury, The (1978);71
+Trial and Error (1997);71
+Band Wagon, The (1953);71
+Stay Tuned (1992);71
+Prefontaine (1997);71
+Earth Vs. the Flying Saucers (1956);71
+Six-String Samurai (1998);71
+Little Buddha (1993);71
+Braindead (1992);70
+Play it to the Bone (1999);70
+Governess, The (1998);70
+Girl on the Bridge, The (La Fille sur le Pont) (1999);70
+'Night Mother (1986);70
+Broken Hearts Club, The (2000);70
+Carrington (1995);70
+Soldier's Daughter Never Cries, A (1998);70
+Butterfly (La Lengua de las Mariposas) (2000);69
+Sanjuro (1962);69
+Woman on Top (2000);69
+Cecil B. Demented (2000);69
+House of the Spirits, The (1993);69
+Mother Night (1996);69
+Quatermass and the Pit (1967);69
+Extremities (1986);69
+Xiu Xiu: The Sent-Down Girl (Tian yu) (1998);69
+Grace of My Heart (1996);69
+My Giant (1998);69
+Addiction, The (1995);69
+North (1994);69
+Repulsion (1965);69
+Air Bud: Golden Receiver (1998);69
+Stanley & Iris (1990);68
+Quest for Camelot (1998);68
+Dorado, El (1967);68
+Tom and Huck (1995);68
+Get Real (1998);68
+I Dreamed of Africa (2000);68
+Better Than Chocolate (1999);68
+Scout, The (1994);68
+If Lucy Fell (1996);68
+Bats (1999);67
+Eye for an Eye (1996);67
+For Love or Money (1993);67
+Cobb (1994);67
+Homeward Bound II: Lost in San Francisco (1996);67
+Fatal Beauty (1987);67
+Steel (1997);67
+Pajama Game, The (1957);67
+Bread and Chocolate (Pane e cioccolata) (1973);67
+Radioland Murders (1994);67
+King of Masks, The (Bian Lian) (1996);67
+Fandango (1985);66
+Wonderland (1999);66
+Ready to Rumble (2000);66
+Jerky Boys, The (1994);66
+Twin Dragons (Shuang long hui) (1992);66
+Blue in the Face (1995);66
+Five Senses, The (1999);66
+Clara's Heart (1988);66
+Faraway, So Close (In Weiter Ferne, So Nah!) (1993);66
+Stealing Home (1988);66
+My Chauffeur (1986);66
+Black Mask (Hak hap) (1996);66
+Cry in the Dark, A (1988);66
+Tumbleweeds (1999);66
+Color of Paradise, The (Rang-e Khoda) (1999);65
+Free Willy 3: The Rescue (1997);65
+Red Sorghum (Hong Gao Liang) (1987);65
+Meatballs III (1987);65
+Son of Frankenstein (1939);65
+Money Talks (1997);65
+Night of the Creeps (1986);65
+Destination Moon (1950);65
+Polish Wedding (1998);65
+Bride of Re-Animator (1990);65
+House Party 2 (1991);64
+Life with Mikey (1993);64
+Friends & Lovers (1999);64
+River, The (1984);64
+Alphaville (1965);64
+Mr. Magoo (1997);64
+Babysitter, The (1995);64
+Cops and Robbersons (1994);64
+Odd Couple II, The (1998);64
+Lost & Found (1999);64
+Body Snatcher, The (1945);64
+Pest, The (1997);64
+In Dreams (1999);63
+Big Country, The (1958);63
+Going My Way (1944);63
+Tingler, The (1959);63
+Bastard Out of Carolina (1996);63
+Star Kid (1997);63
+Masque of the Red Death, The (1964);63
+Shower (Xizhao) (1999);63
+Losing Isaiah (1995);63
+In Love and War (1996);63
+Van, The (1996);63
+Fright Night Part II (1989);63
+Men Don't Leave (1990);62
+Joe Gould's Secret (2000);62
+Toxic Avenger, Part II, The (1989);62
+Two Jakes, The (1990);62
+Open Your Eyes (Abre los ojos) (1997);62
+Decline of Western Civilization, The (1981);62
+Kid, The (1921);62
+Flipper (1996);62
+Tarantula (1955);62
+Leatherface: Texas Chainsaw Massacre III (1990);62
+Lightning Jack (1994);62
+Princess Caraboo (1994);62
+Gothic (1986);62
+Wonderful, Horrible Life of Leni Riefenstahl, The (Die Macht der Bilder) (1993);62
+For Richer or Poorer (1997);62
+Now and Then (1995);61
+Sheltering Sky, The (1990);61
+Children of Heaven, The (Bacheha-Ye Aseman) (1997);61
+Cronos (1992);61
+Guinevere (1999);61
+No Mercy (1986);61
+American Pimp (1999);61
+Strawberry and Chocolate (Fresa y chocolate) (1993);61
+Boiling Point (1993);61
+Doom Generation, The (1995);61
+Greatest Show on Earth, The (1952);61
+To Live (Huozhe) (1994);61
+Final Conflict, The (a.k.a. Omen III: The Final Conflict) (1981);61
+Wild America (1997);60
+War Zone, The (1999);60
+Mr. Wrong (1996);60
+French Twist (Gazon maudit) (1995);60
+American Buffalo (1996);60
+Two Moon Juction (1988);60
+Bless the Child (2000);60
+Screwed (2000);60
+Poison Ivy: New Seduction (1997);60
+Down in the Delta (1998);60
+Almost Heroes (1998);60
+Madame Sousatzka (1988);59
+Maya Lin: A Strong Clear Vision (1994);59
+Champ, The (1979);59
+Faster Pussycat! Kill! Kill! (1965);59
+Out to Sea (1997);59
+Trigger Effect, The (1996);59
+Jerry Springer: Ringmaster (1998);59
+Torn Curtain (1966);58
+Iron Eagle IV (1995);58
+Of Human Bondage (1934);58
+Puppet Master 4 (1993);58
+General, The (1998);58
+MacKenna's Gold (1969);58
+Mrs. Dalloway (1997);58
+Mrs. Parker and the Vicious Circle (1994);58
+Bye Bye, Love (1995);58
+Mole People, The (1956);58
+Class of Nuke 'Em High (1986);58
+Ridicule (1996);58
+King Kong Lives (1986);58
+Cup, The (Phörpa) (1999);57
+Blink (1994);57
+Conformist, The (Il Conformista) (1970);57
+Blackbeard's Ghost (1968);57
+Prince of the City (1981);57
+Truth or Consequences, N.M. (1997);57
+Walking and Talking (1996);57
+Bedroom Window, The (1987);57
+World of Apu, The (Apur Sansar) (1959);56
+Farewell to Arms, A (1932);56
+Blue Collar (1978);56
+Chill Factor (1999);56
+Brain That Wouldn't Die, The (1962);56
+Bridge at Remagen, The (1969);56
+Holy Smoke (1999);56
+Amityville II: The Possession (1982);56
+Simple Twist of Fate, A (1994);55
+Effect of Gamma Rays on Man-in-the-Moon Marigolds, The (1972);55
+Senseless (1998);55
+Stupids, The (1996);55
+Kiss Me, Guido (1997);55
+Far Off Place, A (1993);55
+Body Parts (1991);55
+Nadine (1987);55
+Andre (1994);55
+My Crazy Life (Mi vida loca) (1993);55
+Get Carter (1971);55
+187 (1997);55
+Wild Man Blues (1998);54
+Live Nude Girls (1995);54
+Adventures of Pinocchio, The (1996);54
+Little Odessa (1994);54
+Inspector General, The (1949);54
+End of Violence, The (1997);54
+Life and Times of Hank Greenberg, The (1998);54
+Sabotage (1936);54
+Swan Princess, The (1994);54
+Return of the Texas Chainsaw Massacre, The (1994);54
+From the Hip (1987);54
+Tigerland (2000);54
+Breakfast of Champions (1999);54
+Puppet Master 5: The Final Chapter (1994);54
+Candleshoe (1977);54
+If.... (1968);54
+Maximum Risk (1996);54
+Bad Taste (1987);54
+Glen or Glenda (1953);53
+Beautiful People (1999);53
+Hamlet (1964);53
+Repossessed (1990);53
+Burnt Offerings (1976);53
+Before and After (1996);53
+It Came from Beneath the Sea (1955);53
+Tex (1982);53
+Twilight (1998);53
+Toxic Avenger Part III: The Last Temptation of Toxie, The (1989);53
+Urbania (2000);52
+Niagara (1953);52
+Stalker (1979);52
+Angel Baby (1995);52
+Devil and Max Devlin, The (1981);52
+Whatever (1998);52
+'Til There Was You (1997);52
+Not One Less (Yi ge dou bu neng shao) (1999);52
+Children of the Revolution (1996);52
+Children of the Corn II: The Final Sacrifice (1993);52
+White Balloon, The (Badkonake Sefid ) (1995);52
+House of Frankenstein (1944);52
+Horseman on the Roof, The (Hussard sur le toit, Le) (1995);52
+White Man's Burden (1995);52
+Why Do Fools Fall In Love? (1998);52
+God Said 'Ha!' (1998);52
+Last Night (1998);51
+Black Dog (1998);51
+Wild Reeds (1994);51
+Curse of Frankenstein, The (1957);51
+Angel and the Badman (1947);51
+Map of the World, A (1999);51
+Trial, The (Le Procès) (1963);51
+Turbulence (1997);51
+Hello Mary Lou: Prom Night II (1987);51
+Prophecy II, The (1998);51
+Groove (2000);51
+Celtic Pride (1996);51
+Four Days in September (1997);51
+Date with an Angel (1987);51
+King Creole (1958);51
+Associate, The (1996);50
+Jude (1996);50
+House Arrest (1996);50
+Washington Square (1997);50
+Audrey Rose (1977);50
+Heidi Fleiss: Hollywood Madam (1995);50
+Whole Wide World, The (1996);50
+Crossing Guard, The (1995);50
+Lonely Are the Brave (1962);50
+Hear My Song (1991);50
+Love Is a Many-Splendored Thing (1955);50
+Blow-Out (La Grande Bouffe) (1973);50
+Vibes (1988);50
+Myth of Fingerprints, The (1997);50
+Thousand Acres, A (1997);50
+Assignment, The (1997);49
+G. I. Blues (1960);49
+Insomnia (1997);49
+Schizopolis (1996);49
+Wisdom (1986);49
+Our Town (1940);49
+Gridlock'd (1997);49
+Moonlight and Valentino (1995);49
+Mr. Wonderful (1993);49
+Brandon Teena Story, The (1998);49
+Above the Rim (1994);49
+8 1/2 Women (1999);49
+Gone Fishin' (1997);49
+Bustin' Loose (1981);49
+Glass Bottom Boat, The (1966);49
+National Lampoon's Senior Trip (1995);49
+Hideous Kinky (1998);48
+Death Wish 4: The Crackdown (1987);48
+My Son the Fanatic (1998);48
+Tango (1998);48
+Poison Ivy II (1995);48
+Kissing a Fool (1998);48
+Land Before Time III: The Time of the Great Giving (1995);48
+City of Industry (1997);48
+Bound for Glory (1976);48
+Red Firecracker, Green Firecracker (1994);48
+Clean Slate (1994);48
+Double Team (1997);48
+Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar) (1998);48
+Mad Love (1995);48
+King of Marvin Gardens, The (1972);48
+Deterrence (1998);48
+Cousin Bette (1998);47
+Howling II: Your Sister Is a Werewolf (1985);47
+Decline of Western Civilization Part II: The Metal Years, The (1988);47
+For the Love of Benji (1977);47
+Amateur (1994);47
+3 Ninjas: High Noon On Mega Mountain (1998);47
+Phantasm IV: Oblivion (1998);47
+Pather Panchali (1955);47
+Guilty as Sin (1993);47
+Larger Than Life (1996);47
+Another Day in Paradise (1998);47
+Night Flier (1997);47
+Mr. Jones (1993);47
+Beach Party (1963);47
+Bloodsport 2 (1995);47
+Autumn Tale, An (Conte d'automne) (1998);47
+Heaven's Prisoners (1996);47
+It Came from Hollywood (1982);46
+My Family (1995);46
+Bitter Moon (1992);46
+Castle, The (1997);46
+In Too Deep (1999);46
+Hot Spot, The (1990);46
+Meet Wally Sparks (1997);46
+Gun Shy (2000);46
+Hideaway (1995);45
+Chasers (1994);45
+Love's Labour's Lost (2000);45
+Wings (1927);45
+Children of the Corn III (1994);45
+They Might Be Giants (1971);45
+Third Miracle, The (1999);45
+When the Cats Away (Chacun cherche son chat) (1996);45
+Georgia (1995);45
+Crazy in Alabama (1999);45
+Mifune (Mifunes sidste sang) (1999);45
+Bait (2000);45
+Baraka (1992);45
+Without Limits (1998);44
+I'll Do Anything (1994);44
+Gloria (1999);44
+Shaft's Big Score! (1972);44
+Hate (Haine, La) (1995);44
+Love in the Afternoon (1957);44
+Character (Karakter) (1997);44
+Warriors of Virtue (1997);44
+Chopping Mall (a.k.a. Killbots) (1986);44
+Turbo: A Power Rangers Movie (1997);44
+Nothing to Lose (1994);44
+Wide Awake (1998);44
+Dancing at Lughnasa (1998);44
+Emperor and the Assassin, The (Jing ke ci qin wang) (1999);44
+Two Women (La Ciociara) (1961);44
+Whatever It Takes (2000);43
+Cutter's Way (1981);43
+Cross of Iron (1977);43
+Alaska (1996);43
+Free Enterprise (1998);43
+Portrait of a Lady, The (1996);43
+Devil's Brigade, The (1968);43
+Hype! (1996);43
+Spiral Staircase, The (1946);43
+Prancer (1989);43
+Amityville 3-D (1983);43
+H.O.T.S. (1979);43
+Bogus (1996);43
+Bandit Queen (1994);43
+Digimon: The Movie (2000);43
+Thumbelina (1994);43
+Desert Bloom (1986);43
+Fiendish Plot of Dr. Fu Manchu, The (1980);43
+Picture Bride (1995);43
+Leave It to Beaver (1997);43
+Hot Lead and Cold Feet (1978);42
+Best Laid Plans (1999);42
+Son of Dracula (1943);42
+Hush (1998);42
+Children of the Corn IV: The Gathering (1996);42
+In the Realm of the Senses (Ai no corrida) (1976);42
+Dog Park (1998);42
+Phantasm III: Lord of the Dead (1994);42
+Paradise Road (1997);42
+Rollercoaster (1977);42
+Baby-Sitters Club, The (1995);42
+Go West (1925);42
+Perez Family, The (1995);42
+Firewalker (1986);42
+Deadly Friend (1986);42
+Quest, The (1996);42
+Plunkett & MaCleane (1999);42
+My Favorite Season (1993);42
+Kansas City (1996);42
+Poetic Justice (1993);42
+Private School (1983);42
+Besieged (L' Assedio) (1998);41
+Great Day in Harlem, A (1994);41
+Anne Frank Remembered (1995);41
+Underneath, The (1995);41
+Get Bruce (1999);41
+Wild Bill (1995);41
+Rocketship X-M (1950);41
+Perfect Blue (1997);41
+Three Seasons (1999);41
+Big Green, The (1995);41
+Lovers on the Bridge, The (Les Amants du Pont-Neuf) (1991);41
+Othello (1952);41
+I Went Down (1997);41
+Best Men (1997);40
+Trouble in Paradise (1932);40
+Beautiful (2000);40
+And God Created Woman (1988);40
+Jason's Lyric (1994);40
+Steal This Movie! (2000);40
+Penny Serenade (1941);40
+Miami Rhapsody (1995);40
+Two Family House (2000);40
+Doug's 1st Movie (1999);40
+Bad Company (1995);40
+Crew, The (2000);40
+Meatballs 4 (1992);40
+Barney's Great Adventure (1998);40
+Barefoot Executive, The (1971);40
+Monsieur Verdoux (1947);40
+Dream With the Fishes (1997);40
+I'm the One That I Want (2000);40
+I'm Not Rappaport (1996);40
+Bliss (1997);40
+Topaz (1969);39
+Affair of Love, An (Une Liaison Pornographique) (1999);39
+House of Dracula (1945);39
+Band of the Hand (1986);39
+Filth and the Fury, The (2000);39
+Big Carnival, The (1951);39
+One Night Stand (1997);39
+Bikini Beach (1964);39
+Funny Bones (1995);39
+M. Butterfly (1993);39
+Eddie (1996);39
+Daddy Long Legs (1919);38
+Widows' Peak (1994);38
+Official Story, The (La Historia Oficial) (1985);38
+Getting Even with Dad (1994);38
+Quatermass II (1957);38
+One Tough Cop (1998);38
+House Party 3 (1994);38
+Otello (1986);38
+Flirt (1995);38
+Guardian, The (1990);38
+Tarzan and the Lost City (1998);38
+Let's Get Harry (1986);38
+Jefferson in Paris (1995);38
+Death Wish V: The Face of Death (1994);38
+Chinese Box (1997);37
+Shiloh (1997);37
+$1,000,000 Duck (1971);37
+Tall Tale (1994);37
+Whipped (2000);37
+Beat the Devil (1954);37
+How I Won the War (1967);37
+Boys of St. Vincent, The (1993);37
+Cats Don't Dance (1997);37
+Body Shots (1999);37
+What Happened Was... (1994);37
+Happiest Millionaire, The (1967);37
+Idiots, The (Idioterne) (1998);37
+Tango Lesson, The (1997);37
+Scarlet Letter, The (1926);37
+Critical Care (1997);37
+Concorde: Airport '79, The (1979);37
+Thomas and the Magic Railroad (2000);37
+Isn't She Great? (2000);37
+My Boyfriend's Back (1993);37
+Blood For Dracula (Andy Warhol's Dracula) (1974);36
+Mummy's Tomb, The (1942);36
+Hana-bi (1997);36
+Buddy (1997);36
+Thieves (Voleurs, Les) (1996);36
+Traveller (1997);36
+Funhouse, The (1981);36
+American Dream (1990);36
+This Is My Father (1998);36
+Roseanna's Grave (For Roseanna) (1997);36
+Great Ziegfeld, The (1936);36
+Cosi (1996);36
+Bossa Nova (1999);35
+Edge of Seventeen (1998);35
+Normal Life (1996);35
+My Name Is Joe (1998);35
+My Tutor (1983);35
+Bhaji on the Beach (1993);35
+Fun and Fancy Free (1947);35
+Palookaville (1996);35
+Inkwell, The (1994);35
+Crossfire (1947);35
+Underground (1995);35
+Monster, The (Il Mostro) (1994);35
+Blood & Wine (1997);35
+My Best Fiend (Mein liebster Feind) (1999);35
+Roommates (1995);35
+Rosetta (1999);35
+Surviving Picasso (1996);35
+Cruise, The (1998);35
+Rent-A-Cop (1988);35
+Hell Night (1981);34
+Wedding Gift, The (1994);34
+Where the Money Is (2000);34
+Good Mother, The (1988);34
+Knightriders (1981);34
+That Old Feeling (1997);34
+Roustabout (1964);34
+Beyond the Poseidon Adventure (1979);34
+Browning Version, The (1994);34
+Nico Icon (1995);34
+Agnes Browne (1999);34
+Drunks (1997);34
+Visitors, The (Les Visiteurs) (1993);33
+Only Angels Have Wings (1939);33
+Mr. & Mrs. Smith (1941);33
+Big Tease, The (1999);33
+Ghost of Frankenstein, The (1942);33
+Hell in the Pacific (1968);33
+Shanghai Surprise (1986);33
+Adventures of Sebastian Cole, The (1998);33
+Unforgettable (1996);33
+Sarafina! (1992);33
+Mummy's Hand, The (1940);33
+Pompatus of Love, The (1996);33
+Adventures of Elmo in Grouchland, The (1999);33
+Man from Laramie, The (1955);33
+Country (1984);33
+Perfect Candidate, A (1996);33
+Crime and Punishment in Suburbia (2000);33
+Three Wishes (1995);33
+Stalingrad (1993);33
+Sandpiper, The (1965);33
+Player's Club, The (1998);33
+Sum of Us, The (1994);33
+Once Upon a Time... When We Were Colored (1995);33
+Month by the Lake, A (1995);32
+Barenaked in America (1999);32
+Broadway Melody, The (1929);32
+Under Suspicion (2000);32
+How to Stuff a Wild Bikini (1965);32
+Garbage Pail Kids Movie, The (1987);32
+Artemisia (1997);32
+Taste of Cherry (1997);32
+Far From Home: The Adventures of Yellow Dog (1995);32
+Mr. Jealousy (1997);32
+Ed (1996);32
+Amityville 1992: It's About Time (1992);32
+Killer's Kiss (1955);32
+Career Girls (1997);32
+Suture (1993);32
+Wanted: Dead or Alive (1987);32
+Raise the Titanic (1980);32
+Romance (1999);32
+My Life So Far (1999);32
+Poison (1991);32
+Faust (1994);31
+Manny & Lo (1996);31
+Endless Summer 2, The (1994);31
+Plenty (1985);31
+Light of Day (1987);31
+Mummy's Curse, The (1944);31
+Funeral, The (1996);31
+Man Facing Southeast (Hombre Mirando al Sudeste) (1986);31
+Force of Evil (1948);31
+Benji the Hunted (1987);31
+Double Happiness (1994);31
+Rawhead Rex (1986);31
+Favor, The (1994);31
+Nowhere (1997);31
+Love and a .45 (1994);30
+It's My Party (1995);30
+Cyclo (1995);30
+Carmen (1984);30
+Slipper and the Rose, The (1976);30
+Shooting Fish (1997);30
+Sleepaway Camp (1983);30
+Cry, the Beloved Country (1995);30
+Inferno (1980);30
+Queens Logic (1991);30
+Star Maps (1997);30
+Limelight (1952);30
+Still Crazy (1998);30
+S.F.W. (1994);30
+Dream for an Insomniac (1996);30
+Total Eclipse (1995);30
+Autumn Sonata (Höstsonaten ) (1978);30
+Heavyweights (1994);30
+Following (1998);29
+One Magic Christmas (1985);29
+Zed & Two Noughts, A (1985);29
+Being Human (1993);29
+Pyromaniac's Love Story, A (1995);29
+Fluke (1995);29
+Never Talk to Strangers (1995);29
+Cimarron (1931);29
+In Crowd, The (2000);29
+He Walked by Night (1948);29
+Up at the Villa (2000);29
+Draughtsman's Contract, The (1982);29
+Source, The (1999);29
+Lassie (1994);29
+Shaft in Africa (1973);29
+Mute Witness (1994);29
+Female Perversions (1996);29
+Santa Fe Trail (1940);29
+Live Flesh (1997);29
+We're Back! A Dinosaur's Story (1993);29
+Castle Freak (1995);28
+Kaspar Hauser (1993);28
+Judy Berlin (1999);28
+Kronos (1957);28
+Switchblade Sisters (1975);28
+Splendor (1999);28
+Harmonists, The (1997);28
+Caught (1996);28
+Panther (1995);28
+Metroland (1997);28
+"And God Created Woman (Et Dieu&#8230;Créa la Femme) (1956)";28
+Bent (1997);28
+Idolmaker, The (1980);28
+Alvarez Kelly (1966);28
+Blood In, Blood Out (a.k.a. Bound by Honor) (1993);28
+Before the Rain (Pred dozhdot) (1994);28
+Ladybird Ladybird (1994);28
+Dear Diary (Caro Diario) (1994);28
+It Conquered the World (1956);28
+Sorority House Massacre II (1990);28
+It Takes Two (1995);28
+Passion of Mind (1999);28
+Good Man in Africa, A (1994);28
+Communion (a.k.a. Alice, Sweet Alice/Holy Terror) (1977);28
+Mike's Murder (1984);28
+Love Serenade (1996);28
+For All Mankind (1989);27
+Simple Wish, A (1997);27
+Theory of Flight, The (1998);27
+Still Breathing (1997);27
+Last Days, The (1998);27
+King and I, The (1999);27
+All the Vermeers in New York (1990);27
+Faces (1968);27
+Knock Off (1998);27
+Giant Gila Monster, The (1959);27
+Year My Voice Broke, The (1987);27
+Love Jones (1997);27
+Haunted World of Edward D. Wood Jr., The (1995);27
+I'll Be Home For Christmas (1998);27
+When Night Is Falling (1995);27
+Slumber Party Massacre, The (1982);27
+B*A*P*S (1997);26
+Nadja (1994);26
+Johns (1996);26
+Trial by Jury (1994);26
+Pajama Party (1964);26
+Committed (2000);26
+Stage Fright (1950);26
+Loss of Sexual Innocence, The (1999);26
+Curse of the Puppet Master (1998);26
+Slumber Party Massacre II, The (1987);26
+Hi-Lo Country, The (1998);26
+Music From Another Room (1998);26
+Lawn Dogs (1997);26
+Love & Sex (2000);26
+Carnosaur 2 (1995);26
+Contempt (Le Mépris) (1963);26
+Smiling Fish and Goat on Fire (1999);26
+Slam (1998);25
+Come See the Paradise (1990);25
+Eyes Without a Face (1959);25
+Desert Blue (1999);25
+Secret Adventures of Tom Thumb, The (1993);25
+Psycho Beach Party (2000);25
+Ilsa, She Wolf of the SS (1974);25
+Day of the Beast, The (El Día de la bestia) (1995);25
+Price Above Rubies, A (1998);25
+Anna Karenina (1997);25
+Shadrach (1998);25
+Goodbye, Lover (1999);25
+Perils of Pauline, The (1947);25
+Safe Men (1998);25
+Tales of Terror (1962);25
+Room at the Top (1959);25
+Illuminata (1998);25
+Purple Noon (1960);25
+Amityville Curse, The (1990);25
+Golden Bowl, The (2000);24
+Circus, The (1928);24
+Girls Town (1996);24
+Touch (1997);24
+Native Son (1986);24
+Parasite (1982);24
+Calendar Girl (1993);24
+Trixie (1999);24
+Real Blonde, The (1997);24
+Couch in New York, A (1996);24
+Dog's Life, A (1920);24
+Carpool (1996);24
+Grass Harp, The (1995);24
+Melody Time (1948);24
+Man of the House (1995);24
+A Chef in Love (1996);24
+Cérémonie, La (1995);24
+Jonah Who Will Be 25 in the Year 2000 (1976);24
+Jimmy Hollywood (1994);24
+Goya in Bordeaux (Goya en Bodeos) (1999);24
+Chairman of the Board (1998);24
+Terrorist, The (Malli) (1998);24
+Promise, The (La Promesse) (1996);24
+Pushing Hands (1992);23
+Amityville: A New Generation (1993);23
+Aparajito (1956);23
+Assassination (1987);23
+Damsel in Distress, A (1937);23
+Innocents, The (1961);23
+Turtle Diary (1985);23
+Slingshot, The (Kådisbellan ) (1993);23
+Education of Little Tree, The (1997);23
+Kronos (1973);23
+Little Lord Fauntleroy (1936);23
+Mass Appeal (1984);23
+Tetsuo II: Body Hammer (1992);23
+Outlaw, The (1943);23
+Zeus and Roxanne (1997);23
+Black Cat, White Cat (Crna macka, beli macor) (1998);23
+Charlie, the Lonesome Cougar (1967);23
+Awfully Big Adventure, An (1995);23
+Mirror, The (Zerkalo) (1975);23
+Velocity of Gary, The (1998);22
+Sorority House Massacre (1986);22
+Lulu on the Bridge (1998);22
+Amityville: Dollhouse (1996);22
+Hideous Sun Demon, The (1959);22
+Time Regained (Le Temps Retrouvé) (1999);22
+Cure, The (1995);22
+Little Nemo: Adventures in Slumberland (1992);22
+Gnome-Mobile, The (1967);22
+Winter Guest, The (1997);22
+Hotel de Love (1996);22
+Deceiver (1997);22
+Grateful Dead (1995);22
+Hanging Garden, The (1997);22
+Story of G.I. Joe, The (1945);21
+Freedom for Us (À nous la liberté ) (1931);21
+Bedrooms & Hallways (1998);21
+Tom & Viv (1994);21
+All Over Me (1997);21
+Beyond Silence (1996);21
+Nina Takes a Lover (1994);21
+Life of Émile Zola, The (1937);21
+Black Sabbath (Tre Volti Della Paura, I) (1963);21
+Last Summer in the Hamptons (1995);21
+Cement Garden, The (1993);21
+Meet the Deedles (1998);21
+Saint of Fort Washington, The (1993);21
+Night Porter, The (Il Portiere di notte) (1974);21
+Ciao, Professore! (Io speriamo che me la cavo ) (1993);21
+Police Story 4: Project S (Chao ji ji hua) (1993);21
+Simpatico (1999);21
+Lodger, The (1926);21
+I Married A Strange Person (1997);21
+Solas (1999);21
+Blood Beach (1981);21
+Curdled (1996);20
+Silent Fall (1994);20
+Nil By Mouth (1997);20
+Gang Related (1997);20
+Chambermaid on the Titanic, The (1998);20
+Class Reunion (1982);20
+Stonewall (1995);20
+Alien Escape (1995);20
+Surf Nazis Must Die (1987);20
+Legend of 1900, The (Leggenda del pianista sull'oceano) (1998);20
+Nelly & Monsieur Arnaud (1995);20
+Paradine Case, The (1947);20
+Colonel Chabert, Le (1994);20
+Angel on My Shoulder (1946);20
+About Adam (2000);20
+Henry: Portrait of a Serial Killer, Part 2 (1996);20
+Solar Crisis (1993);20
+Some Mother's Son (1996);20
+Love Stinks (1999);20
+Wonderland (1997);20
+Smile Like Yours, A (1997);20
+Blood Feast (1963);20
+Rich Man's Wife, The (1996);20
+Hugo Pool (1997);20
+Make Mine Music (1946);20
+And the Ship Sails On (E la nave va) (1984);20
+Sugar Town (1999);20
+Aimée & Jaguar (1999);20
+Overnight Delivery (1996);20
+Denise Calls Up (1995);20
+Vagabond (Sans toit ni loi) (1985);20
+Chushingura (1962);20
+Great Locomotive Chase, The (1956);19
+B. Monkey (1998);19
+Mina Tannenbaum (1994);19
+Rough Magic (1995);19
+Sixth Man, The (1997);19
+Love & Human Remains (1993);19
+Onegin (1999);19
+Thin Line Between Love and Hate, A (1996);19
+Heart Condition (1990);19
+Secret Agent (1936);19
+Shadow Conspiracy (1997);19
+Gate II: Trespassers, The (1990);19
+Jack and Sarah (1995);19
+Ballad of Narayama, The (Narayama Bushiko) (1982);19
+Walking Dead, The (1995);19
+I Like It Like That (1994);19
+Déjà Vu (1997);18
+Vie est belle, La (Life is Rosey) (1987);18
+Eight Days a Week (1997);18
+Very Thought of You, The (1998);18
+Ballad of Ramblin' Jack, The (2000);18
+Cleo From 5 to 7 (Cléo de 5 à 7) (1962);18
+New Jersey Drive (1995);18
+Bad Moon (1996);18
+That's Life! (1986);18
+Hitch-Hiker, The (1953);18
+Amazing Panda Adventure, The (1995);18
+School of Flesh, The (L' École de la chair) (1998);18
+Experience Preferred... But Not Essential (1982);18
+Hunted, The (1995);18
+Keys to Tulsa (1997);18
+Coldblooded (1995);18
+In Search of the Castaways (1962);18
+Madame Butterfly (1995);18
+Tarzan the Fearless (1933);17
+Kindred, The (1986);17
+Citizen's Band (a.k.a. Handle with Care) (1977);17
+I Confess (1953);17
+Single Girl, A (La Fille Seule) (1995);17
+Alan Smithee Film: Burn Hollywood Burn, An (1997);17
+Joe the King (1999);17
+Telling Lies in America (1997);17
+Love and Other Catastrophes (1996);17
+Flower of My Secret, The (La Flor de Mi Secreto) (1995);17
+Rain (1932);17
+Mating Habits of the Earthbound Human, The (1998);17
+Head Above Water (1996);17
+Avalanche (1978);17
+Horror Express (1972);17
+No Small Affair (1984);17
+Dark Command (1940);17
+Cool Dry Place, A (1998);17
+Stars Fell on Henrietta, The (1995);17
+Asylum (1972);17
+Germinal (1993);17
+Best of the Best 3: No Turning Back (1995);17
+Safe Passage (1994);17
+Carnosaur 3: Primal Species (1996);17
+Better Living Through Circuitry (1999);16
+Line King: Al Hirschfeld, The (1996);16
+Cold Fever (Á köldum klaka) (1994);16
+Killing of Sister George, The (1968);16
+Other Side of Sunday, The (Søndagsengler) (1996);16
+Sea Wolves, The (1980);16
+Killer Shrews, The (1959);16
+Opportunists, The (1999);16
+Retroactive (1997);16
+Light It Up (1999);16
+Prom Night IV: Deliver Us From Evil (1992);16
+Frankie Starlight (1995);16
+Algiers (1938);16
+Hollow Reed (1996);16
+Minnie and Moskowitz (1971);15
+T-Men (1947);15
+Violets Are Blue... (1986);15
+Prom Night III: The Last Kiss (1989);15
+Clean Slate (Coup de Torchon) (1981);15
+Squanto: A Warrior's Tale (1994);15
+Slumber Party Massacre III, The (1990);15
+Fall (1997);15
+Saludos Amigos (1943);15
+Strangeland (1998);15
+Catfish in Black Bean Sauce (2000);15
+This World, Then the Fireworks (1996);15
+Daughters of the Dust (1992);15
+Careful (1992);15
+Reckless (1995);15
+Steam: The Turkish Bath (Hamam) (1997);15
+Brother, Can You Spare a Dime? (1975);15
+Two Thousand Maniacs! (1964);15
+Commandments (1997);15
+Nosferatu a Venezia (1986);14
+On the Ropes (1999);14
+Gabbeh (1996);14
+Swept from the Sea (1997);14
+Son of the Sheik, The (1926);14
+Land Girls, The (1998);14
+Prisoner of the Mountains (Kavkazsky Plennik) (1996);14
+Bushwhacked (1995);14
+Raw Deal (1948);14
+Stars and Bars (1988);14
+Head On (1998);14
+Rough Night in Jericho (1967);14
+Human Traffic (1999);14
+Rendezvous in Paris (Rendez-vous de Paris, Les) (1995);14
+Endurance (1998);14
+Kidnapped (1960);14
+Kika (1993);14
+Hearts and Minds (1996);14
+Star Maker, The (Uomo delle stelle, L') (1995);14
+Alice and Martin (Alice et Martin) (1998);14
+Niagara, Niagara (1997);13
+Dreaming of Joseph Lees (1998);13
+Killer (Bulletproof Heart) (1994);13
+Kissed (1996);13
+Whatever Happened to Aunt Alice? (1969);13
+Belizaire the Cajun (1986);13
+Destiny Turns on the Radio (1995);13
+Wisdom of Crocodiles, The (a.k.a. Immortality) (2000);13
+Something for Everyone (1970);13
+Lady of Burlesque (1943);13
+Land and Freedom (Tierra y libertad) (1995);13
+Mummy's Ghost, The (1944);13
+Mad Dog Time (1996);13
+New Age, The (1994);13
+Glory Daze (1996);13
+Crow: Salvation, The (2000);13
+Stiff Upper Lips (1998);13
+Welcome to Woop-Woop (1997);13
+Tic Code, The (1998);13
+Gold Diggers: The Secret of Bear Mountain (1995);13
+Naked in New York (1994);13
+In the Bleak Midwinter (1995);13
+Steal Big, Steal Little (1995);13
+Man of the Year (1995);13
+In Old California (1942);13
+Marcello Mastroianni: I Remember Yes, I Remember (1997);13
+Pie in the Sky (1995);13
+You So Crazy (1994);13
+I Love You, Don't Touch Me! (1998);13
+Office Killer (1997);13
+Wife, The (1995);12
+Julien Donkey-Boy (1999);12
+Deadtime Stories (1987);12
+Marlene Dietrich: Shadow and Light (1996);12
+Cool as Ice (1991);12
+Nobody Loves Me (Keiner liebt mich) (1994);12
+No Looking Back (1998);12
+Shattered Image (1998);12
+Jail Bait (1954);12
+Ape, The (1940);12
+Relax... It's Just Sex (1998);12
+X: The Unknown (1956);12
+Roadside Prophets (1992);12
+Big Bully (1996);12
+Tie That Binds, The (1995);12
+King in New York, A (1957);12
+Eighth Day, The (Le Huitième jour ) (1996);12
+Fear, The (1995);12
+Rich and Strange (1932);12
+All the Rage (a.k.a. It's the Rage) (1999);12
+Golden Earrings (1947);12
+New Rose Hotel (1998);12
+Jupiter's Wife (1994);12
+Reluctant Debutante, The (1958);11
+Bitter Sugar (Azucar Amargo) (1996);11
+Sour Grapes (1998);11
+They Made Me a Criminal (1939);11
+Twin Town (1997);11
+Glass Shield, The (1994);11
+Saragossa Manuscript, The (Rekopis znaleziony w Saragossie) (1965);11
+Cabaret Balkan (Bure Baruta) (1998);11
+Nekromantik (1987);11
+Blackmail (1929);11
+Margaret's Museum (1995);11
+Boys, The (1997);11
+Don't Look in the Basement! (1973);11
+Hard Core Logo (1996);11
+Woo (1998);11
+Arguing the World (1996);11
+Losing Chase (1996);11
+Incognito (1997);11
+Miss Julie (1999);11
+Firelight (1997);11
+Voyage of the Damned (1976);11
+Molly (1999);11
+Unhook the Stars (1996);11
+Adrenalin: Fear the Rush (1996);11
+Monument Ave. (1998);11
+Flying Saucer, The (1950);11
+Young and Innocent (1937);10
+Twice Upon a Yesterday (1998);10
+Gumby: The Movie (1995);10
+Devil Girl From Mars (1954);10
+City, The (1998);10
+Shooter, The (1995);10
+Gordy (1995);10
+Murder! (1930);10
+Last September, The (1999);10
+Last Resort (1994);10
+Battling Butler (1926);10
+Boys (1996);10
+Tomb of Ligeia, The (1965);10
+Go Now (1995);10
+Maybe, Maybe Not (Bewegte Mann, Der) (1994);10
+Leading Man, The (1996);10
+Passion in the Desert (1998);10
+Anatomy (Anatomie) (2000);10
+Fever Pitch (1997);10
+West Beirut (West Beyrouth) (1998);10
+My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993);10
+Man of No Importance, A (1994);10
+Nightmares (1983);10
+Time of the Gypsies (Dom za vesanje) (1989);10
+Celestial Clockwork (1994);10
+Different for Girls (1996);10
+Merry War, A (1997);10
+Bewegte Mann, Der (1994);9
+Fire Within, The (Le Feu Follet) (1963);9
+Greaser's Palace (1972);9
+Soft Fruit (1999);9
+Bootmen (2000);9
+Bandits (1997);9
+Diamonds (1999);9
+Last Dance (1996);9
+Apple, The (Sib) (1998);9
+Infinity (1996);9
+Ugly, The (1997);9
+Among Giants (1998);9
+Two Much (1996);9
+Spirits of the Dead (Tre Passi nel Delirio) (1968);9
+Falling in Love Again (1980);9
+301, 302 (1995);9
+Best Man, The (Il Testimone dello sposo) (1997);9
+On Any Sunday (1971);9
+24-hour Woman (1998);9
+Loaded (1994);9
+Last Time I Committed Suicide, The (1997);9
+Three Ages, The (1923);9
+Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train) (1998);9
+Abominable Snowman, The (1957);9
+Kim (1950);9
+Kids of the Round Table (1995);9
+Window to Paris (1994);8
+Trick or Treat (1986);8
+Killer: A Journal of Murder (1995);8
+Ed's Next Move (1996);8
+Time Masters (Les Maîtres du Temps) (1982);8
+Faithful (1996);8
+From the Journals of Jean Seberg (1995);8
+Beans of Egypt, Maine, The (1994);8
+Dog of Flanders, A (1999);8
+Saltmen of Tibet, The (1997);8
+Woman of Paris, A (1923);8
+Let's Talk About Sex (1998);8
+Savage Nights (Nuits fauves, Les) (1992);8
+Federal Hill (1994);8
+Ayn Rand: A Sense of Life (1997);8
+Little City (1998);8
+Specials, The (2000);8
+Train of Life (Train De Vie) (1998);8
+Alarmist, The (1997);8
+Blood on the Sun (1945);8
+Slaughterhouse (1987);8
+Confessional, The (Le Confessionnal) (1995);8
+Ballad of Narayama, The (Narayama Bushiko) (1958);8
+Guantanamera (1994);8
+Lamerica (1994);8
+Seventh Heaven (Le Septième ciel) (1997);8
+Taffin (1988);8
+Bat, The (1959);8
+Belly (1998);8
+Across the Sea of Time (1995);8
+So Dear to My Heart (1949);8
+Under Capricorn (1949);8
+Jamaica Inn (1939);8
+Quiet Room, The (1996);7
+Public Access (1993);7
+Pot O' Gold (1941);7
+Allnighter, The (1987);7
+Message to Love: The Isle of Wight Festival (1996);7
+Grandfather, The (El Abuelo) (1998);7
+Designated Mourner, The (1997);7
+Temptress Moon (Feng Yue) (1996);7
+Big Squeeze, The (1996);7
+Prince Valiant (1997);7
+Time Tracers (1995);7
+Slaughterhouse 2 (1988);7
+Blood, Guts, Bullets and Octane (1998);7
+See the Sea (Regarde la mer) (1997);7
+Full Tilt Boogie (1997);7
+Santa with Muscles (1996);7
+Little Boy Blue (1997);7
+Catwalk (1995);7
+Hurricane Streets (1998);7
+Stranger in the House (1997);7
+Story of Xinghua, The (1993);7
+Ripe (1996);7
+Dadetown (1995);7
+Late August, Early September (Fin août, début septembre) (1998);7
+Acid House, The (1998);7
+Eternity and a Day (Mia eoniotita ke mia mera ) (1998);7
+Turn It Up (2000);7
+Gambler, The (A Játékos) (1997);7
+Actor's Revenge, An (Yukinojo Henge) (1963);7
+Love Is the Devil (1998);7
+Carried Away (1996);7
+Last Time I Saw Paris, The (1954);6
+Pandora and the Flying Dutchman (1951);6
+Broken English (1996);6
+Oxygen (1999);6
+Big Combo, The (1955);6
+Black Tar Heroin: The Dark End of the Street (1999);6
+Sprung (1997);6
+Substance of Fire, The (1996);6
+Hav Plenty (1997);6
+Shopping (1994);6
+Suburbans, The (1999);6
+Mighty Peking Man (Hsing hsing wang) (1977);6
+Bonheur, Le (1965);6
+Sunset Strip (2000);6
+Rent-a-Kid (1995);6
+Power 98 (1995);6
+Retro Puppetmaster (1999);6
+I Love You, I Love You Not (1996);6
+Grandview, U.S.A. (1984);6
+Six of a Kind (1934);6
+On Our Merry Way (1948);6
+Walk in the Sun, A (1945);6
+Journey of August King, The (1995);6
+Original Gangstas (1996);6
+Second Jungle Book: Mowgli & Baloo, The (1997);6
+Lucie Aubrac (1997);6
+Brenda Starr (1989);6
+Snows of Kilimanjaro, The (1952);5
+Search for One-eye Jimmy, The (1996);5
+Grosse Fatigue (1994);5
+Finding North (1999);5
+24 7: Twenty Four Seven (1997);5
+Conceiving Ada (1997);5
+Color Me Blood Red (1965);5
+In the Line of Duty 2 (1987);5
+Heaven (1998);5
+Machine, The (1994);5
+Enfer, L' (1994);5
+Paris, France (1993);5
+Born American (1986);5
+City of the Living Dead (Paura nella città dei morti viventi) (1980);5
+In God's Hands (1998);5
+Dear Jesse (1997);5
+For the Moment (1994);5
+Delta of Venus (1994);5
+Stag (1997);5
+Kicked in the Head (1997);5
+Two or Three Things I Know About Her (1966);5
+Frogs for Snakes (1998);5
+Cavalcade (1933);5
+Montana (1998);5
+I Stand Alone (Seul contre tous) (1998);5
+Digging to China (1998);5
+Midaq Alley (Callejón de los milagros, El) (1995);5
+Feast of July (1995);5
+Boys Life 2 (1997);5
+Return with Honor (1998);5
+Devil Rides Out, The (1968);5
+Nénette et Boni (1996);5
+Cobra (1925);5
+Seven Chances (1925);5
+Secret Agent, The (1996);5
+Love Bewitched, A (El Amor Brujo) (1986);5
+I Can't Sleep (J'ai pas sommeil) (1994);5
+I Am Cuba (Soy Cuba/Ya Kuba) (1964);5
+Dancemaker (1998);5
+Death in the Garden (Mort en ce jardin, La) (1956);4
+Strike! (a.k.a. All I Wanna Do, The Hairy Bird) (1998);4
+Beefcake (1999);4
+Wedding Bell Blues (1996);4
+Went to Coney Island on a Mission From God... Be Back by Five (1998);4
+Rosie (1998);4
+I Got the Hook Up (1998);4
+Red Dwarf, The (Le Nain rouge) (1998);4
+Regret to Inform (1998);4
+Small Wonders (1996);4
+3 Strikes (2000);4
+Wings of Courage (1995);4
+First Love, Last Rites (1997);4
+Jerry & Tom (1998);4
+Carmen Miranda: Bananas Is My Business (1994);4
+Butterfly Kiss (1995);4
+Tigrero: A Film That Was Never Made (1994);4
+Penitentiary II (1982);4
+Cotton Mary (1999);4
+Held Up (2000);4
+Big Trees, The (1952);4
+American Strays (1996);4
+JLG/JLG - autoportrait de décembre (1994);4
+Year of the Horse (1997);4
+Simon Sez (1999);4
+Ashes of Time (1994);4
+Horror Hotel (a.k.a. The City of the Dead) (1960);4
+Late Bloomers (1996);4
+Sticky Fingers of Time, The (1997);4
+Little Men (1998);4
+Battle of the Sexes, The (1959);4
+Savior (1998);4
+Dangerous Ground (1997);4
+Two Bits (1995);4
+Friend of the Deceased, A (1997);4
+Man from Down Under, The (1943);4
+Trippin' (1999);4
+Ogre, The (Der Unhold) (1996);4
+Collectionneuse, La (1967);4
+Man of the Century (1999);4
+Babyfever (1994);4
+Phat Beach (1996);4
+Spiders, The (Die Spinnen, 1. Teil: Der Goldene See) (1919);4
+Black Sunday (La Maschera Del Demonio) (1960);4
+Brother Minister: The Assassination of Malcolm X (1994);4
+Dingo (1992);3
+Price of Glory (2000);3
+Gate of Heavenly Peace, The (1995);3
+Gay Deceivers, The (1969);3
+James Dean Story, The (1957);3
+Daughter of Dr. Jeckyll (1957);3
+Railroaded! (1947);3
+Modern Affair, A (1995);3
+Race the Sun (1996);3
+Synthetic Pleasures (1995);3
+Buck and the Preacher (1972);3
+All Things Fair (1996);3
+Possession (1981);3
+Male and Female (1919);3
+Just the Ticket (1999);3
+Santitos (1997);3
+Peanuts - Die Bank zahlt alles (1996);3
+Spring Fever USA (a.k.a. Lauderdale) (1989);3
+Brown's Requiem (1998);3
+Brothers in Trouble (1995);3
+Farmer's Wife, The (1928);3
+Bay of Blood (Reazione a catena) (1971);3
+Theodore Rex (1995);3
+It's in the Water (1998);3
+Defying Gravity (1997);3
+Sacco and Vanzetti (Sacco e Vanzetti) (1971);3
+Vampyros Lesbos (Las Vampiras) (1970);3
+Institute Benjamenta, or This Dream People Call Human Life (1995);3
+Criminal Lovers (Les Amants Criminels) (1999);3
+Country Life (1994);3
+Paris Was a Woman (1995);3
+Circus (2000);3
+Hatchet For the Honeymoon (Rosso Segno Della Follia) (1969);3
+Getting Away With Murder (1996);3
+End of the Affair, The (1955);3
+Junk Mail (1997);3
+Separation, The (La Séparation) (1994);3
+Love, etc. (1996);3
+Trans (1998);3
+Very Natural Thing, A (1974);3
+Loser (1991);3
+Carriers Are Waiting, The (Les Convoyeurs Attendent) (1999);3
+Convent, The (Convento, O) (1995);2
+1-900 (1994);2
+Wirey Spindell (1999);2
+Jeanne and the Perfect Guy (Jeanne et le garçon formidable) (1998);2
+With Friends Like These... (1998);2
+Zero Kelvin (Kjærlighetens kjøtere) (1995);2
+Yankee Zulu (1994);2
+Tough and Deadly (1995);2
+Torso (Corpi Presentano Tracce di Violenza Carnale) (1973);2
+Johnny 100 Pesos (1993);2
+Truce, The (1996);2
+Stranger, The (1994);2
+Sudden Manhattan (1996);2
+Bluebeard (1944);2
+Leather Jacket Love Story (1997);2
+Hour of the Pig, The (1993);2
+Coming Apart (1969);2
+Tokyo Fist (1995);2
+To Have, or Not (1995);2
+Broadway Damage (1997);2
+Born to Win (1971);2
+Tarantella (1995);2
+Closer You Get, The (2000);2
+Home Page (1999);2
+Talking About Sex (1994);2
+Talk of Angels (1998);2
+Venice/Venice (1992);2
+Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995);2
+It Happened Here (1961);2
+Dangerous Game (1993);2
+Sunset Park (1996);2
+Angela (1995);2
+Light Years (1988);2
+Intimate Relations (1996);2
+Living Dead Girl, The (La Morte Vivante) (1982);2
+Sunchaser, The (1996);2
+Sweet Nothing (1995);2
+I'll Never Forget What's 'is Name (1967);2
+Moonlight Murder (1936);2
+Neon Bible, The (1995);2
+Castaway Cowboy, The (1974);2
+Callejón de los milagros, El (1995);2
+Foreign Student (1994);2
+Brother's Kiss, A (1997);2
+Metisse (Café au Lait) (1993);2
+Century (1993);2
+Where's Marlowe? (1999);2
+Promise, The (Versprechen, Das) (1994);2
+Hangmen Also Die (1943);2
+Illtown (1996);2
+Impact (1949);2
+Crude Oasis, The (1995);2
+War at Home, The (1996);2
+Master Ninja I (1984);2
+Marie Baie Des Anges (1997);2
+Match, The (1999);2
+Run of the Country, The (1995);2
+Autopsy (Macchie Solari) (1975);2
+August (1996);2
+Macao (1952);2
+Everything Relative (1996);2
+Second Best (1994);2
+Mamma Roma (1962);2
+Skipped Parts (2000);2
+Slaves to the Underground (1997);2
+Six Ways to Sunday (1997);2
+Show, The (1995);2
+Blood Spattered Bride, The (La Novia Ensangrentada) (1972);2
+Eaten Alive (1976);2
+Smashing Time (1967);2
+Inheritors, The (Die Siebtelbauern) (1998);2
+Something to Sing About (1937);2
+Snowriders (1996);2
+Dry Cleaning (Nettoyage à sec) (1997);2
+Sonic Outlaws (1995);2
+Raining Stones (1993);2
+Mirage (1995);2
+Modulations (1998);2
+I, Worst of All (Yo, la peor de todas) (1990);2
+Better Living (1998);2
+Cabinet of Dr. Ramirez, The (1991);2
+Identification of a Woman (Identificazione di una donna) (1982);2
+Paralyzing Fear: The Story of Polio in America, A (1998);2
+Captives (1994);2
+Get Over It (1996);2
+Bells, The (1926);2
+Zachariah (1971);2
+Napoleon and Samantha (1972);2
+Naked Man, The (1998);2
+Little Indian, Big City (Un indien dans la ville) (1994);1
+Legal Deceit (1997);1
+Another Man's Poison (1952);1
+Dream Man (1995);1
+Live Virgin (1999);1
+Heaven's Burning (1997);1
+Alley Cats, The (1968);1
+Target (1995);1
+Tashunga (1995);1
+Kestrel's Eye (Falkens öga) (1998);1
+Telling You (1998);1
+Ten Benny (1997);1
+Terror in a Texas Town (1958);1
+Detroit 9000 (1973);1
+Ulysses (Ulisse) (1954);1
+Underworld (1997);1
+Aiqing wansui (1994);1
+Uninvited Guest, An (2000);1
+Tinseltown (1998);1
+Trois (2000);1
+Jar, The (Khomreh) (1992);1
+Joyriders, The (1999);1
+Wooden Man's Bride, The (Wu Kui) (1994);1
+With Byrd at the South Pole (1930);1
+Lay of the Land, The (1997);1
+An Unforgettable Summer (1994);1
+Superweib, Das (1996);1
+Diebinnen (1995);1
+Tainted (1998);1
+Hillbillys in a Haunted House (1967);1
+Last of the High Kings, The (a.k.a. Summer Fling) (1996);1
+Hippie Revolution, The (1996);1
+Daens (1992);1
+Juno and Paycock (1930);1
+Broken Vessels (1998);1
+Hungarian Fairy Tale, A (1987);1
+Boy Called Hate, A (1995);1
+Death in Brunswick (1991);1
+Silence of the Palace, The (Saimt el Qusur) (1994);1
+Choices (1981);1
+Eden (1997);1
+Voyage to the Beginning of the World (1997);1
+Loves of Carmen, The (1948);1
+Waltzes from Vienna (1933);1
+Waiting Game, The (2000);1
+Small Faces (1995);1
+Song of Freedom (1936);1
+Somewhere in the City (1997);1
+Soft Toilet Seats (1999);1
+Anna (1996);1
+Mascara (1999);1
+Fall Time (1995);1
+Wend Kuuni (God's Gift) (1982);1
+Happy Weekend (1996);1
+Harlem (1993);1
+Roula (1995);1
+Running Free (2000);1
+Baby, The (1973);1
+Shadows (Cienie) (1988);1
+Cheetah (1989);1
+Lured (1947);1
+Even Dwarfs Started Small (Auch Zwerge haben klein angefangen) (1971);1
+Make Them Die Slowly (Cannibal Ferox) (1980);1
+Happy Go Lovely (1951);1
+Schlafes Bruder (Brother of Sleep) (1995);1
+Scorta, La (1993);1
+Low Life, The (1994);1
+Sleepover (1995);1
+Blood and Sand (Sangre y Arena) (1989);1
+Bloody Child, The (1996);1
+Elstree Calling (1930);1
+Love Walked In (1998);1
+Lotto Land (1995);1
+Smoking/No Smoking (1993);1
+Slappy and the Stinkers (1998);1
+White Boys (1999);1
+Bittersweet Motel (2000);1
+Five Wives, Three Secretaries and Me (1998);1
+Ring, The (1927);1
+Fausto (1993);1
+McCullochs, The (1975);1
+Fantastic Night, The (La Nuit Fantastique) (1949);1
+Condition Red (1995);1
+Bye-Bye (1995);1
+Billy's Holiday (1995);1
+For Ever Mozart (1996);1
+Foolish (1999);1
+Bat Whispers, The (1930);1
+Proposition, The (1998);1
+Follow the Bitch (1998);1
+Resurrection Man (1998);1
+Back Stage (2000);1
+Rhyme & Reason (1997);1
+Chain of Fools (2000);1
+Relative Fear (1994);1
+Ménage (Tenue de soirée) (1986);1
+Frank and Ollie (1995);1
+Mutters Courage (1995);1
+Nemesis 2: Nebula (1995);1
+Full Speed (1996);1
+Beauty (1998);1
+Project Moon Base (1953);1
+Mouth to Mouth (Boca a boca) (1995);1
+Open Season (1996);1
+Never Met Picasso (1996);1
+Night Tide (1961);1
+One Man's Hero (1999);1
+Beloved/Friend (Amigo/Amado) (1999);1
+Outside Ozona (1998);1
+One Little Indian (1973);1
+Nueba Yol (1995);1
+Number Seventeen (1932);1
+Windows (1980);1
+I Don't Want to Talk About It (De eso no se habla) (1993);1
