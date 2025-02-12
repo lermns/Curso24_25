@@ -15,6 +15,7 @@ public class Servidor {
 
     public void levantarConexion(int puerto) {
         try {
+            System.out.println("Metodo levantar Conexion");
             serverSocket = new ServerSocket(puerto);
             mostrarTexto("Esperando conexión entrante en el puerto " + puerto + "...");
             socket = serverSocket.accept();
@@ -26,6 +27,7 @@ public class Servidor {
     }
     public void flujos() {
         try {
+            System.out.println("Metodo Flujos");
             bufferDeEntrada = new DataInputStream(socket.getInputStream());
             bufferDeSalida = new DataOutputStream(socket.getOutputStream());
             bufferDeSalida.flush();
@@ -38,11 +40,11 @@ public class Servidor {
     public void recibirDatos() {
         String st;
         try {
-            System.out.println("recibir datos 1");
+            System.out.println("Metodo recibir datos 1");
             do {
                 System.out.println("recibir datos 2");
                 st = bufferDeEntrada.readUTF();
-                System.out.println("post BufferRead...");
+                System.out.println("recibir datos 3");
                 mostrarTexto("\n[Cliente] => " + st);
                 System.out.print("\n[Usted] => ");
             } while (!st.equals(COMANDO_TERMINACION));
@@ -54,6 +56,7 @@ public class Servidor {
 
     public void enviar(String s) {
         try {
+            System.out.println("Metodo Enviar");
             bufferDeSalida.writeUTF(s);
             bufferDeSalida.flush();
         } catch (IOException e) {
@@ -67,6 +70,7 @@ public class Servidor {
 
     public void escribirDatos() {
         while (true) {
+            System.out.println("Metodo Escribir");
             System.out.print("[Usted] => ");
             enviar(escaner.nextLine());   
         }
@@ -89,6 +93,7 @@ public class Servidor {
         Thread hilo = new Thread(() -> {
             while (true) {
                 try {
+                    System.out.println("Metodo EjecutarConexion");
                     levantarConexion(puerto);
                     flujos();
                     recibirDatos();
@@ -98,7 +103,6 @@ public class Servidor {
                 }
             }
         });
-        System.out.println("fin ejec Conex");
         hilo.start();
 
     }

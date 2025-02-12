@@ -2,10 +2,7 @@ package org.example.Ejercicios.ejer_1;
 
 import java.io.*;
 import java.net.Socket;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.net.Socket;
 import java.util.Scanner;
 
 /**
@@ -14,11 +11,10 @@ import java.util.Scanner;
  * filtre a los alumnos que tienen mas de un 5 y que los guarde en un fichero llamado Aprobados.txt
  * y luego le mande una connfirmacion al cliente.
  */
-public class Main {
+public class Profesor {
     private Socket socketCliente;
     private DataInputStream bufferDeEntrada = null;
     private DataOutputStream bufferDeSalida = null;
-    Scanner teclado = new Scanner(System.in);
     final String COMANDO_TERMINACION = "salir()";
 
     public void levantarConexion(String ip, int puerto) {
@@ -49,6 +45,7 @@ public class Main {
         try {
             bufferDeSalida.writeUTF(s);
             bufferDeSalida.flush();
+            System.out.println("Se ha enviado:\n" + List.of(s.split("-")));
         } catch (IOException e) {
             mostrarTexto("IOException on enviar");
         }
@@ -72,6 +69,8 @@ public class Main {
             try {
                 levantarConexion(ip, puerto);
                 abrirFlujos();
+                System.out.println("Enviando notas");
+                enviar(leer());
                 recibirDatos();
             } finally {
                 cerrarConexion();
@@ -91,27 +90,29 @@ public class Main {
         } catch (IOException e) {}
     }
 
-    public void escribirDatos() {
-        String entrada;
-        while (true) {
-            System.out.print("[Usted] => ");
-            entrada = teclado.nextLine();
-            if(!entrada.isEmpty())
-                enviar(entrada);
-        }
-    }
+//    public void escribirDatos() {
+//        String entrada;
+//        while (true) {
+//            System.out.print("[Usted] => ");
+//            entrada = teclado.nextLine();
+//            if(!entrada.isEmpty())
+//                enviar(entrada);
+//        }
+//    }
     public static void main(String[] args) {
         //ArrayList<String> listaAlunmos= new ArrayList<>(List.of("Pepe 7", "Sofia 10", "Alan 5", "Juan 4", "Zara 2"));
         //escribir(listaAlunmos);
-        Servidor s = new Servidor();
+        Profesor s = new Profesor();
         Scanner sc = new Scanner(System.in);
 
-        mostrarTexto("Ingresa el puerto [5050 por defecto]: ");
+        mostrarTexto("Ingresa la IP: [localhost por defecto] ");
+        String ip = sc.nextLine();
+        if (ip.length() <= 0) ip = "localhost";
+
+        mostrarTexto("Puerto: [5050 por defecto] ");
         String puerto = sc.nextLine();
         if (puerto.length() <= 0) puerto = "5050";
-        s.ejecutarConexion(Integer.parseInt(puerto));
-        s.escribirDatos();
-        s.enviar(leer());
+        s.ejecutarConexion(ip, Integer.parseInt(puerto));
     }
 /*
     private static void escribir(ArrayList<String> listNotas){
@@ -137,8 +138,8 @@ public class Main {
             for (byte b : arryByte){
                 s.append((char)b);
             }
-            String[] sSpli = s.toString().split("-");
-            //List.of(sSpli).forEach(System.out::println);
+//            String[] sSpli = s.toString().split("-");
+//            List.of(sSpli).forEach(System.out::println);
         } catch (IOException e) {
             System.out.println("Error al escribir en el fichero...!");
         }

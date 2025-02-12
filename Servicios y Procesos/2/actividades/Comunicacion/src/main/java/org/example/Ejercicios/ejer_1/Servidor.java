@@ -1,19 +1,18 @@
 package org.example.Ejercicios.ejer_1;
 
-import java.io.DataInputStream;
-import java.io.DataOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.util.List;
 import java.util.Scanner;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Servidor {
     private Socket socket;
     private ServerSocket serverSocket;
     private DataInputStream bufferDeEntrada = null;
     private DataOutputStream bufferDeSalida = null;
-    Scanner escaner = new Scanner(System.in);
-    final String COMANDO_TERMINACION = "salir()";
 
     public void levantarConexion(int puerto) {
         try {
@@ -36,17 +35,15 @@ public class Servidor {
         }
     }
 
-    public void recibirDatos() {
+    public String recibirDatos() {
         String st = "";
         try {
-            do {
-                st = (String) bufferDeEntrada.readUTF();
+                st = bufferDeEntrada.readUTF();
                 mostrarTexto("\n[Cliente] => " + st);
-                System.out.print("\n[Usted] => ");
-            } while (!st.equals(COMANDO_TERMINACION));
         } catch (IOException e) {
             cerrarConexion();
         }
+        return st;
     }
 
 
@@ -63,11 +60,9 @@ public class Servidor {
         System.out.print(s);
     }
 
-    public void escribirDatos() {
-        while (true) {
-            System.out.print("[Usted] => ");
-            enviar(escaner.nextLine());
-        }
+    public void escribirDatos(String s) {
+        System.out.print("[Usted] => " + s);
+        enviar(s);
     }
 
     public void cerrarConexion() {
@@ -78,7 +73,7 @@ public class Servidor {
         } catch (IOException e) {
             mostrarTexto("Excepción en cerrarConexion(): " + e.getMessage());
         } finally {
-            mostrarTexto("Conversación finalizada....");
+            mostrarTexto("\nConversación finalizada....");
             System.exit(0);
         }
     }
@@ -89,7 +84,8 @@ public class Servidor {
                 try {
                     levantarConexion(puerto);
                     flujos();
-                    recibirDatos();
+                    tratamientoNotas(recibirDatos());
+                    escribirDatos("Alumnos Guardados..!");
                 } finally {
                     cerrarConexion();
                 }
@@ -105,6 +101,20 @@ public class Servidor {
         String puerto = sc.nextLine();
         if (puerto.length() <= 0) puerto = "5050";
         s.ejecutarConexion(Integer.parseInt(puerto));
-        s.escribirDatos();
+    }
+
+    private void tratamientoNotas(String notas){
+        System.out.println("\nMetodo Tratamiento notas: ");
+        String[] arryNotas = notas.split("-");
+        List<String> listNotasAprob = Stream.of(arryNotas).filter(x -> Integer.parseInt(x.split(" ")[1])>=5).toList();
+
+        try(BufferedWriter bfw = new BufferedWriter(new FileWriter("src/main/java/org/example/Ejercicios/ejer_1/aprobados.txt"))){
+            for (String s : listNotasAprob){
+                bfw.write(s);
+                bfw.newLine();
+            }
+        } catch (IOException e) {
+            System.out.println("Error al escribir en el fichero...!");
+        }
     }
 }
