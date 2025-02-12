@@ -48,9 +48,9 @@ public class Main {
             //  C) Consulta usando HQL del contenido de Tareas
             String hqlConsulta = "from Tareas";
             List<Tareas> listaTareas = s.createQuery(hqlConsulta, Tareas.class).getResultList();
-//            listaTareas.forEach(System.out::println);
-//            
-//            
+            listaTareas.forEach(System.out::println);
+            
+            
 //            //  D) guardamos las tareas con ID pedidos
 //            Tareas t1 = s.get(Tareas.class, 2);
 //            Tareas t2 = s.get(Tareas.class, 4);
@@ -67,7 +67,7 @@ public class Main {
 //            
 //            //  Imprimimos la lista que ya teniamos definida y solo cogemos las 2 tareas que queriamos
 //            listaTareas.stream().filter(x -> (x.getId()%2==0&&x.getId()<5)).forEach(System.out::println);
-            
+  
             
             //  E) Actualizamos de la misma manera pero usando HQL
 //            String hqlUpdate = "update tareas set fecha_fin=:fe, finalizada=:fin where id in (7,9)";
@@ -78,36 +78,38 @@ public class Main {
 //            int resUpdate = queryUp.executeUpdate();
 //            
 //            System.out.println("Cantidad de filas actualizadas: " + resUpdate);
-            
-            
-            //  F) Aprovechando la lista que ya teniamos usando hql, la volvemos a mostrar con los valores
-            //  que nos interesa
+//            
+//            
+//            //  F) Aprovechando la lista que ya teniamos usando hql, la volvemos a mostrar con los valores
+//            //  que nos interesa
+//            s.clear();
+//            listaTareas = s.createQuery(hqlConsulta, Tareas.class).getResultList();
 //            listaTareas.stream().filter(x -> (x.getId()==7||x.getId()==9)).forEach(System.out::println);
 
             
             //  G)  usando HQL eliminamos la terea por el id pedido por consola
-//            System.out.println("Dame el id para eliminar del registro: ");
-//            short id = new Scanner(System.in).nextShort();
-//            
-//            int existe = (int)listaTareas.stream().filter(x -> (x.getId()==id)).count();
-//            
-//            if(existe>0){
-//                String hqlDelete = "delete from tareas where id=:id";
-//                Query queryDelete = s.createSQLQuery(hqlDelete);
-//                queryDelete.setParameter("id", id);
-//                int del = queryDelete.executeUpdate();
-//                System.out.println("Filas borradas: (" + del + ")...");
-//            }else
-//                System.out.println("No existe el id introducido...!");
-//            
+            System.out.println("Dame el id para eliminar del registro: ");
+            short id = new Scanner(System.in).nextShort();
             
-            //  H)  Mostramos las tareas sin la terea borrada, algo curioso es que 
-            //  cuando hacemos actualizaciones o inserciones una misma consulta HQL nos sirve
-            //  pero cuando borramos un registro este no lo ve, por lo que lo vuevlo a definir
-            //  para cargarlo con los valores borrados.
+            int existe = (int)listaTareas.stream().filter(x -> (x.getId()==id)).count();
+            
+            if(existe>0){
+                String hqlDelete = "delete from tareas where id=:id";
+                Query queryDelete = s.createSQLQuery(hqlDelete);
+                queryDelete.setParameter("id", id);
+                int del = queryDelete.executeUpdate();
+                System.out.println("Filas borradas: (" + del + ")...");
+            }else
+                System.out.println("No existe el id introducido...!");
+            
+            
+//              H)  Mostramos las tareas sin la terea borrada, algo curioso es que 
+//              cuando hacemos actualizaciones o inserciones una misma consulta HQL nos sirve
+//              pero cuando borramos un registro este no lo ve, por lo que lo vuevlo a definir
+//              para cargarlo con los valores borrados.
 
-//            listaTareas = s.createQuery(hqlConsulta, Tareas.class).getResultList();
-//            listaTareas.forEach(System.out::println);
+            listaTareas = s.createQuery(hqlConsulta, Tareas.class).getResultList();
+            listaTareas.forEach(System.out::println);
             
             t.commit();
         }catch(HibernateException he){

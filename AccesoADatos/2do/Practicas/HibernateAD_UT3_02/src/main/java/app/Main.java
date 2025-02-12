@@ -28,9 +28,7 @@ public class Main {
             List<Object[]> productoList = s.createQuery(hqlConsulta, Object[].class).getResultList();
             
            
-            productoList.forEach(x -> System.out.println("codigo: " + x[0] + ", Nombre: " + x[1] 
-                    + ", Precio: " + x[2] + ", Codigo Fabricante: " + x[3] + 
-                    ", Fabricante: " + x[4]));
+            productoList.forEach(x -> System.out.println("Fabricante: " + x[0] + " Producto: " + x[1]));
            
             //  4)
 //            String hql = "from Producto";

@@ -21,18 +21,18 @@ public class Main {
             t = s.beginTransaction();
             
             //  Creacion Sede y Departamento
-            Sede sede = new Sede("Sevilla");
-            s.save(sede);
-            Departamento dep = new Departamento(sede, "I+D");
-            s.save(dep);
-            
-            Empleado e1 = new Empleado("111111111", dep, "Pepe");
-            Empleado e2 = new Empleado("222222222", dep, "Ana");
-            Empleado e3 = new Empleado("333333333", dep, "Fiona");
-            
-            s.save(e1);
-            s.save(e2);
-            s.save(e3);
+//            Sede sede = new Sede("Sevilla");
+//            s.save(sede);
+//            Departamento dep = new Departamento(sede, "I+D");
+//            s.save(dep);
+//            
+//            Empleado e1 = new Empleado("111111111", dep, "Pepe");
+//            Empleado e2 = new Empleado("222222222", dep, "Ana");
+//            Empleado e3 = new Empleado("333333333", dep, "Fiona");
+//            
+//            s.save(e1);
+//            s.save(e2);
+//            s.save(e3);
             
             
             /* Datos Prueba
