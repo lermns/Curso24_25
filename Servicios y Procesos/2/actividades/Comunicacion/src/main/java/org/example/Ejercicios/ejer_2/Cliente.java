@@ -25,9 +25,9 @@ public class Cliente {
         StringBuilder sb = new StringBuilder();
         try{
             while (true) {
-                sb.append(socket.getInetAddress().getHostName());
+                sb.append(socket.getInetAddress());
                 sb.append(" => ");
-                System.out.println("Cliente => ");
+                System.out.print("\nCliente => ");
                 Scanner scanner = new Scanner(System.in);
                 String linea = scanner.nextLine();
 
@@ -56,7 +56,7 @@ public class Cliente {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Cliente cliente = new Cliente();
         cliente.ejecutarCliente("127.0.0.1", 5050);
         cliente.enviar();

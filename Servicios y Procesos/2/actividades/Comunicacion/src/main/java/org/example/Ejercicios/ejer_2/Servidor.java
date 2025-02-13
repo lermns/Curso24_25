@@ -17,7 +17,7 @@ public class Servidor {
             while (true){
                 //  para coger todos los clientes que se conecten
                 Socket socket = serverSocket.accept();
-                System.out.println("Conexión establecida con: " + socket.getLocalAddress().getHostAddress() + "\n\n\n");
+                System.out.println("Conexión establecida con: " + socket.getInetAddress() + "\n\n\n");
 
                 Thread hiloExec = new Thread(new ServerExec(socket));
                 listClientes.add(hiloExec);

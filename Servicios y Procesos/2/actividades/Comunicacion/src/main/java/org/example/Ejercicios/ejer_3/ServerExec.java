@@ -1,4 +1,4 @@
-package org.example.Ejercicios.ejer_2;
+package org.example.Ejercicios.ejer_3;
 
 import java.io.*;
 import java.net.Socket;
@@ -7,6 +7,7 @@ public class ServerExec implements Runnable{
     private Socket socket;
     private DataInputStream dis;
     private DataOutputStream dos;
+    private int cont;
 
     public ServerExec(Socket socket) {
         this.socket = socket;
@@ -16,7 +17,6 @@ public class ServerExec implements Runnable{
             dos.flush();
         }catch (IOException ioe){
             System.out.println("error en el ejecutador...");
-            cerrarConexion();
         }
     }
 
@@ -24,12 +24,24 @@ public class ServerExec implements Runnable{
     public void run() {
         try {
             String datosRecibidos;
+            boolean bandera;
             do {
                 //  nos mantenemos a la escucha de mensajes entrantes del cliente para guardarlos
                 datosRecibidos = dis.readUTF();
                 System.out.println("[Cliente] " + datosRecibidos);
-                escribirFichero(datosRecibidos);
-                System.out.println("Mensaje guardado..!");
+
+                if (cont==0){
+                    bandera = verificarPasswd(datosRecibidos);
+                    if (!bandera){
+                        dos.writeUTF("err::Passwd incorrecto..!");
+                        break;
+                    }
+                    cont++;
+                    dos.writeUTF("Empieza a escribir..!");
+                }
+
+                //System.out.println("");
+
                 dos.flush();
             }while (!datosRecibidos.equals("salir()"));
         } catch (IOException e) {
@@ -39,14 +51,19 @@ public class ServerExec implements Runnable{
         }
     }
 
-    private synchronized void escribirFichero(String s){
-        try(BufferedWriter bfw = new BufferedWriter(new FileWriter("src/main/java/org/example/Ejercicios/ejer_2/passwd.txt",true))){
-            bfw.write(s);
-            bfw.newLine();
+    private synchronized boolean verificarPasswd(String s){
+        String[] strLinea = s.split("=>");
+        try(BufferedReader bfw = new BufferedReader(new FileReader("src/main/java/org/example/Ejercicios/ejer_3/psswd.txt"))){
+            String linea;
+            while ((linea=bfw.readLine())!=null){
+                if (linea.equals(strLinea[1].trim())){
+                    return true;
+                }
+            }
         }catch (IOException ioe){
             System.out.println("error al escribir en el fichero...!");
-            cerrarConexion();
         }
+        return false;
     }
 
     private void cerrarConexion() {
