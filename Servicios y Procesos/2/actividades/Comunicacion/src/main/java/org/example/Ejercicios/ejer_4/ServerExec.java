@@ -4,16 +4,19 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
-import java.util.Scanner;
 
 public class ServerExec implements Runnable {
     private Socket socket;
     private DataInputStream dis;
     private DataOutputStream dos;
+    private Server server;
+    private String name;
 
-    public ServerExec(Socket socket) {
+    public ServerExec(Socket socket, String name, Server server) {
         this.socket = socket;
         try {
+            this.name = name;
+            this.server = server;
             dis = new DataInputStream(socket.getInputStream());
             dos = new DataOutputStream(socket.getOutputStream());
             dos.flush();
@@ -24,7 +27,7 @@ public class ServerExec implements Runnable {
 
     @Override
     public void run() {
-        new Thread(this::enviar).start();
+        //new Thread(this::enviar).start();
         recibir();
     }
 
@@ -34,7 +37,15 @@ public class ServerExec implements Runnable {
             while (true) {
                 datosRecibidos = dis.readUTF();
                 System.out.println("\n[Cliente] => " + datosRecibidos);
-                System.out.print("[SERVER] => ");
+                String[] rec = datosRecibidos.split(":");
+                //  Destino:Remitente:Mensaje
+                if (rec.length==2) {
+                    datosRecibidos = rec[0] + ":" + name + ":" + rec[1];
+                    if (!server.enviarMensajeCliente(datosRecibidos)) {
+                        dos.writeUTF(rec[0] + " no existe");
+                    }
+                }else
+                    dos.writeUTF("");
             }
         } catch (IOException e) {
             System.out.println("error comunicación con cliente: " + e.getMessage());
@@ -42,7 +53,7 @@ public class ServerExec implements Runnable {
             cerrarConexion();
         }
     }
-
+/*
     public void enviar(){
         Scanner sc = new Scanner(System.in);
         try {
@@ -58,7 +69,7 @@ public class ServerExec implements Runnable {
             cerrarConexion();
         }
     }
-
+*/
     private void cerrarConexion() {
         try {
             dis.close();

@@ -47,7 +47,7 @@ public class ServerExec implements Runnable {
         }
     }
 
-    private synchronized boolean verificarPasswd(String s) {
+    private boolean verificarPasswd(String s) {
         try (BufferedReader br = new BufferedReader(new FileReader("src/main/java/org/example/Ejercicios/ejer_3/psswd.txt"))) {
             String linea;
             while ((linea = br.readLine()) != null) {

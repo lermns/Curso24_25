@@ -8,70 +8,55 @@ import java.util.Scanner;
 
 public class Cliente {
     private Socket socket;
-    private DataInputStream bis;
-    private DataOutputStream bos;
+    private DataInputStream dis;
+    private DataOutputStream dos;
 
-    private void ejecutarCliente(String ip, int puerto) {
+    private void ejecutarSocket(){
         try {
-            socket = new Socket(ip, puerto);
-            bis = new DataInputStream(socket.getInputStream());
-            bos = new DataOutputStream(socket.getOutputStream());
-            bos.flush();
-
+            socket = new Socket("localhost", 5050);
+            dis = new DataInputStream(socket.getInputStream());
+            dos = new DataOutputStream(socket.getOutputStream());
+            dos.flush();
+            enviar();
             recibir();
-            new Thread(this::enviar).start();
-        } catch (IOException e) {
-            System.out.println("Error al iniciar conexión con el servidor.");
-            cerrarConexion();
+        }catch (IOException ioe){
+            System.out.println(ioe.getMessage());
         }
     }
 
-    private void enviar() {
-        Scanner sc = new Scanner(System.in);
-        try {
-            while (true) {
-                System.out.print("[CLIENTE] => ");
-                String credenciales = sc.nextLine();
-                bos.writeUTF(credenciales);
-                bos.flush();
-            }
-        } catch (IOException e) {
-            System.out.println("Error al enviar datos: " + e.getMessage());
-        } finally {
-            cerrarConexion();
-        }
-    }
-
-    private void recibir(){
+    private void enviar(){
         new Thread(()->{
-            try {
+            while (true){
                 String s;
-                while (true) {
-                    s = bis.readUTF();
-                    System.out.println("\n[SERVER] => " + s);
-                    System.out.print("[CLIENTE] => ");
+                try {
+                    System.out.print("\n[CLIENTE] => ");
+                    s = new Scanner(System.in).nextLine();
+                    dos.writeUTF(s);
+                    dos.flush();
+                }catch (IOException ioe){
+                    System.out.println(ioe.getMessage());
                 }
-            } catch (IOException e) {
-                System.out.println("Error al enviar datos: " + e.getMessage());
-            } finally {
-                cerrarConexion();
             }
         }).start();
     }
 
-    private void cerrarConexion() {
-        try {
-            bis.close();
-            bos.close();
-            socket.close();
-            System.out.println("Conexión cerrada.");
-        } catch (IOException e) {
-            System.out.println("Error al cerrar la conexión.");
-        }
+    private void recibir(){
+        new Thread(()->{
+            String s;
+            while (true){
+                try {
+                    //System.out.print("\n[SERVIDOR] => ");
+                    s = dis.readUTF();
+                    System.out.println("\n" + s);
+                    System.out.print("\n[CLIENTE] => ");
+                }catch (IOException ioe){
+                    System.out.println(ioe.getMessage());
+                }
+            }
+        }).start();
     }
 
     public static void main(String[] args) {
-        Cliente cliente = new Cliente();
-        cliente.ejecutarCliente("127.0.0.1", 5050);
+        new Cliente().ejecutarSocket();
     }
 }

@@ -4,9 +4,7 @@ import java.net.*;
 
 public class Pruebas {
     public static void main(String[] args) throws SocketException, UnknownHostException {
-        //DatagramSocket socketServidor = new DatagramSocket();
-        InetAddress ia = InetAddress.getLocalHost();
-        String host = ia.getHostAddress();
-        System.out.println(host);
+        String s = "C1:C2:Mensaje";
+        System.out.println(s.split(":",2)[1]);
     }
 }
