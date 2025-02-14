@@ -1,13 +1,15 @@
-package org.example.Ejercicios.ejer_3;
+package org.example.Ejercicios.ejer_4;
 
-import java.io.*;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.IOException;
 import java.net.Socket;
+import java.util.Scanner;
 
 public class ServerExec implements Runnable {
     private Socket socket;
     private DataInputStream dis;
     private DataOutputStream dos;
-    private boolean autenticado = false;
 
     public ServerExec(Socket socket) {
         this.socket = socket;
@@ -22,23 +24,17 @@ public class ServerExec implements Runnable {
 
     @Override
     public void run() {
+        new Thread(this::enviar).start();
+        recibir();
+    }
+
+    private void recibir(){
         try {
             String datosRecibidos;
             while (true) {
                 datosRecibidos = dis.readUTF();
-
-                if (!autenticado) {
-                    if (verificarPasswd(datosRecibidos)) {
-                        autenticado = true;
-                        dos.writeUTF("Puede escribir.");
-                    } else {
-                        dos.writeUTF("err::passwd incorrecto");
-                        cerrarConexion();
-                        return;
-                    }
-                }
-                System.out.println("[Cliente] => " + datosRecibidos);
-                dos.flush();
+                System.out.println("\n[Cliente] => " + datosRecibidos);
+                System.out.print("[SERVER] => ");
             }
         } catch (IOException e) {
             System.out.println("error comunicación con cliente: " + e.getMessage());
@@ -47,18 +43,20 @@ public class ServerExec implements Runnable {
         }
     }
 
-    private synchronized boolean verificarPasswd(String s) {
-        try (BufferedReader br = new BufferedReader(new FileReader("src/main/java/org/example/Ejercicios/ejer_3/psswd.txt"))) {
-            String linea;
-            while ((linea = br.readLine()) != null) {
-                if (linea.equals(s)) {
-                    return true;
-                }
+    public void enviar(){
+        Scanner sc = new Scanner(System.in);
+        try {
+            while (true) {
+                System.out.print("[SERVER] => ");
+                String credenciales = sc.nextLine();
+                dos.writeUTF(credenciales);
+                dos.flush();
             }
-        } catch (IOException ioe) {
-            System.out.println("error verificar Passwd");
+        } catch (IOException e) {
+            System.out.println("Error al enviar datos: " + e.getMessage());
+        } finally {
+            cerrarConexion();
         }
-        return false;
     }
 
     private void cerrarConexion() {

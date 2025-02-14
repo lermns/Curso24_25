@@ -1,8 +1,7 @@
-package org.example.Ejercicios.ejer_3;
+package org.example.Ejercicios.PruebaPropia;
 
 import java.io.IOException;
-import java.net.ServerSocket;
-import java.net.Socket;
+import java.net.*;
 import java.util.ArrayList;
 
 public class Servidor {
@@ -22,7 +21,7 @@ public class Servidor {
                 Thread hiloExec = new Thread(new ServerExec(socket));
                 hiloExec.start();
                 listClientes.add(hiloExec);
-                listClientes.forEach(x -> System.out.println(x.getName()));
+                //listClientes.forEach(x -> System.out.println(x.getName()));
             }
         }catch (IOException ioe){
             System.out.println("error al iniciar el servidor...");
@@ -31,8 +30,6 @@ public class Servidor {
     }
 
     public static void main(String[] args) {
-        int puerto = 5050;
-        Servidor servidor = new Servidor();
-        servidor.ejecutarServidor(puerto);
+        new Servidor().ejecutarServidor(5050);
     }
 }

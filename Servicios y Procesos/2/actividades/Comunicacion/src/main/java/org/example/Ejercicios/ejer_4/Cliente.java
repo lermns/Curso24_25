@@ -1,6 +1,8 @@
-package org.example.Ejercicios.ejer_3;
+package org.example.Ejercicios.ejer_4;
 
-import java.io.*;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
 
@@ -15,6 +17,9 @@ public class Cliente {
             bis = new DataInputStream(socket.getInputStream());
             bos = new DataOutputStream(socket.getOutputStream());
             bos.flush();
+
+            recibir();
+            new Thread(this::enviar).start();
         } catch (IOException e) {
             System.out.println("Error al iniciar conexión con el servidor.");
             cerrarConexion();
@@ -24,30 +29,10 @@ public class Cliente {
     private void enviar() {
         Scanner sc = new Scanner(System.in);
         try {
-            System.out.print("Contraseña => ");
-            String credenciales = sc.nextLine();
-            bos.writeUTF(credenciales);
-            bos.flush();
-
-            // Esperamos la respuesta del servidor
-            String respuesta = bis.readUTF();
-            System.out.println("[Servidor] " + respuesta);
-
-            if (respuesta.startsWith("err::")) {
-                cerrarConexion();
-                return;
-            }
-
             while (true) {
-                System.out.print("\nMensaje => ");
-                String mensaje = sc.nextLine();
-
-                if (mensaje.equals("fin()")) {
-                    cerrarConexion();
-                    break;
-                }
-
-                bos.writeUTF(mensaje);
+                System.out.print("[CLIENTE] => ");
+                String credenciales = sc.nextLine();
+                bos.writeUTF(credenciales);
                 bos.flush();
             }
         } catch (IOException e) {
@@ -55,6 +40,23 @@ public class Cliente {
         } finally {
             cerrarConexion();
         }
+    }
+
+    private void recibir(){
+        new Thread(()->{
+            try {
+                String s;
+                while (true) {
+                    s = bis.readUTF();
+                    System.out.println("\n[SERVER] => " + s);
+                    System.out.print("[CLIENTE] => ");
+                }
+            } catch (IOException e) {
+                System.out.println("Error al enviar datos: " + e.getMessage());
+            } finally {
+                cerrarConexion();
+            }
+        }).start();
     }
 
     private void cerrarConexion() {
@@ -71,6 +73,5 @@ public class Cliente {
     public static void main(String[] args) {
         Cliente cliente = new Cliente();
         cliente.ejecutarCliente("127.0.0.1", 5050);
-        cliente.enviar();
     }
 }
