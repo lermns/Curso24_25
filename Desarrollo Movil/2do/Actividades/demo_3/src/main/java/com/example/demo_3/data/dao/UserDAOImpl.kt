@@ -1,14 +1,14 @@
-package com.example.demo_2.data.dao
+package com.example.demo_3.data.dao
 
 import android.content.ContentValues
 import android.database.sqlite.SQLiteOpenHelper
 import android.util.Log
 import android.view.View
-import com.example.demo_2.UserSQLiteHelper
-import com.example.demo_2.model.User
+import com.example.demo_3.UserSQLiteHelper
+import com.example.demo_3.model.User
 import com.google.android.material.snackbar.Snackbar
 
-class UserDAOImpl(private val view: View, private val dbHelper: SQLiteOpenHelper): UserDAO {
+class UserDAOImpl(private val view: View, private val dbHelper: SQLiteOpenHelper):UserDAO {
 
     override fun insertarUser(user: User) {
         val db = dbHelper.writableDatabase

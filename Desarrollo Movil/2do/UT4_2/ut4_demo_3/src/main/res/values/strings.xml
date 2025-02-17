@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">ut4_demo_3</string>
-    <string name="nombre">Nombre</string>
-    <string name="tel_fono">Teléfono</string>
-    <string name="correo">Correo</string>
-    <string name="cancelar">CANCELAR</string>
-    <string name="aceptar">ACEPTAR</string>
-    <string name="mostrar_toast">MOSTRAR TOAST</string>
-</resources>

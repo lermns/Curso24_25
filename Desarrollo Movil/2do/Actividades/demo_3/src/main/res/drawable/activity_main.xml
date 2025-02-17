@@ -44,16 +44,16 @@
         app:layout_constraintVertical_bias="0.055">
 
         <EditText
-            android:id="@+id/editTextTextID"
+            android:id="@+id/editTextText1"
             android:layout_width="250dp"
-            android:layout_height="wrap_content"
+            android:layout_height="30dp"
             android:ems="10"
             android:inputType="text"
             tools:layout_editor_absoluteX="53dp"
             tools:layout_editor_absoluteY="489dp" />
 
         <EditText
-            android:id="@+id/editTextTextName"
+            android:id="@+id/editTextText2"
             android:layout_width="250dp"
             android:layout_height="60dp"
             android:ems="10"
@@ -62,7 +62,7 @@
             tools:layout_editor_absoluteY="489dp" />
 
         <EditText
-            android:id="@+id/editTextTextEmail"
+            android:id="@+id/editTextText3"
             android:layout_width="250dp"
             android:layout_height="55dp"
             android:ems="10"
@@ -72,83 +72,84 @@
     </LinearLayout>
 
     <LinearLayout
-        android:id="@+id/linearLayout"
         android:layout_width="393dp"
         android:layout_height="58dp"
-        android:layout_marginTop="245dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.032">
+        app:layout_constraintVertical_bias="0.286">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonInsertar"
+            android:id="@+id/button1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#7653CA"
             android:text="@string/ins"
+            android:backgroundTint="#7653CA"
             android:textColor="@color/white"
             tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonAct"
+            android:id="@+id/button2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#7653CA"
             android:text="@string/act"
-            android:textColor="@color/white"
-            tools:layout_editor_absoluteX="86dp"
-            tools:layout_editor_absoluteY="565dp" />
-
-        <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonConsultar"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
             android:backgroundTint="#7653CA"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:text="@string/cons"
+            android:backgroundTint="#7653CA"
             android:textColor="@color/white"
             tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonDelete"
+            android:id="@+id/button4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#D32F2F"
             android:text="@string/del"
+            android:backgroundTint="#D32F2F"
             android:textColor="@color/white"
             tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buttonLimpiar"
+            android:id="@+id/button5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:drawableStart="@drawable/baseline_restore_from_trash_24"
-            tools:layout_editor_absoluteX="86dp"
+            android:drawableStart="@drawable/baseline_restore_from_trash_24"            tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="565dp" />
     </LinearLayout>
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+    <ScrollView
+        android:layout_width="368dp"
+        android:layout_height="348dp"
+        android:layout_marginBottom="240dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
         app:layout_constraintStart_toStartOf="parent">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="380dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
-    </LinearLayout>
+            <TextView
+                android:id="@+id/editTextText6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tabla_vac_a"
+                tools:layout_editor_absoluteX="53dp"
+                tools:layout_editor_absoluteY="489dp" />
+        </LinearLayout>
+    </ScrollView>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

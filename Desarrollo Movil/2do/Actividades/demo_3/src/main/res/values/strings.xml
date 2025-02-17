@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">demo_3</string>
-    <string name="id">ID</string>
-    <string name="nombre">Nombre</string>
-    <string name="email">Email</string>
-    <string name="del">DEL</string>
-    <string name="cons">CONS</string>
-    <string name="act">ACT</string>
-    <string name="ins">INS</string>
-    <string name="tabla_vac_a">Tabla vacía</string>
+    <string name="app_name">demo_2</string>
+    <string name="id">id</string>
+    <string name="nombre">nombre</string>
+    <string name="email">email</string>
+    <string name="ins">ins</string>
+    <string name="act">act</string>
+    <string name="cons">cons</string>
+    <string name="del">del</string>
+    <string name="tabla_vac_a">tabla_vac_a</string>
 </resources>

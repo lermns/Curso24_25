@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ut4_demo_4_dialog</string>
-    <string name="mostrar_toast">MOSTRAR TOAST</string>
-    <string name="mostrar_snackbar">MOSTRAR SNACKBAR</string>
-    <string name="mostrar_snackbar_con_acci_n">MOSTRAR SNACKBAR CON ACCIÓN</string>
-</resources>
