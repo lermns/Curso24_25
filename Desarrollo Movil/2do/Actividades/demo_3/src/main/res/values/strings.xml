@@ -8,4 +8,5 @@
     <string name="cons">cons</string>
     <string name="del">del</string>
     <string name="tabla_vac_a">tabla_vac_a</string>
+    <string name="la_lista_esta_vacia">La lista esta vacia</string>
 </resources>

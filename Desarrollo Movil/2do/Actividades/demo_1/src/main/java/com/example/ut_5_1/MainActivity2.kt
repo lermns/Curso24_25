@@ -11,7 +11,7 @@ class MainActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMain2Binding.inflate(layoutInflater)
 
-        //  Leemos las preferencias
+        //  Creamos la variable que almacenara las preferencias
         val prefs = getSharedPreferences("MisPrefs", Context.MODE_PRIVATE)
 
         binding.switch1.isChecked = prefs.getBoolean("oscuro", false)
@@ -27,7 +27,5 @@ class MainActivity2 : AppCompatActivity() {
             prefss.apply()
             finish()
         }
-
-
     }
 }

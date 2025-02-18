@@ -31,46 +31,46 @@ public class Main {
             productoList.forEach(x -> System.out.println("Fabricante: " + x[0] + " Producto: " + x[1]));
            
             //  4)
-//            String hql = "from Producto";
-//            List<Producto> listProducto = s.createQuery(hql, Producto.class).getResultList();
-//            System.out.println("********************** LISTA DE TODOS LOS PRODUCTOS **********************");
-//            listProducto.forEach(System.out::println);
-//            
-//            System.out.println("Dame el nombre del fabricante: ");
-//            String fabr = new Scanner(System.in).nextLine();
-//            
-//            int existe = (int)s.createQuery("from Fabricante", Fabricante.class)
-//                    .getResultList().stream().filter(x -> x.getNombre().equals(fabr.toUpperCase())).count();
-//            
-//            if(existe>0){
-//                String hqlUpdate = "update producto set precio=precio*1.1 \n" +
-//                                    "where codigo_fabricante in (select codigo " + 
-//                                    "from fabricante where nombre=:nom);";
-//                Query queryUpdate = s.createSQLQuery(hqlUpdate);
-//                queryUpdate.setParameter("nom", fabr.toUpperCase());
-//                
-//                int cant = queryUpdate.executeUpdate();
-//                System.out.println("Cantidad de filas afectadas " + cant);
-//            }else{
-//                System.out.println("El proveedor no existe en la base de datos");
-//                System.exit(0);
-//            }
-//            
-//            System.out.println("********************** LISTA DE TODOS LOS PRODUCTOS ACTUALIZADOS **********************");
-//            s.clear();
-//            listProducto = s.createQuery(hql, Producto.class).getResultList();
-//            listProducto.forEach(System.out::println);
-//            
-//                //  6) Elimina todos los productos que contengan 'monitor' 
-//                //  en este ejemplo seran los que contengan una 0
-//                String hqlDelete = "delete from producto where nombre like '%o%'";
-//                Query queryDelete = s.createSQLQuery(hqlDelete);
-//                int cantDel = queryDelete.executeUpdate();
-//                System.out.println("Cantidad de productos borrados: " + cantDel);
-//                s.clear();
-//                listProducto = s.createQuery(hql, Producto.class).getResultList();
-//                listProducto.forEach(System.out::println);
-//            
+            String hql = "from Producto";
+            List<Producto> listProducto = s.createQuery(hql, Producto.class).getResultList();
+            System.out.println("********************** LISTA DE TODOS LOS PRODUCTOS **********************");
+            listProducto.forEach(System.out::println);
+
+            System.out.println("Dame el nombre del fabricante: ");
+            String fabr = new Scanner(System.in).nextLine();
+            
+            int existe = (int)s.createQuery("from Fabricante", Fabricante.class)
+                    .getResultList().stream().filter(x -> x.getNombre().equals(fabr.toUpperCase())).count();
+            
+            if(existe>0){
+                String hqlUpdate = "update producto set precio=precio*1.1 \n" +
+                                    "where codigo_fabricante in (select codigo " + 
+                                    "from fabricante where nombre=:nom);";
+                Query queryUpdate = s.createSQLQuery(hqlUpdate);
+                queryUpdate.setParameter("nom", fabr.toUpperCase());
+                
+                int cant = queryUpdate.executeUpdate();
+                System.out.println("Cantidad de filas afectadas " + cant);
+            }else{
+                System.out.println("El proveedor no existe en la base de datos");
+                System.exit(0);
+            }
+            
+            System.out.println("********************** LISTA DE TODOS LOS PRODUCTOS ACTUALIZADOS **********************");
+            s.clear();
+            listProducto = s.createQuery(hql, Producto.class).getResultList();
+            listProducto.forEach(System.out::println);
+            
+                //  6) Elimina todos los productos que contengan 'monitor' 
+                //  en este ejemplo seran los que contengan una 0
+                String hqlDelete = "delete from producto where nombre like '%o%'";
+                Query queryDelete = s.createSQLQuery(hqlDelete);
+                int cantDel = queryDelete.executeUpdate();
+                System.out.println("Cantidad de productos borrados: " + cantDel);
+                s.clear();
+                listProducto = s.createQuery(hql, Producto.class).getResultList();
+                listProducto.forEach(System.out::println);
+            
             t.commit();
         }catch(HibernateException he){
             System.err.println("Error Hibernate: " + he.getMessage());

@@ -8,4 +8,5 @@ interface UserDAO {
     fun leerUsers(): List<User>
     fun actualizarUser(user: User)
     fun borrarUser(id: Int)
+    fun borrarTodoUsers()
 }

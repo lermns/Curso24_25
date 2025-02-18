@@ -119,6 +119,16 @@ class UserDAOImpl(private val view: View, private val dbHelper: SQLiteOpenHelper
         }
     }
 
+    override fun borrarTodoUsers(){
+        val db = dbHelper.writableDatabase
+        val filasBorradas = db.delete(UserSQLiteHelper.TABLE_NAME, null, null)
+        if(filasBorradas==0){
+            Snackbar.make(view, "No se han borrado usuarios", Snackbar.LENGTH_LONG).show()
+        }else{
+            Snackbar.make(view, "$filasBorradas usuarios borrado", Snackbar.LENGTH_LONG).show()
+        }
+    }
+
     private fun comprobarId(id :Int?): Boolean{
         val db = dbHelper.readableDatabase
         val sql = "select * from ${UserSQLiteHelper.TABLE_NAME} where ${UserSQLiteHelper.COLUMN_ID} = ?"
