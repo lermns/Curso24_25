@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 19-feb-2025 10:36:02 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="orm.Socios" table="socios" catalog="gimnasioExamen4" optimistic-lock="version">
+        <id name="idSocio" type="java.lang.Integer">
+            <column name="id_socio" />
+            <generator class="identity" />
+        </id>
+        <many-to-one name="formaPago" class="orm.FormaPago" fetch="select">
+            <column name="id_pago" not-null="true" />
+        </many-to-one>
+        <many-to-one name="planes" class="orm.Planes" fetch="select">
+            <column name="id_plan" not-null="true" />
+        </many-to-one>
+        <property name="apeSocio" type="string">
+            <column name="ape_socio" length="15" not-null="true" />
+        </property>
+        <property name="cuotaCli" type="float">
+            <column name="cuota_cli" precision="12" scale="0" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

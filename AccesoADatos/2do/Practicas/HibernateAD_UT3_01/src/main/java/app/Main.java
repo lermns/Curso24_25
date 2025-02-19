@@ -28,21 +28,21 @@ public class Main {
             
             
             //  A) agregamos las 5 tareas usando hibernate
-//            date = cal.getTime();           
-//            for(int i=1; i<6; i++){
-//                s.save(new Tareas("Tarea"+i, new Date(), date, false));
-//            }
+            date = cal.getTime();           
+            for(int i=1; i<6; i++){
+                s.save(new Tareas("Tarea"+i, new Date(), date, false));
+            }
 
             
             //  B) HQL para agregar los valores de una tabla definida con la misma 
-            //  estructura que la principal
-//            String hql = "insert into tareas (id, descripcion, fecha_inicio, fecha_fin, \n" +
-//                     "finalizada) select v.id, v.descripcion, v.fecha_inicio, \n" +
-//                     "v.fecha_fin, v.finalizada from tareasValues v";
-//            
-//            Query query = s.createSQLQuery(hql);
-//            int cant = query.executeUpdate();
-//            System.out.println("Cantidad de tareas agregada: " + cant);
+            // estructura que la principal
+            String hql = "insert into tareas (id, descripcion, fecha_inicio, fecha_fin, \n" +
+                     "finalizada) select v.id, v.descripcion, v.fecha_inicio, \n" +
+                     "v.fecha_fin, v.finalizada from tareasValues v";
+            
+            Query query = s.createSQLQuery(hql);
+            int cant = query.executeUpdate();
+            System.out.println("Cantidad de tareas agregada: " + cant);
 
             
             //  C) Consulta usando HQL del contenido de Tareas
@@ -51,40 +51,40 @@ public class Main {
             listaTareas.forEach(System.out::println);
             
             
-//            //  D) guardamos las tareas con ID pedidos
-//            Tareas t1 = s.get(Tareas.class, 2);
-//            Tareas t2 = s.get(Tareas.class, 4);
-//            
-//            //  contamos la cantidad de tareas que podremos actualizar
-//            int contAct = actualizarTarea(t1);
-//            contAct += actualizarTarea(t2);
-//            
-//            //  Las actualizamos
-//            s.update(t1);
-//            s.update(t2);
-//            
-//            System.out.println("Filas Actualizadas: " + contAct);
-//            
-//            //  Imprimimos la lista que ya teniamos definida y solo cogemos las 2 tareas que queriamos
-//            listaTareas.stream().filter(x -> (x.getId()%2==0&&x.getId()<5)).forEach(System.out::println);
+            //  D) guardamos las tareas con ID pedidos
+            Tareas t1 = s.get(Tareas.class, 2);
+            Tareas t2 = s.get(Tareas.class, 4);
+            
+            //  contamos la cantidad de tareas que podremos actualizar
+            int contAct = actualizarTarea(t1);
+            contAct += actualizarTarea(t2);
+            
+            //  Las actualizamos
+            s.update(t1);
+            s.update(t2);
+            
+            System.out.println("Filas Actualizadas: " + contAct);
+            
+            //  Imprimimos la lista que ya teniamos definida y solo cogemos las 2 tareas que queriamos
+            listaTareas.stream().filter(x -> (x.getId()%2==0&&x.getId()<5)).forEach(System.out::println);
   
             
             //  E) Actualizamos de la misma manera pero usando HQL
-//            String hqlUpdate = "update tareas set fecha_fin=:fe, finalizada=:fin where id in (7,9)";
-//            Query queryUp = s.createSQLQuery(hqlUpdate);
-//            queryUp.setParameter("fe", new Date());
-//            queryUp.setParameter("fin", true);
-//            
-//            int resUpdate = queryUp.executeUpdate();
-//            
-//            System.out.println("Cantidad de filas actualizadas: " + resUpdate);
-//            
-//            
-//            //  F) Aprovechando la lista que ya teniamos usando hql, la volvemos a mostrar con los valores
-//            //  que nos interesa
-//            s.clear();
-//            listaTareas = s.createQuery(hqlConsulta, Tareas.class).getResultList();
-//            listaTareas.stream().filter(x -> (x.getId()==7||x.getId()==9)).forEach(System.out::println);
+            String hqlUpdate = "update tareas set fecha_fin=:fe, finalizada=:fin where id in (7,9)";
+            Query queryUp = s.createSQLQuery(hqlUpdate);
+            queryUp.setParameter("fe", new Date());
+            queryUp.setParameter("fin", true);
+            
+            int resUpdate = queryUp.executeUpdate();
+            
+            System.out.println("Cantidad de filas actualizadas: " + resUpdate);
+            
+            
+            //  F) Aprovechando la lista que ya teniamos usando hql, la volvemos a mostrar con los valores
+            //  que nos interesa
+            s.clear();
+            listaTareas = s.createQuery(hqlConsulta, Tareas.class).getResultList();
+            listaTareas.stream().filter(x -> (x.getId()==7||x.getId()==9)).forEach(System.out::println);
 
             
             //  G)  usando HQL eliminamos la terea por el id pedido por consola
