@@ -27,7 +27,6 @@ public class ServerExec implements Runnable {
 
     @Override
     public void run() {
-        //new Thread(this::enviar).start();
         recibir();
     }
 
@@ -46,6 +45,7 @@ public class ServerExec implements Runnable {
                     }
                 }else
                     dos.writeUTF("");
+                dos.flush();
             }
         } catch (IOException e) {
             System.out.println("error comunicación con cliente: " + e.getMessage());
@@ -53,23 +53,7 @@ public class ServerExec implements Runnable {
             cerrarConexion();
         }
     }
-/*
-    public void enviar(){
-        Scanner sc = new Scanner(System.in);
-        try {
-            while (true) {
-                System.out.print("[SERVER] => ");
-                String credenciales = sc.nextLine();
-                dos.writeUTF(credenciales);
-                dos.flush();
-            }
-        } catch (IOException e) {
-            System.out.println("Error al enviar datos: " + e.getMessage());
-        } finally {
-            cerrarConexion();
-        }
-    }
-*/
+
     private void cerrarConexion() {
         try {
             dis.close();
