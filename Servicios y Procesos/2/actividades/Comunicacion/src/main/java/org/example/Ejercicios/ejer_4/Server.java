@@ -1,5 +1,6 @@
 package org.example.Ejercicios.ejer_4;
 
+import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
@@ -9,32 +10,55 @@ import java.util.TreeMap;
 public class Server {
     private ServerSocket serverSocket;
     private TreeMap<String, DataOutputStream> listClientes;
+    private static int cont=1;
 
     private void ejecutarServidor(){
         try{
             serverSocket = new ServerSocket(5050);
             System.out.println("Esperando conexion con el servidor en el puerto 5050...");
             listClientes = new TreeMap<>();
-            int cont=1;
 
             while (true){
                 Socket socket = serverSocket.accept();
                 String s = "C"+cont++;
                 System.out.println("Conexión establecida con: " + s + "\n\n\n");
-                Thread hiloCliente = new Thread(new ServerExec(socket, s, this));
                 listClientes.put(s, new DataOutputStream(socket.getOutputStream()));
-                hiloCliente.start();
+                new Thread(()->{
+                    recibir(socket, s);
+                }).start();
             }
         }catch (IOException ioe){
             System.out.println(ioe.getMessage());
         }
     }
 
-    public TreeMap<String, DataOutputStream> getListClientes() {
-        return listClientes;
+    private void recibir(Socket sock, String name){
+        String datosRecibidos;
+        DataInputStream dis;
+        DataOutputStream dos;
+        try {
+            dis = new DataInputStream(sock.getInputStream());
+            dos = new DataOutputStream(sock.getOutputStream());
+            while (true) {
+                datosRecibidos = dis.readUTF();
+                System.out.println("\n[Cliente] => " + datosRecibidos);
+                String[] rec = datosRecibidos.split(":");
+                //  Destino:Remitente:Mensaje
+                if (rec.length==2) {
+                    datosRecibidos = rec[0] + ":" + name + ":" + rec[1];
+                    if (!enviarMensajeCliente(datosRecibidos)) {
+                        dos.writeUTF(rec[0] + " no existe");
+                    }
+                }else
+                    dos.writeUTF("Formato no  válido.");
+                dos.flush();
+            }
+        } catch (IOException e) {
+            System.out.println("error comunicación con cliente: " + e.getMessage());
+        }
     }
 
-    public boolean enviarMensajeCliente(String s){
+    private boolean enviarMensajeCliente(String s){
         DataOutputStream dos = listClientes.get(s.split(":")[0]);
         if (dos!=null){
             try {
@@ -47,6 +71,8 @@ public class Server {
         }
         return false;
     }
+
+
 
     public static void main(String[] args) {
         new Server().ejecutarServidor();
