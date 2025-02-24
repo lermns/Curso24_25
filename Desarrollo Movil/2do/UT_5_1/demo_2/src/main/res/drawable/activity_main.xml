@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="66dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="28dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.055">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/id" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/nombre" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/email" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="242dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="104dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.055">
+
+        <EditText
+            android:id="@+id/editTextText1"
+            android:layout_width="250dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="489dp" />
+
+        <EditText
+            android:id="@+id/editTextText2"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:ems="10"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="489dp" />
+
+        <EditText
+            android:id="@+id/editTextText3"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:ems="10"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="489dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="393dp"
+        android:layout_height="58dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.286">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ins"
+            android:backgroundTint="#7653CA"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/act"
+            android:backgroundTint="#7653CA"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cons"
+            android:backgroundTint="#7653CA"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/del"
+            android:backgroundTint="#D32F2F"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/baseline_restore_from_trash_24"            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="368dp"
+        android:layout_height="348dp"
+        android:layout_marginBottom="240dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/editTextText6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tabla_vac_a"
+                tools:layout_editor_absoluteX="53dp"
+                tools:layout_editor_absoluteY="489dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

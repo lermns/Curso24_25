@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="66dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="28dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.055">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/id" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/nombre" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/email" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="242dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="104dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.055">
+
+        <EditText
+            android:id="@+id/editTextTextID"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="489dp" />
+
+        <EditText
+            android:id="@+id/editTextTextName"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:ems="10"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="489dp" />
+
+        <EditText
+            android:id="@+id/editTextTextEmail"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:ems="10"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="489dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="393dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="245dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.032">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buttonInsertar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#7653CA"
+            android:text="@string/ins"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buttonAct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#7653CA"
+            android:text="@string/act"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buttonConsultar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#7653CA"
+            android:text="@string/cons"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buttonDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#D32F2F"
+            android:text="@string/del"
+            android:textColor="@color/white"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buttonLimpiar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/baseline_restore_from_trash_24"
+            tools:layout_editor_absoluteX="86dp"
+            tools:layout_editor_absoluteY="565dp" />
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="348dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+    <TextView
+        android:id="@+id/tvListaVacia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="180dp"
+        android:text="@string/la_lista_esta_vacia"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
