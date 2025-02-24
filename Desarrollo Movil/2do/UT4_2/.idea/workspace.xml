@@ -48,7 +48,193 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="559e13f1-c738-4a36-9332-f3c31d7edabf" name="Changes" comment="" />
+    <list default="true" id="559e13f1-c738-4a36-9332-f3c31d7edabf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../UT5_actividad5_1/app/src/main/java/com/example/ut5_actividad5_1/UserSQLiteHelper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UT5_actividad5_1/app/src/main/java/com/example/ut5_actividad5_1/adapters/UserAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UT5_actividad5_1/app/src/main/java/com/example/ut5_actividad5_1/adapters/UserViewHolder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UT5_actividad5_1/app/src/main/java/com/example/ut5_actividad5_1/dao/UserDAO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UT5_actividad5_1/app/src/main/java/com/example/ut5_actividad5_1/dao/UserDAOImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UT5_actividad5_1/app/src/main/java/com/example/ut5_actividad5_1/model/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UT5_actividad5_1/app/src/main/res/drawable/baseline_restore_from_trash_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/androidTest/java/com/example/ut_5_1/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/java/com/example/ut_5_1/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/java/com/example/ut_5_1/MainActivity2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_1/src/test/java/com/example/ut_5_1/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/androidTest/java/com/example/demo_3/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/java/com/example/demo_2/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/java/com/example/demo_2/UserSQLiteHelper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/java/com/example/demo_2/data/dao/UserDAO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/java/com/example/demo_2/data/dao/UserDAOImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/java/com/example/demo_2/model/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/drawable/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/drawable/baseline_restore_from_trash_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_2/src/test/java/com/example/demo_3/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/androidTest/java/com/example/demo_3/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/java/com/example/demo_3/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/java/com/example/demo_3/UserSQLiteHelper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/java/com/example/demo_3/adapters/UserAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/java/com/example/demo_3/adapters/UserViewHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/java/com/example/demo_3/data/dao/UserDAO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/java/com/example/demo_3/data/dao/UserDAOImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/java/com/example/demo_3/model/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/drawable/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/drawable/baseline_restore_from_trash_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/layout/listitem_user.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/test/java/com/example/demo_3/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/androidTest/java/com/example/minicalculadora/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/java/com/example/minicalculadora/CheckBox.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/java/com/example/minicalculadora/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/java/com/example/minicalculadora/RadioButton.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/java/com/example/minicalculadora/Spinner.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/baseline_arrow_drop_down_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/baseline_check_box_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/baseline_exposure_plus_1_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/baseline_exposure_plus_2_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/baseline_extension_off_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/baseline_filter_tilt_shift_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/buton_style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/icon_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/mas_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/drawable/menos_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/layout/activity_check_box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/layout/activity_radio_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/layout/activity_spinner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/app/src/test/java/com/example/minicalculadora/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../actividadesDM/settings.gradle.kts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +259,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -83,26 +269,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
-    &quot;Android App.ut4_demo_3.executor&quot;: &quot;Run&quot;,
-    &quot;Android App.ut4_demo_4_dialog.executor&quot;: &quot;Run&quot;,
-    &quot;Android App.ut4_demo_menu.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/pedro.rambar/Desktop/Curso24_25/Desarrollo Movil/1er/practica/PMDM_ramosL_1aEval&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "Android App.ut4_demo_3.executor": "Run",
+    "Android App.ut4_demo_4_dialog.executor": "Run",
+    "Android App.ut4_demo_menu.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/git/Curso/Curso24_25/Desarrollo Movil/2do/UT4_2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="android.template.-1040903585">
       <recent name="com.example.ut4_demo_3" />
@@ -176,9 +362,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="ut4_demo_3" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="UT4_2.ut4_demo_3.main" />
@@ -243,9 +427,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="ut4_demo_4" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="UT4_2.ut4_demo_4.main" />
@@ -310,9 +492,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="ut4_demo_4_dialog" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="UT4_2.ut4_demo_4_dialog.main" />
@@ -377,9 +557,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="ut4_demo_4_dialogos" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="UT4_2.ut4_demo_4_dialogos.main" />
@@ -444,9 +622,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="ut4_demo_menu" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="UT4_2.ut4_demo_menu.main" />
@@ -511,9 +687,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
