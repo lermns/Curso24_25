@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RamosL_pmdm_examen_2aEval</string>
+    <string name="consultar_por_nombre">CONSULTAR POR NOMBRE</string>
+    <string name="consultar_todos">CONSULTAR TODOS</string>
+    <string name="insertar">INSERTAR</string>
+    <string name="borrar_por_id">BORRAR POR ID</string>
+    <string name="listado_de_mascotas">LISTADO DE MASCOTAS</string>
+    <string name="id_mascota">ID mascota</string>
+    <string name="nombre_mascota">*Nombre mascota</string>
+    <string name="tipo_perro_gato_lagarto">*Tipo (Perro, Gato, Lagarto,...)</string>
+
+    <string-array name="operaciones">
+        <item>*Seleccione macho/hembra...</item>
+        <item>macho</item>
+        <item>hembra</item>
+    </string-array>
+</resources>

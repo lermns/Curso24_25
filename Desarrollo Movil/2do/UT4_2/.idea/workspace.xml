@@ -48,7 +48,24 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="559e13f1-c738-4a36-9332-f3c31d7edabf" name="Changes" comment="" />
+    <list default="true" id="559e13f1-c738-4a36-9332-f3c31d7edabf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/java/com/example/ramosl_pmdm_examen_2aeval/dao/MascotaDAO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/java/com/example/ramosl_pmdm_examen_2aeval/dao/MascotaDAOImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/drawable/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/drawable/spinner_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamosL_pmdm_examen_2aEval/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1er/practica/UT3_Desarrollo_Android/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1er/practica/UT3_Desarrollo_Android/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1er/practica/UT3_Desarrollo_Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1er/practica/UT3_Desarrollo_Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades/demo_3/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Actividades/demo_3/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +90,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -97,7 +114,7 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/pedro.rambar/Desktop/Curso24_25/Desarrollo Movil/1er/practica/PMDM_ramosL_1aEval&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/pedro.rambar/Desktop/Curso24_25/Desarrollo Movil/2do/UT4_2&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;

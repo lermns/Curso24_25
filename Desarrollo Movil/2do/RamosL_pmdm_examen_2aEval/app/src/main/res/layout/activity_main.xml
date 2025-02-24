@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background"
+    >
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="350dp"
+        android:layout_height="380dp"
+        android:layout_marginTop="96dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <EditText
+            android:id="@+id/idMascota"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/white"
+            android:hint="@string/id_mascota" />
+
+        <EditText
+            android:id="@+id/nombreMascota"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/white"
+            android:hint="@string/nombre_mascota"
+            android:paddingStart="10dp" />
+
+        <EditText
+            android:id="@+id/tipoMascota"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/white"
+            android:hint="@string/tipo_perro_gato_lagarto"
+            android:paddingStart="10dp" />
+
+        <Spinner
+            android:id="@+id/spinnerMascota"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/spinner_background"
+            android:entries="@array/operaciones" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="424dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnConsNombre"
+            android:layout_width="160dp"
+            android:layout_height="60dp"
+            android:drawableStart="@drawable/baseline_zoom_in_24"
+            android:text="@string/consultar_por_nombre" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnConsTodos"
+            android:layout_width="160dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="25dp"
+            android:drawableStart="@drawable/baseline_zoom_in_24"
+            android:text="@string/consultar_todos" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="496dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnInsertar"
+            android:layout_width="160dp"
+            android:layout_height="60dp"
+            android:drawableStart="@drawable/baseline_add_circle_outline_24"
+            android:text="@string/insertar" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnBorrarPorID"
+            android:layout_width="160dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="25dp"
+            android:drawableStart="@drawable/baseline_restore_from_trash_24"
+            android:text="@string/borrar_por_id" />
+    </LinearLayout>
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:titleTextColor="@color/white" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
