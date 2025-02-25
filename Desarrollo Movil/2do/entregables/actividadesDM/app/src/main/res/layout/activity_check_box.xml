@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CheckBox">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:title="Mini Calculadora"
+        app:titleTextColor="@color/white"
+        android:backgroundTint="#673AB7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/operando1"
+        style="?attr/textInputFilledStyle"
+        android:layout_width="329dp"
+        android:layout_height="101dp"
+        android:layout_marginTop="208dp"
+        android:layout_marginEnd="32dp"
+        android:hint="@string/operando_1"
+        app:counterEnabled="true"
+        app:counterMaxLength="4"
+        app:endIconMode="clear_text"
+        app:errorEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:helperText="*Obligatorio"
+        app:startIconDrawable="@drawable/baseline_exposure_plus_1_24"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/operando1_1"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:gravity="center" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/operando2"
+        style="?attr/textInputFilledStyle"
+        android:layout_width="329dp"
+        android:layout_height="101dp"
+        android:layout_marginTop="356dp"
+        android:layout_marginEnd="32dp"
+        android:hint="@string/operando_2"
+        app:counterEnabled="true"
+        app:counterMaxLength="4"
+        app:helperText="*Obligatorio"
+        app:endIconMode="clear_text"
+        app:errorEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:startIconDrawable="@drawable/baseline_extension_off_24"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/operando2_2"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:gravity="center"
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <CheckBox
+        android:id="@+id/checkBoxRest"
+        android:layout_width="75dp"
+        android:layout_height="42dp"
+        android:text="@string/restar"
+        app:layout_constraintEnd_toEndOf="@+id/checkBoxSum"
+        app:layout_constraintStart_toStartOf="@+id/checkBoxSum"
+        app:layout_constraintTop_toBottomOf="@+id/checkBoxSum" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="236dp"
+        android:background="@drawable/buton_style"
+        android:backgroundTint="#A24DDF"
+        android:onClick="onBtnCalcularClicked"
+        android:text="@string/calcular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.467"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="128dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="172dp"
+        android:text="@string/resulatado"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.176"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <CheckBox
+        android:id="@+id/checkBoxSum"
+        android:layout_width="wrap_content"
+        android:layout_height="33dp"
+        android:layout_marginTop="524dp"
+        android:text="@string/sumar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.174"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
