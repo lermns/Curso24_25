@@ -42,3 +42,39 @@ df_3 = df_3.pivot_table(index=['movie_id', 'title'], values=['rating'], aggfunc=
 print ('Columns(movie_id + title) to Index and specific functios by values \n%s' % df_3[:5])
 
 # valores del 1992 que tengan una media de mas de 4 en rating
+# agrupar por peliculas
+# peliculas mas votadas por mujeres
+# media de esas peliculas votadas por muejeres
+
+df_4 = mergeRatings.copy()
+df_4 = df_4.pivot_table(index=['movie_id', 'title'], values=['rating'], aggfunc=[np.size], columns=['gender'])
+print ('Columns(movie_id + title) to Index and specific functios by values \n%s' % df_4[:25])
+
+#print(df_4[('size','rating','F')])
+
+df_4_filtrado = df_4[('size','rating','F')] > df_4[('size','rating','M')]
+
+print(df_4_filtrado[('size','rating', 'F')].head(25))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

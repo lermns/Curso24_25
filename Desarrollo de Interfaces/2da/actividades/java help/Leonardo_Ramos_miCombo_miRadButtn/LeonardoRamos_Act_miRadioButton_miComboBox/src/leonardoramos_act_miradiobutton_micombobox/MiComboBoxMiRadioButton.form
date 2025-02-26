@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="miRadioButton1" pref="100" max="32767" attributes="0"/>
+                  <Component id="miRadioButton3" pref="0" max="32767" attributes="0"/>
+                  <Component id="miRadioButton2" pref="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace pref="171" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="miCombo1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="miCombo2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="miCombo3" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="miRadioButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="miCombo1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="miRadioButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="miCombo2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="miCombo3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="miRadioButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="36" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="leonardoramos_act_miradiobutton_micombobox.MiRadioButton" name="miRadioButton1">
+    </Component>
+    <Component class="leonardoramos_act_miradiobutton_micombobox.MiRadioButton" name="miRadioButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Opcion y"/>
+      </Properties>
+    </Component>
+    <Component class="leonardoramos_act_miradiobutton_micombobox.MiRadioButton" name="miRadioButton3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Opcion z"/>
+      </Properties>
+    </Component>
+    <Component class="leonardoramos_act_miradiobutton_micombobox.MiCombo" name="miCombo1">
+      <Properties>
+        <Property name="tipoCombo" type="java.lang.String" value="MESES"/>
+      </Properties>
+      <Events>
+        <EventHandler event="propertyChange" listener="java.beans.PropertyChangeListener" parameters="java.beans.PropertyChangeEvent" handler="miCombo1PropertyChange"/>
+      </Events>
+    </Component>
+    <Component class="leonardoramos_act_miradiobutton_micombobox.MiCombo" name="miCombo2">
+      <Properties>
+        <Property name="tipoCombo" type="java.lang.String" value="DIASSEMANA"/>
+      </Properties>
+    </Component>
+    <Component class="leonardoramos_act_miradiobutton_micombobox.MiCombo" name="miCombo3">
+      <Properties>
+        <Property name="tipoCombo" type="java.lang.String" value="NUMEROS"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
