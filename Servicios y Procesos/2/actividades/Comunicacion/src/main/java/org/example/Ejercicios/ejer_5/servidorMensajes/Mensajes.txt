@@ -1,0 +1,6 @@
+C1		 Thu Feb 27 12:04:56 CET 2025 -> soy 1
+C1		 Thu Feb 27 12:05:00 CET 2025 -> sigo siendo 1
+C2		 Thu Feb 27 12:05:03 CET 2025 -> soy 2
+C2		 Thu Feb 27 12:05:07 CET 2025 -> sigo siendo 
+C2		 Thu Feb 27 12:05:08 CET 2025 -> 2
+C2		 Thu Feb 27 12:05:10 CET 2025 -> xd

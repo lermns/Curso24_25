@@ -1,0 +1,4 @@
+C2 Thu Feb 27 12:21:32 CET 2025::
+		 src\main\java\nsajes\Mensajes.txt (El sistema no puede encontrar la ruta especificada)
+C2 Thu Feb 27 12:21:41 CET 2025::
+		 src\main\java\nsajes\Mensajes.txt (El sistema no puede encontrar la ruta especificada)

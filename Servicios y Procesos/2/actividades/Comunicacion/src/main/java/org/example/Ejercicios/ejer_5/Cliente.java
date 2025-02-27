@@ -2,6 +2,7 @@ package org.example.Ejercicios.ejer_5;
 
 import java.io.*;
 import java.net.Socket;
+import java.util.Date;
 import java.util.Scanner;
 
 public class Cliente {
@@ -9,12 +10,9 @@ public class Cliente {
     private DataInputStream dis;
     private DataOutputStream dos;
     private static final File fichero =  new File("src/main/java/org/example/Ejercicios/ejer_5/ClienteErrores");
-    private static int cont=1;
-    private String name;
 
     private void ejecutarSocket(){
         try {
-            name += "C"+cont++;
             socket = new Socket("localhost", 5050);
             dis = new DataInputStream(socket.getInputStream());
             dos = new DataOutputStream(socket.getOutputStream());
@@ -48,6 +46,7 @@ public class Cliente {
             while (true){
                 try {
                     s = dis.readUTF();
+                    s = tratarResp(s);
                     System.out.println("\n" + s);
                     System.out.print("\n[CLIENTE] => ");
                 }catch (IOException ioe){
@@ -57,24 +56,32 @@ public class Cliente {
         }).start();
     }
 
-    private boolean escribirMensaje(String s){
+    private synchronized void escribirMensaje(String s, String name){
         File FicheroCliente = new File(fichero + File.separator + name + ".txt");
-        if (!FicheroCliente.exists()){
-            try {
-                FicheroCliente.createNewFile();
-            } catch (IOException e) {
-                System.out.println("Problema al crear el fichero...!");
-                return false;
+
+        try {
+            if (FicheroCliente.createNewFile()){
+                System.out.println("Se ha creado el fichero.");
             }
+        } catch (IOException e) {
+            System.out.println("Problema al crear el fichero...!");
         }
 
         try(FileWriter pr = new FileWriter(FicheroCliente, true)){
-            pr.write(name + "::\n\t\t " + s);
-            return true;
+            pr.write(name + " " + new Date() + "::\n\t\t " + s + "\n");
         }catch (IOException e){
             System.out.println("Problema al escribir en el fichero... " + e.getMessage());
         }
-        return false;
+    }
+
+    private String tratarResp(String s){
+        if (!s.contains("::")){
+            return s;
+        }
+        String[] resumenCont = s.split("::");
+        escribirMensaje(resumenCont[2], resumenCont[0]);
+
+        return resumenCont[1];
     }
 
     public static void main(String[] args) {

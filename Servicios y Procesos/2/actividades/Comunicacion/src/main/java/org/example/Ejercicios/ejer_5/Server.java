@@ -8,7 +8,9 @@ import java.util.Date;
 public class Server {
     private ServerSocket serverSocket;
     private static int cont=1;
-    private static final File fichero =  new File("src/main/java/org/example/Ejercicios/ejer_5/servidorMensajes/Mensajes.txt");
+    private static final File fichero =  new File("src/main/java//nsajes/Mensajes.txt");
+    //  src/main/java/org/example/Ejercicios/ejer_5/servidorMensajes/Mensajes.txt
+    private String name="";
 
     private void ejecutarServidor(){
         try{
@@ -17,10 +19,10 @@ public class Server {
 
             while (true){
                 Socket socket = serverSocket.accept();
-                String s = "C"+cont++;
-                System.out.println("Conexión establecida con: " + s + "\n\n\n");
+                name = "C"+cont++;
+                System.out.println("Conexión establecida con: " + name + "\n\n\n");
                 new Thread(()->{
-                    recibir(socket, s);
+                    recibir(socket, name);
                 }).start();
             }
         }catch (IOException ioe){
@@ -39,34 +41,33 @@ public class Server {
                 sb.append(dis.readUTF());
                 System.out.println("\n[Cliente-" + name + "] => " + sb);
                 sb.insert(0, new Date() + " -> ");
-                if(escribirMensaje(sb.toString(), name)){
-                    dos.writeUTF("OK");
-                }else
-                    System.out.println("Problema al escribir en el fichero");
+                dos.writeUTF(escribirMensaje(sb.toString(), name));
                 dos.flush();
+                sb.setLength(0);
             }
         } catch (IOException e) {
             System.out.println("error comunicación con cliente: " + e.getMessage());
         }
     }
 
-    private boolean escribirMensaje(String s, String name){
-        if (!fichero.exists()){
-            try {
-                fichero.createNewFile();
-            } catch (IOException e) {
-                System.out.println("Problema al crear el fichero...!");
-                return false;
+    private synchronized String escribirMensaje(String s, String name){
+        String mensjConf;
+        try {
+            if (fichero.createNewFile()){
+                System.out.println("Fichero creado");
             }
+        } catch (IOException e) {
+            System.out.println("Problema al crear el fichero...!");
         }
 
         try(FileWriter pr = new FileWriter(fichero, true)){
-            pr.write(name + "::\n\t\t " + s);
-            return true;
+            pr.write(name + "\t\t " + s + "\n");
+            return "OK";
         }catch (IOException e){
-            System.out.println("Problema al escribir en el fichero... " + e.getMessage());
+            System.out.println("Problema al escribir en el fichero... ");
+            mensjConf=name+"::KO::"+e.getMessage();
         }
-        return false;
+        return mensjConf;
     }
 
 
